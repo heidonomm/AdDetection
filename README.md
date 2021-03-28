@@ -1,18 +1,26 @@
 # Ad Detection from Podcast transcripts
 
-Ad Detection model that takes builds a context of previous **K** sentences, where each sentence is represented by the mean of each of its word embeddings.
+Ad Detection model that takes builds a context of previous **K** sentences, where each sentence is represented with the mean of each of its word embeddings. The context and the sentence being classified are concatenated to form a 50-dimensional sample.
 The problem is treated as a binary classification problem, IOB-encoding is changed to just (0/1)).
 
-Due to the small amounts of
+### Requirements to run
 
-Necessary packages: `numpy`, `sklearn`
+Necessary packages: `numpy`, `sklearn`  
+Glove 25-dimensinonal embeddings. Run in project root - `wget http://nlp.stanford.edu/data/glove.twitter.27B.zip && unzip glove.twitter.27B.zip && mv ./glove.twitter.27B/glove.twitter.27B.25d.txt .`
 
 ## Metrics
 
-Ad detection's purpose should be to keep the amount False Positives down, as a high number of the latter would mean filtering out actual podcast content.
-A case could be made for precision being the most important metric, as a low precision score means a high number of False Positives and that actual podcast content gets filtered out.
+Ad detection's purpose should be to keep the amount False Positives down, as a high number of the latter would mean filtering out actual podcast content. Thus precision is a key metric to follow. A Linear Regression model achieves a precision score of ~ 63%. Recall on the otherhand is ~17%.
+
+In addition the the confidence with which the model labels the data should be taken into account. An additional metric to implement would be the models ability to correctly label full chunks of ads.
 
 ### Results
+
+- Average precision of ~ 63%
+- Average recall of 17%
+- Average confidence for TP ~ 70%
+- Average confidence for FN ~ 18%
+- Average confidence for FP ~ 73%
 
 ## Possible Improvements
 
