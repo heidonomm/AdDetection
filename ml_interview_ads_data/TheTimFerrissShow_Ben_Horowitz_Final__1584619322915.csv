@@ -1,0 +1,852 @@
+O,"At this altitude , I can run flat out for a half mile before my hands start shaking ."
+O,Can I ask you a personal question ?
+O,Now it is .
+O,"What it's like to be a cybernetic organism living this show would never impose on me , so ."
+B-AD,This episode of the Tim Ferriss shows brought to you by athletic greens .
+I-AD,I get us all the time .
+I-AD,"If I could only take one supplement , what would it be ?"
+I-AD,The answer is inevitably athletic greens .
+I-AD,I view it as and a lot of you now view it as all in one nutritional insurance .
+I-AD,"I recommended it way back in 2010 in the for our body , and I did not get paid to do so ."
+I-AD,"I've been using it since before that , and I used it a lot of different ways ."
+I-AD,I travel with it to avoid getting sick or to help mitigate the likelihood of getting sick .
+I-AD,I take it in the morning to ensure optimal performance and overall it covers my bases if I can't get what I need from whole food meals throughout the rest of the day .
+I-AD,And if you want to give athletic greens a try .
+I-AD,They're offering a free 20 count travel pack for first time users .
+I-AD,I nearly always travel with at least three or four of these one dose bags .
+I-AD,"In other words , if you buy athletic greens as a first time buyer , you now get for a limited time and extra $79 in free product ."
+I-AD,So check out the details at Athletic Greens dot com forward slash Tim .
+E-AD,"Again , that's athletic greens dot com forward slash Tim for your free travel pack with any purchase ."
+B-AD,"This episode is brought to you by LinkedIn's Hello Monday , hello , Monday is a podcast , hello Monday with Jessi Hempel is back for Season 2 and the show is full of advice , practical tactical advice that you can start using today ."
+I-AD,"Each week , Jesse sits down with featured guests to investigate the role workplace in their lives , how it can be integrated into your life , and how to make work work for you better ."
+I-AD,"This season , one of the first episodes is with Jerry Colonna , who's been called the CEO whisperer ."
+I-AD,I've actually done quite a bit of work with Jerry and he is one of the world's most in-demand executive coaches amongst the startup ecosystem .
+I-AD,"In the episode , Jerry shares his perch to meetings , explains how to ask good , open ended questions , and he also goes through his approach to daily journaling , among other things ."
+I-AD,And journaling can really create an incredible competitive advantage and also act as an emotional rebalancing tool of sorts .
+I-AD,"So I recommend taking a look at it , giving a listen more accurately ."
+I-AD,So whether you're starting your first job or gearing up for retirement .
+I-AD,Hello Monday helps you tackle Monday and the rest of the workweek with tactics and strategies that you can use to check it out .
+I-AD,Find Help Monday with Jessi Hempel .
+I-AD,That's GISS SS i h e mpl bings .
+E-AD,Look up hello Monday on Aberle podcast or wherever you listen to podcasts .
+O,"Well , hello , boys and girls , this is Tim Ferriss ."
+O,And welcome to another episode of the Tim Ferriss Show .
+O,"It is my job every episode to attempt to deconstruct world class performers of all different types , to tease out the routines , favorite books , habits and so on that you may apply to your own life ."
+O,My guest this episode is Ben Horowitz .
+O,You can find him on Twitter at B .
+O,Horowitz H0 R O W EITI Z .
+O,Ben is a co-founder and general partner at the venture capital firm Andreesen Horowitz .
+O,"He is the author of The New York Times best seller The Hard Thing About Hard Things and the brand new Harvard Business book , What You Do Is Who You Are ."
+O,He also created the A16 Z Cultural Leadership Fund .
+O,Few are wondering what A16 Zee stands for .
+O,Just count the number of letters between the beginning and the end of entries and Horowitz .
+O,So he created the A16 Z Cultural Leadership Fund to connect cultural leaders to the best new technology companies and enable more young African-Americans to enter the technology industry .
+O,"Prior to A16 Z , that's Andreessen Horowitz ."
+O,"Ben was co-founder and CEO of Opsware , formerly known as Loudcloud , which was acquired by Hewlett Packard for 1.6 billion dollars in 2007 ."
+O,"Previously , Ben ran several product divisions at Netscape Communications , including the widely acclaimed directory and security product line ."
+O,He has an M.S. MBA in computer science from UCLA and Columbia University respectively .
+O,"So without further ado , please enjoy this wide-ranging conversation with the one and only Ben Horowitz ."
+O,"Ben , welcome to the show ."
+O,"Thanks , Tim ."
+O,Very excited to be here .
+O,And I have so many questions .
+O,I have pages and pages of questions .
+O,We'll try to get to as many as possible .
+O,"I thought I would start with a name that I know you're familiar with , and that is Andy Grove ."
+O,"That may not be a name that all people know , but could you please describe who Andy is , why he's interesting to you ?"
+O,Yeah .
+O,"So Andy was kind of one of the founders of Intel , which is kind of the foundational company of Silicon Valley ."
+O,"If there was any and foundational not only technologically but also culturally , I think importantly and just an amazing guy probably , you know , for my money , the best CEO we ever had out here ."
+O,"But , you know , he started his life ."
+O,"He was a refugee from Hungary , from World War Two ."
+O,"And , you know , he had to escape the Nazis and then the communists and kind of came over on a boat ."
+O,"And with I forgot , they gave him like twenty seven dollars when he got to New York and he taught himself English and he kind of went to school at CCNY and became a physicist and then , you know , eventually met up with Bob Noyce ."
+O,"He actually told me a very funny story towards the end of his life where Gordon Moore , who is , you know , famous Moore's Law founder , also a co-founder of Intel ."
+O,"When they brought Andy in to Fairchild Semiconductor , the way they picked him out and he told me his very life , he said he finished his p._h._d at Berkeley in two and a half years and they and Gordon Moore had found that people have finished their p._h._d ."
+O,Quickly correlate with high performers .
+O,So that's how you got the job ?
+O,"Well , that's a perfect jumping off point for about a half a dozen things that I was meaning to get to anyway ."
+O,But let's I'll I'll try to ratchet back my like my caffeine enthusiasm and focus on Andy for a bit longer .
+O,High output management .
+O,"You wrote the foreword to reprint of that book , which when I lived in Silicon Valley , I was able to observe the the rebirth of sort of the resurgence of this book and its popularity ."
+O,And I know some incredible founders who have stacks of this book in their office just to give away .
+O,Why did you agree or offer to write the forward ?
+O,And what are some of the takeaways that people might find in that book are that you found a particular value ?
+O,"Yeah , well , you know , it was my favorite management book by far ."
+O,"In fact , I think it might have been the only management book that I ever read that I liked ."
+O,"So it was , you know , quite a thing for me when Andy called me and he said , Ben , you know , I was watching you give this talk at Stanford ."
+O,"And , you know , in the talk , I was talking about my book , my first book , The Hard Thing About Hard Things ."
+O,And somebody asked me why I wrote it .
+O,"And I said , well , you know , when I was a kid , I read this book , hired good management ."
+O,"And it was amazing because as the CEO of Intel , which is like the most important company in technology ."
+O,"And he wrote this book and it wasn't like , you know , say how great he was early get to like all these books that these guys write who , you know , run big companies and how like they'd here's when I learned the value of a dollar and then Mrs when I'd be built a great big company and all this kind of thing they say ."
+O,But it was a book to teach like young people like myself how to manage .
+O,"So it's just a complete contribution back to the environment with really , you know , in a way nothing in it for him ."
+O,"And you know , I always when I reading that book , I said , well , if I ever make and if I ever kind of become anybody that anybody wants to listen to , I'm going to write the sequel to High Output Management ."
+O,"And that was I tried to do that with the hard thing about hard things when he called me , you know ?"
+O,"There was no question I was like 100 percent , I'll write the forward ."
+O,"But the reason it was such a great book is it was kind of the original hard thing about hard things in that most management books are like , here's all the obvious easy stuff ."
+O,And here's like a light .
+O,"Random steps to do the most easiest thing in the world that anybody could figure out , like who , you know , wasn't like an idiot ."
+O,"But Andy Grove was like he went all the way , like , right to the worst TARDIS , most messed up things that you'd have to do ."
+O,"So , like , you know , one of the things I remember from the book is he goes , well , hey , like you're writing performance review ."
+O,And the rule of thumb is you never put anything in a performance review that you haven't already told the employee .
+O,Right .
+O,"And really , I guess that's the rule ."
+O,That's what we do .
+O,"And he's like , OK , so now you're at the performance review and there's something that the employee needs to improve that you haven't told them ."
+O,What do you do ?
+O,"And it's like , OK ."
+O,Said that's a real life thing .
+O,"And he's like , you put in the review or do you not put it in the review ?"
+O,"And , you know , his thing is you got to put in the review ."
+O,"And like , it's bad they didn't tell him ."
+O,But it's worse to not tell him now .
+O,"And , you know , and those kinds of difficult decisions like , you know , how you really do that or like , you know , it's like , OK , you know , people are late to meetings ."
+O,"You know , they're ."
+O,"Everybody's times are stealing money from the company , like , but like it's very awkward to deal with them and so how do you deal with my man ?"
+O,"And that kind of thing , which is really what you need to know to put any of these management techniques into effect is like , how do you do it when there is real conflict ?"
+O,"And , you know , that's why it's such a just just an amazing book ."
+O,You mentioned the the coming to meetings late .
+O,"And then in one of your blog posts , you have some of have some fantastic blog posts and excellent writing , both , of course , on the Web in this case and then in the books ."
+O,"But you share an anecdote that begins with , for example , we could talk about sort of wartime versus peacetime CEOs ."
+O,But a basic principle in most management books is that you should never embarrass an employee in a public setting .
+O,"But Andy Grove , in the situation that you just mentioned once said to an employee who entered a meeting late , quote , All I have in this world this time and you're wasting my time through my fear and work ."
+O,"Well , will you have to realize when he said that , like he was like God ."
+O,So it's like God is God vengeful and like you're I'm doing .
+O,And so it's like God telling you that you're wasting time .
+O,"So I suppose the the first question that I'd like to ask and we may end up getting into the wartime first peacetime CEO differentiation , but what occurs to me is that he has he has a scientific background is in engineering and physics background ."
+O,You also have a computer science background .
+O,How do you think about management ?
+O,What is it ?
+O,"This is a very broad question , but do you think about management differently than many people would seem to be that the answer is yes ."
+O,"Also , just based on the observation you had about most management books , which I would agree with ."
+O,"How is your experience , your life experience , maybe including computer science informed how you approach or think about management ?"
+O,"Well , I think it's you know , it's an interesting combination because there's a part of an engineering background that's extremely helpful , which is , you know , can you think about systems and can you think about like how wide broad scale systems interactions occur and like what the implications are ?"
+O,"And then there's a different part , which is a very kind of , I would say , high IQ component , which is in order to make that system work , you have to be able to see the company through the eyes of the people who are doing the work , which are usually the people are not in the room when you're making the decision and you have to understand how it's going to affect them , how it's going to change their behavior and so forth ."
+O,"You know , just so as an example of that , like , you know , it's easy ."
+O,"Like if somebody comes to you and they say , you know , Ben , I really deserve a raise , and you could go , OK , well , you know , like I like you and I want you to like me ."
+O,So I give you that raise .
+O,"But you have to think about , you know , if you're at it at all , you go , OK , well ."
+O,How will it look to the people who are not here ?
+O,Is that fair ?
+O,Have they gotten a chance at it ?
+O,"Is this person just getting the raise because he came into my office or I like , you know , does he really deserve it ?"
+O,So do I have a systematic process to evaluate talent and allocate the money that we have ?
+O,Or do I run it like that because I'm not really thinking about it from everybody else's perspective .
+O,And so you kind of end up needing both to be good at it .
+O,"And I think , you know , kind of going back to ."
+O,"And he screaming at that employee , that that's kind of a little bit in the balance ."
+O,Right .
+O,"Because , you know , that employee is definitely going to be like ashamed and horrified and maybe demotivated by him , publicly embarrassing him ."
+O,"But in that instance , what he was doing was something different , which was he was setting the culture and saying , look , culturally , fundamentally , like I'm going to teach everybody in this company a lesson by saying something that's so powerful and so colorful that it's going to spread like wildfire through my company ."
+O,And everybody's gonna know that it's not OK to waste people's time by being late for a meeting .
+O,And that's more important in this case than the individual .
+O,"So it gets you know , it's kind of a Confucian approach to the good of the individual must be sacrificed for the good of the whole ."
+O,And you have to do that as CEO from time to time .
+O,"Now , you don't want to do it gratuitously because that is definitely going to hurt somebodys feelings ."
+O,"So , you know , and maybe that's a great employee or whatever ."
+O,"But you do , you know , particularly if the culture is in place and they're kind of willfully ignoring the culture , which I , you know , I believe is the case in this case ."
+O,Then you have to kind of value the system and value that above that person's feelings .
+O,And these are kind of the tradeoffs that you make .
+O,Management .
+O,And that's why it is complicated to get it right .
+O,And why .
+O,"Like , it's not you know , it's always like broken down in management books are often it's like you're talking to one person at a time and that's never the case ."
+O,You're always talk to everybody .
+O,"If this is a useful distinction , I'd love for you to define the two terms for us or the differences between two terms ."
+O,That is management and leadership .
+O,How do you how do you distinguish between those two ?
+O,I know it seems like a stupid question .
+O,"Maybe , but yeah ."
+O,But if I'd love for you to .
+O,"If you're able to just comment on that for a second or if it's a bad question , we can move on ."
+O,"I mean , I think a lot of leadership is or the way I think about it ."
+O,"And , you know , then they're kind of , you know , work ."
+O,"You know , my own dictionary of it is , you know , leadership ."
+O,There's kind of a is a lot of getting is the art of kind of getting people to follow you .
+O,"And as Colin Powell said , you know , if only out of curiosity ."
+O,"And I think so that that involves kind of , you know , having a vision and being able to articulate it , being inspiring , making , you know , creating a feeling among people that you that you care about them in a way and you care about , you know , their goals and objectives ."
+O,And you know what they want out of life .
+O,"And people want to follow people who have , you know , some number of those attributes ."
+O,"Management gets more into , OK , you have this great vision you've articulated ."
+O,Everybody likes it .
+O,"But like , how do you operationalize that ?"
+O,How do you kind of break it down into its steps ?
+O,How do you make sure that people who need to communicate are communicating in these kinds of things ?
+O,"So it's kind of , you know , leader , a lot of leadership is , you know , knowing what to do ."
+O,Getting people to follow you .
+O,"And then , you know , management involves getting people to do what you know ."
+O,And that's a kind of little bit of a different part of your brain .
+O,It's your leadership's a little more on the creative side .
+O,"Management's , you know , it requires a little more discipline and systemas position ."
+O,"On the on the on the former in the case of leadership , getting people to follow you , if only out of curiosity ."
+O,And then this may or may not be a fit .
+O,"But in the course of doing research for this conversation , I came across mention of a paper called Good Product Manager , Bad Product ."
+O,I wrote that when I was a little kid .
+O,Yeah .
+O,"And it it seems like at least the way it was phrased in this fortune piece , it b it quote became a Bible for the startups in this case , referring to Netscape , to the startups , unpolished young executives ."
+O,"Could you describe it , that paper and what impact it had on you and or the people around you when it came out ?"
+O,Yeah .
+O,"So , you know , it's funny is that it was a piece I wrote out of pure frustration ."
+O,"So it turns out like product manager is a weird job in Silicon Valley in that in every single company it means something different , you know ."
+O,And so like what you do is that doesn't really translate well from one company to the next .
+O,And many companies have just bad product management functions .
+O,"And so , you know , the people that I kind of inherited when I got the job to run the team all had these like different and differing and weird views on what the job was ."
+O,"And I you know , I always found myself like yelling at them , going like , does that make any sense to you , that kind of thing , you know , like I was like at that level of frustration ."
+O,"And then , you know , one day is just like , you know , I have to ."
+O,Train like the team on what I want .
+O,"And I was like , but I don't have time to put a training program together ."
+O,So I sat down .
+O,"I just wrote this document , good product manager , bad product manager , and I am a fan ."
+O,"I had my , you know , head of us like ."
+O,And it's a bad thought .
+O,"But it was like , this is gonna be like dog training , you know , like bad ."
+O,Bad dog bad .
+O,And so that's where the name came from .
+O,"But it was really just , you know , like like this is what good product managers do and this is what bad product managers do ."
+O,And just like let's just be clear on that .
+O,"So , like , you know , you can anticipate what I'm going to say if you do something bad ."
+O,And we don't have to have that conversation all the time .
+O,And so that that's all it started out to be .
+O,"And then what happened was kind of , as you know , as you said , is like people valued just getting that information so much that not only did my team use it , but then everybody at Netscape started using it ."
+O,"And then like , you know , a huge number of people , you know , product managers in Silicon Valley still refer to that thing , which I wrote , nineteen ninety five ."
+O,"And what it taught me was like everybody , no matter how smart they are , no matter like they went to Stanford or Harvard or whatever , they can always use training in the job that you want them to do because the job that you need them to do is one , these jobs are very complex and they , you know and they're different ."
+O,And and a lot of it is .
+O,What do you expect as a manager ?
+O,"And so if your manager doesn't train your people , you probably I can't imagine you're a good at your job just because there's no way they're gonna be able to read your mind on everything ."
+O,"So I'd like to talk about more lessons learned and that I'm going to Segway from that into you , how you might teach others , because in a lot of ways you do teach others ."
+O,Let's let's chat about Bill Campbell .
+O,"And Bill Campbell has come up once before on this podcast when I had a conversation with Eric Schmidt , legendary figure known through out the valley as coach , has has advised people like Jeff Bezos , Steve Jobs and so on ."
+O,Could you share what your relationship was like with Bill and what some of the things or any of the things that you that you really absorbed from Bill ?
+O,Yeah .
+O,"So , you know , I mean , he was just such a great help to me as CEO and a lot of it was just , you know , being able to have a conversation with somebody who knew what I was talking about and and who knew what they were talking about ."
+O,"You know , at the same time , which is when you're a CEO , it's just very difficult to have those in a way ."
+O,"You know , that's kind of confidential and and like not with like somebody who could , like , remove you ."
+O,And that kind of thing .
+O,And so he was just invaluable to me in that sense .
+O,"And in a lot of what's so great about him is , you know , we could so on the one hand , like we could argue about whatever and like he would have input and like , maybe I would , you know , listen to it ."
+O,"Maybe I went , but it would never whatever I did never affected the relationship ."
+O,"You know , it's just that kind of thing with him ."
+O,But the thing that he did better than anybody that I've worked with is he could really see the company through the employer a like through the eyes of every single employee .
+O,He he knew how people would react to every single decision .
+O,"And , you know , and he would be running the company ."
+O,He would just come in once in a while and so forth .
+O,He'd know enough people in it .
+O,He would .
+O,But he had just like this incredible sense about that .
+O,"And then , you know , and that just proved to be very valuable ."
+O,So I'll give you an example .
+O,"So , you know , we had done this giant deal with EDF to sell them kind of our old we had this business that was going to kind of basically make us bankrupt ."
+O,"And by doing the transaction with EDF , we kind of escaped bankruptcy and then kind of launched into this other business , the software business , which eventually became like birth , like one point six billion dollars there ."
+O,I think that was it .
+O,"And , you know , it was like the probably the most important deal we'd ever done as a company ."
+O,"And , you know , we do the deal ."
+O,"And I go , Bill , like , you know , we got the deal done ."
+O,I can't believe it .
+O,"You know , we're gonna announce it ."
+O,"You know , we got New York on Monday and we're gonna announce it ."
+O,"And he's like , not you can't go ."
+O,"And I was like , well , why can I go ?"
+O,"And he's like , well , like , when you do the deal right ?"
+O,"Like this deals involves selling some employees to them , laying some people off and so forth ."
+O,"As soon as that news hits , you got to be in person in the company talking to the employees and letting everybody know where they stand as quickly as possible ."
+O,"And I was like , oh , of course , he's right ."
+O,"You know , I hadn't even thought that through ."
+O,"And had I not done that , you know ."
+O,So I did that .
+O,I sent Mark to New York to do the announcement .
+O,But it had I not done that .
+O,Had I not kind of stayed back and had that conversation .
+O,I don't think we would've made it as a company because that day ended up being pivotal to reconstructing the trust that I needed to kind of run the company going forward .
+O,"And you know , that that that's the kind of value that Bill added ."
+O,"But I you know , if you want to know , he is the only person I've ever met whose life could do ."
+O,The thing that Bill could do is Oprah Winfrey .
+O,Mm hmm .
+O,"And I know that sounds probably weird in a way , but like Oprah Winfrey can , like , meet you and talk to you for five minutes and she can know you as well as somebody who's known you 10 years ."
+O,"And Bill could do that , too ."
+O,That's ten .
+O,Yeah .
+O,"And then you may have run into somebody like that , but it is amazing ."
+O,What do you think is behind that ?
+O,"Is it an ability to see behind the words and just deeply , empathically sense more about your core personality and what shaped it than other people ?"
+O,"What allows an Oprah , for instance , to do that to you , Jeff ?"
+O,"Giovanni , any theories he has ?"
+O,So it's definitely a combination of things that I don't possess .
+O,"So it's a little hard to read it , but , you know ."
+O,Yes .
+O,She kind of can read in every single year Senate .
+O,"So like the tone of your voice , the expression on your face , like the way you're holding your hands , everything like is complete high fidelity information to her ."
+O,And then she knows the exact right question to ask to get to the deeper level of what's going on .
+O,"And I you know , like I've seen her do it ."
+O,I seen they'll do it .
+O,I learn from it .
+O,But like I I like literally don't have the capacity to do it anywhere near their level .
+O,"But , yeah , it's some combination of like they're able to just process way , way more information about a person much , much faster and then great retention on like the thousand people they've met before that might match to that ."
+O,And it is super impressive though .
+O,"Yeah , there is ."
+O,"It's it's I enjoy trying to deconstruct the secret sauce , but sometimes it is just a possible to do ."
+O,"I mean , there are magic there certain people who are hardwired for a different spectrum of perception ."
+O,"On the other hand , there are a lot of coachable or teachable skills ."
+O,"And if we're if we're looking at management , I'd like to shift from , in some respect , a student of bill or advice , receiver of Bill Campbell to advice giver ."
+O,"And you know , Mark Zuckerberg has said that you are the management guru to all of the young entrepreneurs in the valley ."
+O,"And I want to I want to dig into that for a second , because , of course , you have much vaster experience than I do ."
+O,"But having spent almost 20 years in Silicon Valley before moving , spent a lot of time with first time startup founders who in some cases have a real tiger by the tail ."
+O,And many of these CEOs are really great product people with no real management experience to speak of who have never had this type of game to lose .
+O,"If that makes sense , what would you teach or what do you teach or advise someone like that ?"
+O,"If you have , say , a first afternoon meeting with them or a few hours there , a new portfolio company in walks this bewildered CEO who's entering deep waters ."
+O,"How to how do you how do you begin to cultivate them or advise them as a manager in training , so to speak , or a CEO training ?"
+O,Yes .
+O,"You know , they're all different , but there's things that are similar about them , you know , and some of them are good at some things than others about others ."
+O,I don't know that there's a kind of thing that I would say to any of them .
+O,"But , you know , one thing they all struggle with is how to build their team , you know , particularly their management team and kind of win what you're speaking about ."
+O,OK .
+O,"It's different if you know they're not succeeding or whatever , but if they're succeeding and like the companies kind of degenerating because they don't know how to run it , then that usually kind of gets in to this whole executive hiring , integrating , managing problem ."
+O,"And this is first of all , none of them are good at it ."
+O,Like we've never had a first time CEO who is good at this .
+O,And I know I wasn't good at it when I started .
+O,"And the problem is , OK ."
+O,"You know , your board goes , hey , you need to hire like a CFO , like , you know , somebody is going to keep track this place ."
+O,It's it's going crazy .
+O,"Like , what are you doing ?"
+O,Okay .
+O,"I'm going to hire a CFO and you go in you go , well , I'm the CEO , so I must know how to do that ."
+O,But you don't know how to do that .
+O,"And now like that , like you've never worked in a finance organization ."
+O,You don't even know what the CFO job is like .
+O,I always asked by .
+O,"You know , it's like , you know , what's a good control structure ?"
+O,How do you distinguish a good one from a bad one ?
+O,"You know , like I may have no idea ."
+O,"And I can say , like , how are they going to interview a CFO ?"
+O,It's sort of like interviewing a Japanese interpreter if you don't know Japanese .
+O,There are no sound wonderful .
+O,Right now I'm going to I'm going to plead ignorance before we get too deep into the weeds .
+O,What is a control structure in this context ?
+O,Yes .
+O,"You know , just how does money gets spent ?"
+O,"You know , like , you know , every dollar that's getting spent , you know , when money comes in , like , how do you account for it properly ?"
+O,These kinds of things .
+O,And how do you do that systematically ?
+O,I've got company grows .
+O,"And , you know , people have budgets and all these kinds of things ."
+O,"So you get you know , so ."
+O,So it's just something that they don't know how to do .
+O,And they don't know how to ask save that .
+O,They don't know how to do it .
+O,And they don't know how to kind of learn how to do it .
+O,And so I always like to just start with .
+O,OK .
+O,"Like , let's talk about a process for learning how to , you know , possibly at least get a criteria for your company for this position , not like in general , like , you know , the platonic form of a CFO , cause that doesn't exist ."
+O,"But like a CFO for this company right now , like what do we need ?"
+O,"And then we you know , how do we do that ?"
+O,"Well , maybe we should talk to some CFO and see what they would hire for ."
+O,"See if that matches us , you know , see how they would test for an interview and then , you know , kind of get deeper into it ."
+O,"But even as you go through all that , like , you know , then you OK once that CFO gets signed ."
+O,How do you teach them about your company ?
+O,"You know , what is day one like ?"
+O,Like how do you integrate them ?
+O,These kinds of things .
+O,"So it's you know , it really is kind of has to be a hand-over-hand instruction ."
+O,"And then I you know , once they're in there , if you hire somebody , you know , a lot of times these CEOs will hire somebody who's so senior and so aggressive , you know , because they went for the biggest resumé they could find ."
+O,And the president wants .
+O,Doesn't want to be CFO .
+O,They won't be CEO .
+O,"And then , you know , that person will start , you know , trying to grab territory from the CEO and all these kinds of things ."
+O,And you've got politics you've got to handle .
+O,And .
+O,And so it's just a long I would say it's not a quick manual .
+O,"It's kind of ongoing conversation down to stand where they are , what they have to do , how to retain their mojo , all that kind of thing ."
+O,"And well , I'll I'll start with saying that the hard thing about hard things , your book , one of your books , I should say , is one of the most recommended books that has come up in the last handful of years on this podcast ."
+O,I've operated by what I would consider certainly high performing founders and CEOs .
+O,You mentioned or we mentioned high output management earlier .
+O,"Are there any other books that you would give to a first time founder who does have a tiger by the tail , who's who's doing well ?"
+O,But clearly out of their depth in this at a new level of complexity with with running what what is turning into a company as opposed to just a a a good product ?
+O,Yeah .
+O,"So , you know , it's funny , people us like what are the management books you'd recommended ?"
+O,And I'd be like I I don't know .
+O,"So , you know , I think that , you know , it depends a little on the leader ."
+O,"You know , one of the books that I have been recommending for years is a book written by Sailor James in 1937 called The Black Tacloban's , which is the story of the Haitian Revolution ."
+O,"And you go , okay , what kind of leadership book is that ?"
+O,"But it turns out that the you know , that the Toussaint Louverture , who kind of led that revolution was a basically a management and cultural genius , like better than anybody that I've ever kind of read about or learned from ."
+O,"And , you know , it just ends up being a great leadership book ."
+O,"I think Colin Powell's book , his autobiography is very , very interesting on leadership ."
+O,"And , you know , there is a bunch of I think , you know , like if it's a little company ."
+O,Eric Reese's book is great .
+O,"You know , the lean started start ."
+O,Yeah .
+O,"I mean , amazing at teaching things that , you know , particularly if you've not built a new company before or just really fundamental lessons ."
+O,"And we see I mean , you know , there have been some things in the news , you know , lately that you know about kind of with fat startups , which were kind of all the ones from my era ."
+O,"But , you know , the dangers of a fat startup , I think he really articulated amazingly well in that book ."
+O,"And and that is one of the early traps you can fall into , particularly in an environment like this where there's a lot of venture capital money running around ."
+O,"And did the job of CEO , I've enjoyed a lot of writing ."
+O,"And in one of your blog posts , I think I think the title is Making yourself a CEO , at least that's you talk about how the job of CEO is a very unnatural job and ."
+O,Right .
+O,That .
+O,Yeah .
+O,And I'm I'm cherry picking here a couple of lines .
+O,"But to be a good CEO and urged to be liked in the long run , you must do many things that will upset people in the short run ."
+O,Unnatural things .
+O,How have you cultivated that ability in yourself or helped others to cultivate a willingness to be unpopular in the short run ?
+O,I think this strikes me as a real critical differentiator .
+O,Could you see that ?
+O,Yes .
+O,"And that is , you know , you've hit on probably one of the most important kind of leadership skills ."
+O,"And , you know , the easiest way to think about is like if you make decisions that everybody likes all the time , then those are the decisions they would have made without you ."
+O,So you're not adding any value .
+O,"So almost by definition , you know , a lot of the most important decisions are being ones that , you know , people don't agree with and don't like and are difficult and cause people not like you ."
+O,At least for a while .
+O,"And you know , the way I generally work with CEOs on this is because it's very difficult because , you know , there there's so much emotional psychological force pushing them to make kind of the wrong decision , the easy decision , the one that is going to be the people pleasing decision ."
+O,And a lot of it is just pointing out what's going to happen .
+O,Letting them make it .
+O,"And then when the pain comes , go ."
+O,You remember we talked about this and this is what happens .
+O,And .
+O,"You know , a lot of it is just you have to go through making those mistakes to train yourself to ."
+O,"You know , it's kind of like it's running towards the darkness , you know , like there's this pain and dark area where , you know , like people aren't going to like you , you know , it's going to suck ."
+O,"You know , you like maybe you have to fire somebody ."
+O,Maybe you have to lay them off .
+O,Maybe you have to make a very unpopular decision to cancel a project or whatever .
+O,"But if you run away from that , because then you always know you have to do it ."
+O,You can sense it when you run a company .
+O,"If you run away from that , that's you know , that's when you really get a huge raging fire and that will potentially burn down your company ."
+O,"And it seems to me and I've never run a large company , but just in my interactions with various CEOs and founders , that coming back to the CEO position is a very unnatural job , that there are there are certain maybe technical abilities or procedural abilities maybe that are pretty easily trained or are relatively straightforward ."
+O,And then there are others that are perhaps less explicitly taught .
+O,And one that you've written about before is the ability to manage your own psychology .
+O,Yes .
+O,"What what tools or techniques have you personally found or routines , anything at all , really to be useful for cultivating an ability to manage your own psychology ?"
+O,And maybe you could just describe what that means .
+O,Yeah .
+O,"So , I mean , I like it ."
+O,It is certainly the hardest part of the job because what happens is you think about this when you're starting a company until like one of these .
+O,And I always talk to entrepreneurs about this .
+O,"I'm like , you know , if you knew what was involved when you started , you would never would have started and are like , absolutely right ."
+O,There's no way .
+O,Yeah .
+O,"So it's kind of a blessing that you don't know , because if you did , then , you know , nothing would ever happen ."
+O,"But like the kind of thing that happens is , OK , you have this idea to start a company and then if you just think about that socially , you know , like , OK ."
+O,So then you've got a lot of friends and relatives and like some of them are excited for you .
+O,Some of them say that's never going to work .
+O,And you did it to them and you want to prove them wrong and all that .
+O,But then you got to go out and you've got to sell people on the idea .
+O,So you've got to hire people into this kind of vision that you have and then you've got to raise money behind it .
+O,"And like often , like some of that money might even come from like your relatives or that kind of thing ."
+O,So you've got this money that people have entrusted you with .
+O,You've got careers that people have entrusted you with .
+O,And you start going and then something goes wrong .
+O,And it looks like like the company may not work .
+O,"And so , you know , what's the consequence of that ?"
+O,"Well , like every relationship you have , you're going to violate if it all goes down ."
+O,And that is super scary .
+O,Like it couldn't be more scary and .
+O,"You know , to not let that thought or that set of thoughts paralyze you is , you know , can be really difficult at times ."
+O,"And a lot of it , you know , first , you know , one of the most important things which I wrote about as first thing is you can't think and probably , you know , you got to not think the way investors think and probabilities ."
+O,You have to just think in terms of how do I do this ?
+O,"Like if there was a way out , like which way is out and train your mind in that direction as opposed to ."
+O,"Well , there is a 90 percent chance that like we're not going to get this deal ."
+O,"And if we don't get this deal , we're gonna to the quarter ."
+O,"With the quarter , we'll be able to raise money ."
+O,We won't be able to raise money .
+O,Then I'm out to lay everybody off .
+O,Like once you start thinking like that .
+O,"You know , you literally can't function ."
+O,"And so kind of getting around to , OK , I've got one bullet in the gun , I have got to hit the target ."
+O,So I'm going to get do whatever I can to get as close as possible .
+O,"And then like , we're going to shoot our best shot and there's gonna be no contingency plan and no way out and no ."
+O,"You know , like if somehow we don't make it , we don't make it ."
+O,"But like , we're going to die trying ."
+O,"And that , you know , getting to that mentality is really the key to being an effective entrepreneur , I think ."
+O,Mm hmm .
+O,What what have you found to be helpful for managing the stress of that type of sort of existential threat level ?
+O,"One shot , one kill the psychology ."
+O,Are there any particular habits or types of self-talk or anything that you use or encourage that allow people to perform better under those types of of circumstances ?
+O,"Well , you know , like I don't want to exaggerate how good I was at it because , you know , like I was up at 2 o'clock the morning , like in a cold sweat with my guts boiling , like all that stuff ."
+O,"Like , it's not like I didn't have that right ."
+O,"You know , it wasn't that great at it in terms of kind of managing it that way ."
+O,"But I think I mean , the things that helped me were when just ."
+O,Always focusing on what I could do .
+O,Like there was so many things I couldn't do .
+O,"So many things out of my control , so many things that , you know , I mean , like I was in the middle of the greatest technology equity meltdown in the history of the world ."
+O,So there was nothing I could do about that .
+O,Right .
+O,"Although it's hurting me , but it just didn't make any sense to think about those things ."
+O,So just really thinking about the things that you can do .
+O,"And then , you know , Bill Campbell was very is just very helpful to just be able to talk to him and , you know , look like he had any answers either ."
+O,"But just to have somebody that , you know , I can at least get it off my chest ."
+O,"I was like like , you know , we're in a spiral , like ."
+O,"And he's like , you're a spiral ."
+O,"It's like , okay ."
+O,"It's like , you know , I'm here ."
+O,I think we have like two shots to get out .
+O,And here they are .
+O,"And , you know , and that just just at least talking it through and not feeling like I was missing anything ."
+O,"But , you know , I think a lot of people now they meditate and do other kinds of things and so forth ."
+O,"And I you know , I would rap to that ."
+O,"But it you know , that's you know , that's not what I did at the time ."
+O,"So it's like sweated it out , like cut years off in my life and all that kind of thing ."
+O,"It strikes me that one of your superpowers may be running towards the scary things and not away from the scary things which might result in a lot of acute short term duress , but it may ultimately result in less long term duress ."
+O,"Could you explain the line , sharpen your sharpen the contradictions ."
+O,"So , yes ."
+O,This is the line I think this was from actually originally Karl Marx .
+O,"And he was speaking of the chaaban , the contradictions between capital and labor know to basically accelerate the revolution ."
+O,"And , you know , I definitely think Lenin used it because , you know , Lenin was like amazing with rhetoric and and that kind of thing ."
+O,He was definitely a rhetorical genius and also kind of wrong about everything and had a horrible impact on the world .
+O,But that's a different story .
+O,"But I like to use it in management because it's a great kind of cue for the CEO , because look , what happens in an organization is like you'll see like little disagreements between people and like a lot of your inclination is to like smooth things over ."
+O,But the right answer is usually to sharpen the contradictions .
+O,And the reason you want to sharpen the contradictions is because that's there's information in that contradiction .
+O,"There's information about like how you're not communicating , how the objectives are not aligned , how the strategy might be wrong ."
+O,"And like , you've got to get that , because that's where the truth is ."
+O,"And so when you smooth that over , if you don't like , bring it to a head and resolve it , then , you know , you miss an opportunity ."
+O,So it really is .
+O,"You know , it's one of the most important techniques , I think , in at any time like an a board meeting anytime ."
+O,"Like I hear like a little bit of disagreement or I see like , you know , an inconsistency in the strategy ."
+O,I would that's always my cue to myself .
+O,"I want to you know , that's when you get the answer now ."
+O,It's also a good way to start a revolution .
+O,So you gotta be careful since you are not a fan of the of the default revolution .
+O,No .
+O,"Well , maybe that , too ."
+O,"But I was going to say , you're not you're not a fan of the default backpeddling ."
+O,"Oh , no , it's a miscommunication ."
+O,That type of phone .
+O,And that's it .
+O,I like that as it may be .
+O,"But like , it's probably a systemic miscommunication ."
+O,You know what I mean ?
+O,And as opposed to like .
+O,"Oh , yeah ."
+O,Like you meant this and you meant that .
+O,"And like said , now we're all happy ."
+O,And that's not what happened .
+O,That's honest there .
+O,Very rarely .
+O,You you have a new book .
+O,Why ?
+O,Why write a new book ?
+O,"I mean , you're a gifted writer , but why ?"
+O,Why write a new book and why this book could .
+O,Could you describe it ?
+O,Could you describe what it is ?
+O,Sorry .
+O,Yeah .
+O,"So that's a great question , because after I wrote the last one , I was like , I'm never writing another one ."
+O,That was enough .
+O,So it surprised me .
+O,"But , you know , it's interesting because when I was kind of first learning to be a CEO , one of the you know , and I asked I asked Bill and I asked a lot of kind of others mentors like , you know , what should I focus on ?"
+O,"And , you know , a lot of them said , you know , you should focus on culture ."
+O,"But then I said , well , how do I do that ?"
+O,And nobody really had any kind of depth like it was all these weird abstract ideas that didn't they weren't compelling .
+O,They weren't well articulated .
+O,"And I never said it was always like a grope in the dark for me to try and understand , like how to set the culture or how to change it ."
+O,And so I really kind of became obsessed with this question for myself .
+O,"And , you know , I did a lot of it in my life ."
+O,I've kind of been interesting about like culture in the broader sense .
+O,"And so , you know , I just really , really , really spent a lot of time kind of going through , you know , history , going through kind of trying to understand how people did it , like what were the components ."
+O,"And it turns out to be a you know , I think one of the most central parts of management ."
+O,And that if you think about like .
+O,Management tools .
+O,"You know , there's a mission statement and then there's the OC cars and KPI ."
+O,"And you've got , you know , whatever your objectives and you've got , you know , all these kinds of things , but none of them really dictate the things that really define who you are ."
+O,Right .
+O,Like you show up on time for meetings .
+O,You stay at the Four Seasons .
+O,You stay at the red roof fan .
+O,Do people go home at 5 or they go home at 8 ?
+O,"You know , like what kind of company is this ?"
+O,What are all those behaviors to get back to people like right away ?
+O,"Or do you never get back to them or you get back to them in three days and like all those behaviors , like are your culture ."
+O,But they're how people are behaving when you're not looking .
+O,"So , like , what do you do about that ?"
+O,"And , you know , how do you set that and how do you make that go ?"
+O,Because that ultimately is really going to speak now to the quality of your company .
+O,But like what impression it makes on the world .
+O,Right .
+O,"Like , is it a good company to do business with ?"
+O,Is it a bad company ?
+O,Is it a place where people work and their life becomes better as a place ?
+O,A work in their life becomes worse ?
+O,"You know , like what are all these things ?"
+O,"And they're all a result of this , like weird abstract thing called culture ."
+O,"And so , you know , as I started working with CEOs , like , of course , none of them know really how to deal with it at all ."
+O,Like they have ideas .
+O,"But , you know , most of the ideas are like half baked and like , mostly wrong ."
+O,"So I thought , you know , I should really go back and re study this problem and see if I can articulate it ."
+O,And that's what the book's about .
+O,"And that's called What You Do Is Who You Are , because it's not what you believe ."
+O,It's not your values .
+O,It's not what you tweet .
+O,It's not like your social signal .
+O,It's like what you actually do .
+O,That's who you are .
+O,"And once you get your head around that , you realize that's a big task ."
+O,And the subtitle is How to Create Your Business Culture .
+O,And I think alluded to at least one big component of this .
+O,"But it is culture then is you define it here , a shared set of behaviors and beliefs ."
+O,"Or how would you suggest people who are listening to this and perhaps change how they think about culture or ask themselves questions that will help to refine their thinking if they're CEOs or or founders of a company , for instance ?"
+O,Yeah .
+O,"So the and the one of the greatest , most longest lasting kind of cultures in history is this way of the warrior culture of the samurai ."
+O,"You know , and you can like that culture or not , but you have to give the credit for the fact that lasted like over a thousand years ."
+O,And to hold a culture for that long is amazing .
+O,And one of the key insights from the Bushido is a culture is not a set of beliefs .
+O,It's a set of actions .
+O,And that's really what the culture is .
+O,"And this is why I think people miss it so much , because they think it's a shared set of beliefs , but it's not ."
+O,It's a shared set of behaviors .
+O,And you even have to believe it .
+O,"But if you behave that way , that's a culture ."
+O,"And this is and , you know , you have to ask yourself is OK , like , what are the behaviors that show like for real , that we're doing what we believe ?"
+O,And I'll just give you an example .
+O,"And venture capital , every venture capital firm says they have great respect for the entrepreneurs ."
+O,Right .
+O,Very few treat entrepreneurs with any kind of respect at all .
+O,"And so you go like , well , how do you have that disconnect ?"
+O,And it's because they haven't defined like what are the actions that translate into that being a real thing and a real part of the culture .
+O,"And so , you know , this is one of the problems we had to solve when we started the firm ."
+O,"And one of the things you know , one of things I put in place very early on was like , if you're late for a meeting with an entrepreneur and I collected $50 today , it it's $10 a minute ."
+O,"And people like , well , what if I had to go to the bathroom ?"
+O,I don't care .
+O,You know what ?
+O,If you had to make a phone call .
+O,"I know , Karen ."
+O,And the reason I have it that way is because I want them to ask people why .
+O,"And when they say why , I say ."
+O,"Because like building a company is really , really hard ."
+O,"And , you know , if an entrepreneur takes time out of their day to come see us , like we're going to respect the fact that that's how hard it is and we're always gonna be on time ."
+O,No excuses .
+O,Plan your day .
+O,Finish that phone call five minutes before you have to meet with the entrepreneur .
+O,Go to the bathroom earlier .
+O,Don't drink that .
+O,A cup of coffee .
+O,"You know , like ."
+O,But you need to do what you're supposed to do .
+O,"And , you know , you have to set these kinds of things in place ."
+O,"If you're really going to live up to your ideals and and that has to be across every dimension of the culture , you have to kind of program it in ."
+O,Or you're just not going to have it .
+O,"You know , you're going to talk it ."
+O,"And then if you talk it and don't do it , then your culture becomes your hypocrisy ."
+O,Right .
+O,"Is it is is culture something that you really have to get right at the get go or is it possible to do a rehaul and make it work without replacing it all , all of the employees at a company ?"
+O,"Yeah , I know ."
+O,You definitely can change culture .
+O,You definitely can change culture .
+O,"Know , my actually two to my favorite examples in the book are , one , the Haitian revolution where , you know , lower tier reprograms slave culture into a military culture , which is ."
+O,"Almost unfathomable in that , like now I did have a slave culture , but it was one of the most difficult slave culture , it was significantly more brutal , a kind of slave environment than than the even like the US slave environment ."
+O,"So if you from the beginning of kind of the transatlantic slave trade to the Haitian revolution , I think nine hundred thousand slaves were brought to Haiti at the end ."
+O,There were foreign and sixty five thousand left at the start of the revolution in the US .
+O,"Five hundred thousand slaves were brought in that same period , and there were 700000 left ."
+O,"So like it was like that much quantitatively , that much more brutal ."
+O,So a very difficult environment of low trust to build like a military force .
+O,"And , you know , he built in he built a culture that , you know , created an army that defeated the , you know , set probably at least two of the strongest military European military powers in history ."
+O,"You know , France under Napoleon and the British Empire ."
+O,"And so you got to say , absolutely , you can change a culture ."
+O,"And , you know , he used the same guys , the same guys who were kind of slaves , didn't even have clothes , that kind of thing to do , you know , that kind of army ."
+O,"And then the other one that that I found very interesting is Shaka sent Gore , who is running , you know , a prison gang , a very violent prison gang ."
+O,"And just to change the culture to be like remarkably , you know , empathetic for , you know , it's still a prison gang ."
+O,"So it wasn't all friendly , but it was a really significant change ."
+O,"And those guys , you know , I I've met some of those guys , you know , that he had there as they've gotten out of prison ."
+O,"And it's just remarkable the effect that had on them , not only in that organization , but but coming out ."
+O,"So 100 percent , it's possible ."
+O,"And in either case , in the former that is is at least based on my very limited understanding was if not the only one of the only successful slave revolutions ."
+O,"Yeah , it's actually the only the only slave revolt in human history that ever resulted in an independent state ."
+O,What were any of the things that he did that helped with that transformation from slave culture to sort of organized military culture ?
+O,Yeah .
+O,"So is it , you know ."
+O,He's quite a remarkable guy along these lines in that .
+O,"He was born a slave , so Toussaint was born a slave , but he was so smart that the plantation owner basically made to cent now ."
+O,He let him read .
+O,"So he learned to read where you may read things like Caesar's commentaries , where he learned a lot of his military strategy and some economics books and so forth ."
+O,But he also made him his driver .
+O,"And so Toussaint was able to go to all these meetings , you know , on the island ."
+O,"So he learned French colonial culture , kind of Roman military culture ."
+O,And then he also knew slave culture .
+O,So he had this really comprehensive cultural understanding .
+O,So he knew the elements of kind of the various things that that he wanted .
+O,"And so one of the one of the techniques he used to , which I referred to , is kind of create a shocking rule was he had to solve this problem ."
+O,That trust was super low .
+O,"I mean , the most difficult part of slave culture is it lacks trust ."
+O,And the reason is trust is really like a long term commodity .
+O,"And that I'm going to do something for you today , because I trust that over time , like it's going to pay off for me ."
+O,"But if you're a slave , there's no tomorrow , right ?"
+O,They gave you have no possessions .
+O,They could take your family at any point .
+O,They could kill you at any point .
+O,You don't own your own life .
+O,So to build trust in that environment is almost impossible .
+O,"The way to say I did it is , you know , we're one of the ways it has created his role , which was basically officers can't cheat on their wives and ."
+O,"You think about that and you go , OK , well , maybe that's not that big a deal ."
+O,But like you're talking about an environment where like basically soldiers were paid in like raping and pillaging like that .
+O,That was like a fundamental kind of thing that everybody did outside of to sense army .
+O,"But he said , no , look , I need to be able ."
+O,"Like your word , like is everything ."
+O,"And he had a great line about , you know , he'd rather relinquish his command and break his word ."
+O,That's how much emphasis he put on it .
+O,"And like , if I can't trust you to keep that one , promise them you can't be an officer in the army ."
+O,And so everybody wants to know why that rule was in place .
+O,And so that kind of starts to build up .
+O,OK .
+O,Here is how much we value you keeping your word .
+O,And so that was kind of one like little aspect that he did to reset the culture .
+O,"You know , another thing was he he really elevated ethics ."
+O,"And you go like , why is that important ?"
+O,"Well , you know , you live with a higher code and you have a stronger bond because it gives you a feeling about yourself and a feeling about the people who you're working with that like we're doing something important ."
+O,"And , you know , one thing he and he outlined that and he outlawed raping and pillaging in the army and he said , look , we're we're after something more important ."
+O,That's liberty .
+O,And so we're not going to rape and pillage .
+O,And it became so powerful that the white women in Haiti referred to Toussaint as father like this as a slave who's running an army .
+O,They liked him better than the troops from Spain or Britain or France .
+O,"They played loud like that , the slave army better because they treated them so much better ."
+O,And then there's a great story around this switch and it's a legend .
+O,"So , you know , it's one of those ones we don't know is true ."
+O,"But the name , too , sounds overture ."
+O,He wasn't born his born to set because slaves only had a first name as part of the dehumanization process .
+O,And literature came later and nobody knows for sure why .
+O,"But the story is , you know , Napoleon hated him like he drove Nepal crazy ."
+O,"Napoleon suffered more casualties in Haiti than in Waterloo , and he wanted to get him so badly ."
+O,And he got his generals around .
+O,"He said , like , how can you not defeat this slave ?"
+O,"And the generals said , Well ."
+O,We get them back up .
+O,We surround him .
+O,"But every time we think we have them , there is an opening ."
+O,And so his name is Toussaint Louverture .
+O,Toussaint .
+O,The opening .
+O,"And , you know , I at least my belief is that , you know , those people , those those women in the town , you know , they helped him in a way that like Napoleon could never understand because he had elevated the culture to that degree ."
+O,"So , you know , those are a couple of the things that may go on for hours and hours and hours on the Haitian revolution ."
+O,Yes .
+O,Fascinating .
+O,"I mean , this is something I knew nothing about before doing some homework for this conversation ."
+O,"And I'm excited for hopefully the clarity and with that precise action that the book will bring to something that , like you said , culture in quotation marks is often thrown around as a collection of very high altitude abstract concepts , but with without any real plausible next steps ."
+O,"But this this really makes the abstract concrete or it seems seems that way that you're both giving examples , historical and current day of how to install these these shared and in some cases rewarded behaviors ."
+O,"Yes , definitely ."
+O,Definitely .
+O,That's a that's why I'm so excited about the book .
+O,"I mean , I just feel particularly now and you ."
+O,"You see all these criticisms of high tech culture and like , you know , this CEO , how could he run a company like this and so forth ?"
+O,"And whenever I see that , I'm like , well , it's really hard ."
+O,"It's really hard to get , you know , 10000 people to behave the way you want them to ."
+O,"And , you know , like the default is , everybody's culture is screwed up and it takes a lot of effort to make it good ."
+O,"It makes me think of the there's a rub does quote , which I'll paraphrase , but it's something along the lines of if you think you're enlightened to go spend a week with your family ."
+O,"And it's like like like everybody should reflect on that when they're criticizing a especially , I would say a relatively unseasoned or new to the job CEO's ability to get 10000 people to behave well ."
+O,It's very difficult .
+O,"It's very , very , very , very , very challenging ."
+O,What would you consider success for this book ?
+O,What type of outcomes would you like to see in the world ?
+O,That's a great question .
+O,"It's funny because when I wrote the first one , my goal was that these CEOs in the portfolio would read it ."
+O,"And that turned out to be a good goal because it was so narrow that I think it forced me to write a specific book , which I think a lot more people liked ."
+O,"You know , on this one , I would ."
+O,"You know , I think that anybody who who kind of cares about their imprint on the world ."
+O,"You know , this is kind of the book for that in that in NREL , the people at the firm this like , you know , when we're all retired , like we're not going to remember , like every deal that we did that was good or bad , we did that was bad or that we won or that we lost or , you know , how much money we made or any of that ."
+O,"But we're going to remember , like what it felt like to work there and what it felt like for the people who interacted with us ."
+O,And and like we're going to know if we were proud of it or or like it's something we want to forget .
+O,"And , you know , that's what culture is really about ."
+O,"It's like , who are you ?"
+O,"Like , what do you do ?"
+O,"Like , you know , what does it mean to know you ?"
+O,"And that , you know , I I think it's such an important thing ."
+O,"But people don't have the mechanics for that or , you know , I haven't been able to find anything that I could read on that ."
+O,So that that that's kind of the purpose of the book .
+O,"And , you know , I really like that it also ."
+O,"I would imagine and I haven't yet read the book , but I'm very excited to it that it provides examples that allow people to see principles in action and sort of deduce how those might apply to to their own decisions , whether that's say it ."
+O,"Reed , Reed , Hastings , read it , that flick or Netflix or rewind the clock and going all the all the way back to Genghis Khan is , of course , I should say ."
+O,"Of course , but it's up someone that I've been really fascinated with for the last few years ."
+O,Interesting .
+O,"For many , many reasons ."
+O,"And it has been really portrayed in a lot of the coverage in a one sided , sort of one dimensional and fairly very unfairly ."
+O,"But the sort of the scale is underrated , very underrated ."
+O,And the vision of cultural inclusiveness that that you talk about in the book as it relates to that .
+O,I think it will be really eye-opening to people .
+O,And I'm excited about it for that reason .
+O,I know we're coming up on time .
+O,Be fun to do .
+O,"You know , grab a coffee and around to some other time ."
+O,I still have a long list of questions which which which we can get to some other time .
+O,But let me let me ask just a couple of really quick closing questions and then bring this to a wrap .
+O,But the this question is sometimes one that is difficult to answer .
+O,But I'll I'll lob it out there and see what we get .
+O,"And that is , if you had a a billboard , this is a metaphor , of course , but a billboard on which you could put it ."
+O,"Anything you want , an image , a question , a word , a quote ."
+O,"But it allows you to get a convey something to billions of people , not non-commercial ."
+O,What can you .
+O,Can you think of anything that you might put on such a billboard ?
+O,So this is just really off the top of my head because I was listening to the song this morning .
+O,"But my friend Nas has this great line , which is I know you think I'm rich because of my diamond piece , but I've been rich since I started finding peace ."
+O,Mm hmm .
+O,And I think that's that's my best my vibe today .
+O,"Well , that that could be a podcast in and of itself , just digging into that kind of thing ."
+O,That's what life is good .
+O,Maybe life is good .
+O,I think my life is good because I've been because my diamond peaks .
+O,"But all right , all ."
+O,"If finding peace , that will be part of our of our round two ."
+O,"Is there anything else in terms of closing comments , suggestions , recommendations , asks of the audience that you'd like to add before we before we close up this this first installment at least ?"
+O,"Yeah , I think that what I would just say is the book is really , you know , to enable you to do what you need to do , kind of as a leader and as an organization to be who you want to be ."
+O,"And as a leader , I think that's the most important thing ."
+O,Wonderful .
+O,And that is what you do is who you are .
+O,You can find that anywhere books are sold .
+O,"People can wave hello on the Internet , on Twitter at B Horowitz ."
+O,"And we'll link to that and everything else in the show notes , including everything that we've mentioned ."
+O,So people listening can find that at Timbertop log forward slash podcast .
+O,"Ben , this has really been a lot of fun and very enlightening and enlivening ."
+O,And I have all sorts of .
+O,Notes to follow up on for my own research and reading .
+O,So thank you so much for taking the time .
+O,"I really , really appreciate it ."
+O,Thank you .
+O,And I'm looking forward to round two and a cup of coffee .
+O,Deal .
+B-AD,"Hey , guys , this is Tim again ."
+I-AD,And a few more things before you take off .
+I-AD,"Number one , this is five bullet Friday ."
+I-AD,Do you want to get a short email from me ?
+I-AD,"And would you enjoy getting a short e-mail from me every Friday , if that provides a little morsel of fun before the weekend ?"
+I-AD,"And finally , Friday is a very short email where I share the coolest things I've found or that I've been pondering over the week that could include favorite new albums that I've discovered ."
+I-AD,It could include gizmos and gadgets and all sorts of weird shit that I've somehow dug up into the world of the esoteric as I do .
+I-AD,"It could include favorite articles that I have read and that I've shared with my close friends , for instance , and it's very short ."
+I-AD,It's just a little tiny bites of goodness before you head off for the weekend .
+I-AD,"So if you want to receive that , check it out ."
+I-AD,Just go to four hour work week dot com .
+I-AD,That's four hour work week dot com all spelled out .
+E-AD,And just drop in your email and you'll get the very next one .
+B-AD,"And if you sign up , I hope you enjoyed this episode is brought to you by LinkedIn's ."
+I-AD,Hello Monday .
+I-AD,Hello .
+I-AD,Monday is a podcast .
+I-AD,Hello .
+I-AD,"My name with Jessi Hempel is back for Season 2 and the show is full of advice , practical tactical advice that you can start using today ."
+I-AD,"Each week , Jessie sits down with featured guests to investigate the role work plays in their lives , how it can be integrated into your life , and how to make work work for you ."
+I-AD,Better this season .
+I-AD,"One of the first episodes is with Jerry Cloner , who's been called the CEO whisperer ."
+I-AD,I've actually done quite a bit of work with Jerry and he's one of the world's most in-demand executive coaches amongst the startup ecosystem .
+I-AD,"In the episode , Jerry shares his person meetings , explains how to ask good , open ended questions ."
+I-AD,He also goes through his approach to daily journaling .
+I-AD,"Among other things , journaling can really create an incredible competitive advantage and also act as an emotional rebalancing tool of sorts ."
+I-AD,"So I recommend taking a look at it , giving a listen more accurately ."
+I-AD,So whether you're starting your first job or gearing up for retirement .
+I-AD,Hello Monday helps you tackle Monday and the rest of the workweek with tactics and strategies that you can use to check it out .
+I-AD,Fine .
+I-AD,Hello Monday .
+I-AD,Jessi Hempel .
+I-AD,That's GISS .
+I-AD,Hi .
+I-AD,Each MPL begins to look up .
+E-AD,Hello Monday on Apple podcasts or wherever you listen to podcasts .
+B-AD,This episode of the Tim Fair shows brought to you by athletic greens .
+I-AD,I get us all the time .
+I-AD,"If I could only take one Soublet , what would it be ?"
+I-AD,The answer is inevitably athletic griots .
+I-AD,"I view it as , and a lot of you now view it as all in one nutritional insurance ."
+I-AD,"I recommended that way back in 2010 in the for our body , and I did not get paid to do so ."
+I-AD,"I've been using it since before that , and I used a lot of different ways ."
+I-AD,I travel with it to avoid getting sick or to help mitigate the likelihood of getting sick .
+I-AD,I take it in the morning to ensure optimal performance and overall it covers my bases .
+I-AD,"If I can't get what I need from Whole Foods meals throughout the rest of the day , and if you want to give athletic greens a try ."
+I-AD,They're offering a free 20 count travel pack for first time users .
+I-AD,I nearly always travel with at least three or four of these one dust bags .
+I-AD,"In other words , if you buy athletic greens as a first time buyer , you now get for a limited time and extra $79 in free product ."
+I-AD,So check out the details at Athletic Greens dot com forward slash Tim .
+E-AD,"Again , that's athletic greens dot com forward slash Tim for your free travel pack with any purchase ."

@@ -1,0 +1,260 @@
+O,"From The New York Times Unlikeable Baro , This is The Daily ."
+O,At the heart of the impeachment is a request made by President Trump that Ukraine investigate ties between the Bidens and an energy company called Brisman .
+O,"Now , new reporting from the Times suggests that Russian hackers may be trying to fulfill that request ."
+O,"It's Wednesday , January 15th ."
+O,"Nicole Porath , tell me what happened the other day ."
+O,So I've been covering cybersecurity at The Times for about eight areas and I've been working on a story for a couple months about threats to the 2020 election .
+O,"And as part of that story , I'd been speaking to a source of mine who seems or and Balko , it's he is a former analyst at the National Security Agency ."
+O,And now he runs a Silicon Valley company that blocks phishing attacks .
+O,And he's been working with a lot of the Democratic candidates for 2020 .
+O,"And he'd given me an interesting number in the course of that reporting , which was that already the Democratic front runners for 2020 have been getting an average of something like a thousand phishing attempts in the last couple months ."
+O,Wow .
+O,Right .
+O,It's a huge number .
+O,And so I gave him a call to just do some basic fact checking as we were going to print .
+O,And I happened to catch him at an interesting time .
+O,"And he said , you know what ?"
+O,I actually think I might have something bigger for you .
+O,Can I call you back later ?
+O,That's a very juicy little tease for a source to give a reporter .
+O,Right .
+O,So what do you do ?
+O,Hey .
+O,Chemical .
+O,Have we gotten scared ?
+O,How are you ?
+O,I'm great .
+O,I call him back .
+O,So let's start from the top .
+O,And he starts to tell me the full story .
+O,"So starting about New Year's Eve , he was actually at Disneyworld with his kids and he was in line for the teacups ."
+O,Right .
+O,He tells that naturally .
+O,And someone on his team sends them a slack message .
+O,And it said found a bunch of Russian phishing attacks going after Ukrainians targeting natural gas .
+O,There is an active Russian phishing campaign against some companies in Ukraine .
+O,"You know , it's pretty boring run of the mill ."
+O,But I'm going to keep tabs on it .
+O,"And if they swing more towards us targets , you know , we can spend some extra time looking at it ."
+O,"Couple days later , a different person on their team was giving a presentation about threats to the oil and gas industry and took a little bit of a closer look at what these attacks against Ukraine were all about ."
+O,"And he started to notice after a little digging that all three gas companies had been found were related to this company , prisma ."
+O,They were all subsidiaries of Breece Math .
+O,The company at the center of the Trump impeachment inquiry and the company on which Hunter Biden sat on the board .
+O,Right .
+O,So Oren's team takes a close look at these attacks and they find out that these are pretty sophisticated phishing attacks for one .
+O,"In this case , with the Russians , we're doing is setting up fake Web sites to look exactly like the recent holding companies , Web sites , so that when a user visited them , they wouldn't really know the difference ."
+O,"They've taken something like B , gas , dot com dot U.A. and just disposed of the dot uai ."
+O,So these employees are looking at the Web site address and why should they even assume that their company doesn't own the dot com domain ?
+O,"That would allow them , you know , in some of these Web sites to ask for usernames and passwords ."
+O,"And once those are given away , they can go and do other things like access their e-mails ."
+O,"They're sending e-mails on their behalf and going further through network , probably to achieve some goal that we don't understand yet ."
+O,So what they saw was that people were indeed accessing these fake logon pages .
+O,OK .
+O,And do we know how successful these attacks within the attacks have been successful and giving away their usernames and passwords ?
+O,What they've accomplished is yet to be determined .
+O,We don't know what happens after that .
+O,"Oren's team can't say whether they got any e-mails at all , whether they got any material that would be embarrassing to Joe Biden or his son ."
+O,But what's clear is they successfully got in .
+O,"So on its face , this would not actually be that weird ."
+O,Ukraine is known as sort of Russia's test kitchen for hacking and cyber attacks .
+O,It's basically been under constant attack since before 2014 .
+O,"But when they started unwinding some of these campaigns back , there were two things that stood out ."
+O,"One , this isn't some random Russian cyber criminal group ."
+O,"This is Fancy Bear , the name of the group that private security researchers give to the G argue ."
+O,"Russia's main intelligence directorate , the same group that hit John Podesta , Hillary Clinton's campaign chairman , back in 2016 ."
+O,Wow .
+O,So the same group is doing the attack on Verismo .
+O,Exactly .
+O,The other thing that was interesting was the timing when Oren's team went back and looked at the timestamps .
+O,This was early November and you have to remember where we were in early November .
+O,The private testimony of the impeachment witnesses before the House Intelligence Committee had just wrapped up and we were about to start the public hearings .
+O,So this division of the G.R. you is targeting very small at the very same moment when karisma is suddenly at the center of the national conversation in the impeachment process .
+O,Exactly .
+O,Here we are again .
+O,"Given that we're so close to the first votes being cast in the elections , an election year coming up , this is starting to look more like the pattern that we see in 2016 with a Russian hack of a sensitive Democratic target ."
+O,sonicwall as he is telling you this .
+O,What are you thinking ?
+O,I'm thinking this is 2016 all over again .
+O,"So I'd been told that we were going to see a lot of foreign interference in this election , not just from Russia , but because Russia had offered a playbook for interference for every other country that had any other incentive to influence the 2020 election ."
+O,"We were told we were going to be getting hit from all sides , but I had fully expected that perhaps because Russian tactics and techniques had been spilled over the Mueller report and in private security intelligence assessments that we would see something more sophisticated ."
+O,"But when Oren was describing this , it was a cookie cutter repeat of what happened to John Podesta back in 2016 ."
+O,Right .
+O,Who would use the exact same technique twice ?
+O,Apparently the GMU does .
+O,It back .
+B-AD,"Up Work has the world's largest network of independent professionals , devs , UI designers , writers , strategists , you name it , whatever skills your scope demands of work is how pros available short or long term , one time or as often as you need them and their proven rated and reviewed ."
+I-AD,Need a front end developer for a few months and FCO specialist for six weeks or a team of designers and devs .
+E-AD,"All in one place of work is how when you need in-demand talent on demand , up work is how ."
+B-AD,"Hi , my name is Andy Mills and I am a producer for The Daily ."
+I-AD,I grew up in a town of 900 people middle of nowhere .
+I-AD,I didn't really have a clear idea of what it is that reporters here did .
+I-AD,I think maybe my mind had some version of the cartoon from The New Yorker or something .
+I-AD,"When you see in the newspaper , Rukmini CALLIMACHI , Mosul , what you need to realize is that behind that story is a reporter near the frontlines of a war crouch down in an abandoned house with her laptop , and she's typing as fast as she can ."
+I-AD,What she's been seeing so that it can zoom around the world and be the headline the next day to keep doing that kind of work .
+I-AD,You need people to buy in to this experiment .
+I-AD,"If you're wondering , like , how can I pitch in and help more reporting and maybe help more shows like The Daily exist ."
+I-AD,You probably have heard of our Web site .
+I-AD,Just subscribe to the YOURTIME .
+E-AD,Just just get a subscription to the New York Times that easy .
+O,"Nicole , you said you were talking to Orin as part of your reporting on what to expect from Russia in 2020 ."
+O,"But as you've observed this story that he told you , it sounds like they're up to the exact same thing as they were in 2016 ."
+O,Why would that be ?
+O,"Given that they were caught in a sense that the U.S. understands what they did in 2016 , why would they just use the same tactics in 2020 ?"
+O,Because it still works .
+O,People will still click on these links .
+O,People will still turn over their passwords .
+O,We know people won't turn on this thing called two factor authentication to make sure people can't just hack into their computers from a strange location .
+O,And we also know that the outcome can be the same .
+O,We know that in 2016 .
+O,"Breaking tonight , less than two weeks until Election Day and hacked emails from the account of Hillary Clinton's campaign chairman , John Podesta , are raising new questions about Mrs. Clinton and her candidacy ."
+O,"When Russian hackers and trolls dumped John Podesta's emails and e-mails at the DNC , people devoured them after thousands of leaked emails showed Democratic Party officials possibly plotting against Bernie Sanders in his race against Hillary Clinton ."
+O,People wanted to believe that the race was fixed for Hillary Clinton from the beginning .
+O,They planned this .
+O,They that they didn't give us a chance .
+O,"They came together pretty much , she said , Bernie ."
+O,It's pretty obvious .
+O,What they did was they looked in those emails for any evidence of that .
+O,And we got to a place where the Russians successfully sewed American discord .
+O,And we have Dodd .
+O,So unlike Hillary Clinton and Tim Kaine .
+O,They basically poured fuel on the fire .
+O,"And when you think about where we are in 2020 , there's no evidence to suggest that the outcome wouldn't be the exact same ."
+O,"When you think about what President Trump was saying last summer and into the fall , they should investigate divide because that is a company that's newly formed , that Verismo was corrupt , that was a crooked deal 100 percent , that there was widespread corruption in Ukraine that he wanted investigated ."
+O,"Ukraine is known as a very , very corrupt place and they know that ."
+O,And you think about what Russian hackers could potentially get from getting inside brief mez systems .
+O,They might not necessarily find anything that is an exhibit A of corruption .
+O,"But if you selectively leaked emails out of context , it'd be very easy in the current media climate and the current partisan climate for people to once again devour those emails and find whatever it is they want to find ."
+O,There doesn't have to be all that much .
+O,They're there for it to effectively sow discord .
+O,Exactly .
+O,"Nicole , does the fact that the Russians are doing this in pretty much the exact same way as they did in 2016 suggests something about how the United States responded last time ."
+O,If Russia feels empowered to pretty much do the same thing again .
+O,"Well , I think it tells us that they didn't feel much pain from the Bullough report and sanctions and from the indictments against Russian hackers and trolls ."
+O,"I mean , you have to remember that even after the American intelligence community concluded that Russian hackers and trolls had interfered in the 2016 election , I don't think anybody knows it was Russia that broke into the DNC ."
+O,"She's saying Russia , Russia , Russia ."
+O,But I don't .
+O,"Maybe it was I mean , it could be Russia , but it could also be China , could also be lots of other people ."
+O,It also could be somebody sitting on that bed that weighs 400 pounds .
+O,OK .
+O,The president was still blaming a 400 pound guy sitting on his bed .
+O,You don't know who broke in to DNC in Helsinki .
+O,"The president that people came to me , Dan Coats came to me and some others , they said they think it's Russia ."
+O,I have President Putin .
+O,"He just said , it's not Russia ."
+O,I will say this .
+O,I don't see any reason why it would be .
+O,I don't know why it would have been Russia .
+O,"And more recently , a day was their first time meeting face to face since the release of the Mueller report when a reporter asked Trump at a press conference ."
+O,Will you tell Vladimir Putin not to interfere in 2020 ?
+O,And you can even see it right there .
+O,"Mr. Trump wagging his finger at Putin , all with a smile ."
+O,"Trump wagged his finger jovially and said , Don't interfere in 2020 ."
+O,"There has been no repercussions for Russian interference in 2016 , at least not enough to keep them from doing the same thing all over again in 2020 ."
+O,"And of course , the president is now also advancing the theory that it was Ukraine and not Russia that interfered in 2016 ."
+O,Right .
+O,Which further absolves Russia from its interference in 2016 .
+O,And is that the heart of the conspiracy theory that's gotten Trump impeached in the first place ?
+O,Right .
+O,So that's the bad news .
+O,But it actually gets worse .
+O,"If you remember , back in 2016 , the DNC was actually hacked by two groups of Russian hackers ."
+O,"The first was Bansi BARER , which we've now talked about ."
+O,The other was another Russian intelligence group called kozy Baer .
+O,Right .
+O,"And what we now know from our reporting over the last six months is that , well , fancy bears continued on with these very obvious phishing campaigns and is really up to its old tricks ."
+O,Cozy a bear .
+O,The other group that hacked the DNC back in 2016 has actually dropped off the radar .
+O,"So about six months ago , researchers I talked to had been following them and all of a sudden they sort of up and abandoned their hacking infrastructure ."
+O,They switched out e-mail accounts that were being monitored by the private sector and intelligence officials .
+O,"They're now using things like secure , anonymous e-mail accounts that make it much harder for intelligence agencies and private researchers to track their communications ."
+O,So they've kind of gone dark .
+O,Exactly .
+O,And that's a little scarier .
+O,"Cyber criminals are holding entire American cities , towns and counties hostage ."
+O,And they're doing it with computer viruses called ransomware .
+O,So one of the things that's just been happening separately from any of these Russian campaigns over the last year is that American cities and towns have been getting hit with a record number of ransomware attacks .
+O,So these are attacks when cybercriminals usually looking for a profit .
+O,"In fact , their computer systems hold their data hostage until they pay a ransom ."
+O,Right .
+O,"This happened in Baltimore , for example , Baltimore , the assault causing police emails to go down , as did the board of Elections , Atlanta ."
+O,The FBI is investigating a cyber attack on the city of Atlanta .
+O,The so-called ransomware attack on the city's computer network triggered outages across several departments .
+O,"New Orleans , the city of New Orleans , crippled after a cyberattack ."
+O,"Web sites down , phones unanswered ."
+O,The mayor declaring a state of emergency as local and federal officials worked to figure out who's behind the hack and how much damage has been done .
+O,And what I learned in the course of my reporting over the last couple months is that there is a question at the Homeland Security Department and among the intelligence community about whether these were just run of the mill ransomware attacks or whether there was a G.R. U component .
+O,And the fear is that the attacks might actually just be decoys for some more nefarious sleuthing of these local election systems .
+O,"Well , now , they have not concluded that this is the case , but this is something that the Department of Homeland Security is investigating ."
+O,"And I think whether or not they conclude that there was some G R U component here , what those ransomware attacks showed us is that American towns and cities are still so vulnerable to the type of attack that could really influence the vote on Election Day ."
+O,Can you help us understand what that might look like ?
+O,So one scenario is they change the votes .
+O,They hack into the actual ballot machines themselves and change people's votes without anyone's knowledge .
+O,The other thing is that they could actually keep people from voting .
+O,They could hack into you the software companies that make the software that's used to check people in at the polls .
+O,Someone shows that on election day and they're told you're not registered to vote or it looks like you've already voted .
+O,That would essentially be something like digital disenfranchisement .
+O,And here's the thing .
+O,"Back in 2016 , Russia actually hacked into a software company that provided the poll Check-In Systems when people showed up in Durham , North Carolina , on Election Day , which is a reliably blue county in an otherwise swing state to vote ."
+O,"There were a lot of people who were kept from voting that day and they were told it looks like you're not registered to vote , even though they were standing there with their registration cards ."
+O,They were told they had to go to a different location .
+O,Some were told that they had already voted and the county actually had to go to print paper .
+O,And it cast a lot of doubt that perhaps Russia actually had succeeded in hacking it in a way to keep people from voting in this blue county .
+O,And it took three years .
+O,It was only last week .
+O,"OK , we're less than a year away from the next election ."
+O,"It's only last week that investigators at the Department of Homeland Security concluded that actually Russia had not hacked into the system that Dharam used , that it was like technical mis configuration errors were to blame ."
+O,And a lot of people we've talked to have said maybe that's just the point .
+O,Russia doesn't necessarily have to hack the election to throw the outcome into doubt .
+O,Maybe making Americans question the final outcome of a presidential election is all it needs to do to undermine faith in our democracy .
+O,"So you're saying that , yes , Russia is doing the same thing that it did in 2016 ."
+O,Now it's also doing more ?
+O,Possibly .
+O,"We don't know what kozy bear is up to , and we suspect that Russia may be pursuing this new attack on the election systems themselves ."
+O,"That's right , Michael ."
+O,So let me paint a picture .
+O,"This would be the worst case scenario that American officials are worried about when Russia repeats the 2016 playbook , which it looks like they're beginning to do ."
+O,Hacked into Boris PSMA .
+O,Let's say they end up dumping emails that are embarrassing to Joe Biden or his son .
+O,And we see a repeat of what we saw with John Podesta and Hillary Clinton in 2016 .
+O,And then let's say they add this new prong .
+O,OK .
+O,Which is the possibility that Russia may hack into the election itself .
+O,"We're now in a moment where our faith in institutions is at an all time low , and that is where you got to the true nightmare scenario for 2020 ."
+O,"Nicole , thank you ."
+O,Thank you so much .
+B-AD,We started swell with an audacious goal to rid the world of single use plastic bottles by designing reusable products that looked good and performed beautifully .
+I-AD,"We reinvented the water bottle , tumbler and bowl to keep the things you love colder or hotter for longer ."
+I-AD,"In the last two years alone , Swellest helped displace 100 million single use plastic bottles at swell ."
+I-AD,We designed more ways to help you use less godess .
+E-AD,Welcome to get 20 percent off your next order using code the daily swell .
+O,Here's what else you need to know if you're going to be a juror in the trial in the Senate .
+O,That's about to start .
+O,Do you worry President Trump will be emboldened by acquittal ?
+O,No .
+O,"When I look at what the issue is , it's whether or not we're gonna be able to have witnesses ."
+O,We've asked for only four people as witnesses .
+O,"And if our Republican colleagues won't allow those witnesses , they may as well give the president a crown and a scepter ."
+O,They may as well make him king .
+O,"And last time I in the seventh Democratic debate held on the eve of an impeachment trial in the Senate , the three senators in the race , Amy Klobuchar , Elizabeth Warren and Bernie Sanders said they would temporarily returned to Washington to act as jurors in the case ."
+O,Some things are more important than politics .
+O,I took an oath to uphold the Constitution of the United States of America .
+O,It says that no one is above the law .
+O,That includes the president of the United States .
+O,We have an impeachment trial .
+O,I will be there because it is my responsibility .
+O,"Much of the debate focused on foreign policy , with many of the candidates calling for restraint in the U.S. approach to Iran and expressing a reluctance to enter into a new military conflict in the Middle East ."
+O,"But in perhaps the debate's most tense moment , Senator Sanders , Senator Warren confirmed in a statement that in 2018 you told her that you did not believe that a woman could win the election ."
+O,Why did you say that ?
+O,Moderators pressed Senator Sanders about the claim made by Senator Warren that Sanders had told her a woman could not be elected president .
+O,"Well , as a matter of fact , I didn't say a claim that Sanders has denied anybody knows me , knows that it's incomprehensible that I would think that a woman could not be president of the United States ."
+O,Go to YouTube today .
+O,"Warren , however , stood by the claim ."
+O,"Look , this question about whether or not a woman can be president has been raised and it's time for us to attack it head on ."
+O,And I think the best way to talk about who can win is by looking at people's winning record .
+O,Look at the men on this stage .
+O,"Collectively , they have lost 10 elections ."
+O,The only people on this stage who have won every single election that they've been in are the women .
+O,Amy ?
+O,That's it for the deal .
+O,I'm Michael Mubarak .
+O,See you tomorrow .

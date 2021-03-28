@@ -1,0 +1,609 @@
+B-AD,Today's show is brought to you by trying out a proud sponsor of this year's code conference trying to provides businesses like yours the small and medium sized innovators with full service H.R. solutions navigating the complexities of scale trying it can help whether it's hiring in different states offering great benefits to attract top talent or ensuring you retain your company culture .
+I-AD,Learn more at tryna dot com .
+E-AD,That's T R I N T dot com trying it incredible starts here .
+B-AD,This episode is sponsored by IBM .
+I-AD,The world needs a technology company that applies smart technologies at scale with purpose and expertise not just for some but for all .
+I-AD,Let's Expect More From Technology .
+I-AD,Let's put smart to work .
+E-AD,Visit IBM dot com slash smart to learn more .
+O,Hi I'm Kara Swisher editor at large of Recode .
+O,You may know me as the woman who wishes she could code like a girl but in my spare time I talk tech .
+O,And you're listening to Rico decode from the Vox Media podcast network today in the red chair is Rushmore so Johnny the founder and CEO of Girls Who Code a nonprofit that's working to close the gender gap in technology .
+O,It offers after school programs summer classes a series of books and more Rushmore .
+O,Welcome to Rico decode .
+O,Thank you for having me Kyra .
+O,We've talked before we talked about before on lots of stuff .
+O,And the reason we're starting to talk is under some controversy there is a 60 Minutes .
+O,Explain what how you got here .
+O,Because we've talked many times for .
+O,Yes .
+O,With all the other groups that are doing coding .
+O,Yeah .
+O,So 60 Minutes had done a story about girls in coding and you know we had actually spoken to I had actually spoken to Lesley Stahl years ago about doing an episode on this because she had actually done this incredible episode about girls and science and you know we had talk talk talk .
+O,You know we had gotten an e-mail from a producer finally being like we're doing this story and I'm like This is amazing .
+O,Turns out we ended up getting cut out of the story and actually all of the women who are doing work in this got cut out .
+O,And the story was done on Cody Morgan organisation whose mission is not to close a gender gap in computer science but whose mission is to teach all kids to code .
+O,OK .
+O,And what was problematic was about also the kind of the episode was really that this is not a pipeline problem right .
+O,That there are women who are going into this .
+O,We're just not starting younger .
+O,So 60 Minutes really got it wrong .
+O,I think I watched .
+O,I was yeah .
+O,Not quite .
+O,Yeah absolutely yeah yeah .
+O,It happens with TV in case you're interested .
+O,Well I also think it's what happens when you don't talk to the people who kind of are living and breathing this work because it's more complicated in that it's more complex than that .
+O,And it felt like a little bit of an infomercial for both Cadet Org and Microsoft and then weeks later you have women who are walking out of Microsoft because of allegations of sexual harassment .
+O,So we know that it's much more complicated than simply let's get more girls to code .
+O,Right .
+O,Right .
+O,So let's talk about that because I think I don't want to interrupt coding fights you know .
+O,I mean I get it .
+O,I have dealt with some of the workload ARG has been great .
+O,There's all kinds of groups out of code and each of them has their own role to play correct .
+O,It's sort of an overall role and it's been helpful of raising the idea all of you have been helpful raising the concept of it .
+O,So you all sort of came into being and again you all hit it from different spots .
+O,Explain what your group does .
+O,Yeah .
+O,I mean girls who code is our mission is to close a gender gap in computer science through technology job so getting more girls to declare see us as a major and go into the field .
+O,We've taught over one hundred eighty five thousand girls to code .
+O,We have six thousand clubs across the country in all 50 states we're expanding internationally .
+O,So you know we're one of the largest organizations in this space and our mission is to you know we run these free summer immersion programs inside technology companies which help us and hopefully change the culture of those technology companies and we make sure that every girl that half the girls that go through our program are under the poverty line and half of them are black and Latino and it's working .
+O,So our black and Latino students are majoring in computer science at a rate of 16 times the effort national average .
+O,We have 30000 alone new computer science there .
+O,I want to be clear with people it's a low bar with a low bar .
+O,But we have 30000 new computer science graduates that are girls who code alumni on college campuses right now .
+O,And so we believe at our growth at the rate that we are growing we can close the gender gap in technology jobs by 20 27 2027 .
+O,And there's lots of different .
+O,There's Black Girls Code organizations talking code 2040 .
+O,Talk about the explosion of these .
+O,Of the idea that code does I want to .
+O,It was an interesting talk yesterday with Steve Case and Mark Cuban about jobs and where they're going and they were talking about A.I. replacing coding .
+O,Well I want to get to that later but we'll talk about why there was this explosion and all these groups from yours to code dawg to code 2040 to Black Girls Code .
+O,Oh yeah .
+O,And I think a lot of us started similarly around the same time I think we saw that we were living in a time where women were the majority in college right .
+O,Forty five percent of America's breadwinners and there were all these jobs and technology that paid really well .
+O,One hundred twenty thousand and lacking in people and lacking in people and in particular lacking in women and people of color .
+O,And then in 2012 when you looked at the landscape and you looked at whether there were interventions there just really weren't .
+O,And I think a lot of us experimented at different you know at different points in the pipeline through different interventions and waded into that .
+O,What I mean is like for black holes called they start very young and they do incredible work in actually kind of organizing and shaping parents and community organizers and activists .
+O,We intervene inside technology companies and embed these classrooms in technologies and we run after school programs code 2040 is doing incredible work .
+O,You know a little bit upwards in the pipeline and really reaching out to minority minority engineers that are already in technology and helping support them and again helping shape cultures and see Witt has done incredible work .
+O,Right and the respirations award you know the Grace Hopper conference so there's all these amazing women and people of color that are trying to basically get at the problem in different places and in different points of the pipeline because we know it's leaky all throughout .
+O,And so you all started this in 2000 it all .
+O,A lot of them all came on and once was the idea that here and they the administration got behind it .
+O,This was a very push very hard and the concept was that it was it wasn't diverse enough .
+O,And secondly there weren't enough coders at all .
+O,All in general and then in general which other groups did which like co dot org which was that there weren't enough coders period and that they didn't teach them in lots of schools .
+O,Yep .
+O,Where do you think it is now in that idea in that in the concept where do you how do you assess it after that amount of time with all these various efforts to try to get people coding more .
+O,Yeah .
+O,And different people can speak from our work .
+O,Right .
+O,So what we have learned that access is not enough .
+O,Mm hmm .
+O,Right .
+O,And this is maybe my one contention with coach that it's not enough just to have a coding program in a school .
+O,Because when you do you'll still find that 80 percent of girls and 20 percent are boys that we need to expose girls to role models .
+O,So we've been launching these kind of women in tech pilots where we embed stories about Ada Lovelace the ENIAC women Grace Hopper so you know you can't be what you cannot see right .
+O,And it's also the way you teach coding needs to be attractive to girls and we need to really understand why they're dropping out .
+O,And the third part of that is like what isn't measured isn't managed .
+O,And so oftentimes us for all initiatives they actually don't look and analyze what's the percentage of people of color .
+O,What's the percentage of women like how are we tracking .
+O,We just announced the first ever access bill with in Washington state to mandate that every single school and every single district has to actually tell you how many women how many people of color so that we can track how well the progress that we are making or quite frankly not making .
+O,Right .
+O,Right .
+O,I talked about that progress because in lots of I had of some research done by some people were for me but things have gone up since you all launched is that people of color women have increased in numbers in terms of getting them there and it's through .
+O,I would assume the work of all the groups .
+O,Yeah well all the group is focused on it .
+O,So there are increases among students .
+O,Correct .
+O,There are increases among girls about African-American girls especially .
+O,Absolutely .
+O,And some others how staying is this How important are you there when you're saying access isn't enough meaning people have gotten to the courses .
+O,What next .
+O,Well N.C. What did a great post about this .
+O,Yes there's more in raw numbers there's more rates of women people of color but there's a lot more rates of men too .
+O,Right .
+O,So the percentage of numbers of men are actually increasing and that's why I'm saying you want an apple interest yes I like some of these initiatives do a great job of you know when you see Mark Zuckerberg doing a video inspiring you to code who does that appeal to .
+O,Right .
+O,And so when you're watching these movements unfold a lot more men make great .
+O,I want to be a coder .
+O,And oftentimes those of us that are focused on women people of color get the least amount of resources the least amount attention the least amount of platforms i.e. 60 minutes to talk about our work .
+O,And so it's not reaching the demographics that we know is possible .
+O,The other thing Carol that I'm really focused on now because now we've taught a lot of girls and I get really frustrated when people say well it's a pipeline problem .
+O,I can't find them right .
+O,It's simply not true and we're going to be releasing data on this .
+O,But year after year after year I get e-mails from my students saying I applied to Google I applied to Microsoft I applied to Facebook I'm a 4.0 M.I.T. student Berkeley Stanford you name it can't get my foot through the door .
+O,And so what's happening now is that and I've sort of forming the lesson many of us are seeing the same thing is that you still have all white male panels you still have serious bouts of sexual harassment discrimination happening these companies you still have a culture right that is not welcoming to women and people of color .
+O,So even if we teach them if we are not simultaneously changing that culture not only are they not going to hire them but women are not going to stay .
+O,Why wouldn't we .
+O,Given the lack of people for the jobs that are available why do they not do that .
+O,What is in their way .
+O,Well you've had a great interview with Frida Kapoor about that .
+O,That was right .
+O,Lucy did that .
+O,Excellent .
+O,Right .
+O,And I think she she raised a lot of these issues .
+O,It's most of these cultures have been created with kind of all white and Asian men and we have to ask ourselves like can these big technology companies actually change and welcome women we're talking about power .
+O,Mm hmm .
+O,You know people don't give up power easily .
+O,And I think the problem with the tech industry is it sees itself as is very kind of libertarian meritocracy .
+O,Like not us .
+O,Right .
+O,And you almost have to actually present I call it a meritocracy .
+O,That's my line .
+O,My lines have a lot of lines .
+O,You have to kind of present the data and say well if it's a pipeline problem how many women applied last year let let's look at that data before you taught me that you can't actually hire them .
+O,No one offers that .
+O,Right .
+O,That who's going to work here .
+O,Right .
+O,To me what's really interesting .
+O,Again I when I did this interview was was I was like ironic two white guys telling me about diversity but actually they were quite because they've been investing across the country .
+O,And one of the most interesting parts that I think Steve Case pointed out was that the original Internet was dispersed .
+O,This is just geographic discriminate because I think 80 percent of all venture capital goes to three states .
+O,50 percent goes to California 60 percent of that goes just to Northern California and most of it goes to white .
+O,It's really .
+O,He was just like saying Here's what had happened .
+O,So the original Internet was widely dispersed IBM was here somewhere in Boston somewhere in Kentucky somewhere .
+O,They were all over the place and then when it became about software it all moved right to Silicon Valley and largely white largely male largely the same people who had gathered there and in grew in large groups financially .
+O,And what you said is both he and Cuba have been investing all over the country and you get a much more diverse group of people there because they're not all concentrated you also get more diversity of entrepreneurs and you might identify them and also you get more expertise people like ag tech people in agriculture areas or health tech which is dispersed all over the country essentially .
+O,So it was a really interesting thing and he said he thought that it would become some most of their investments actually I was looking at them were more diverse they write significantly more diverse because it wasn't this concentration problem .
+O,Talk a little bit about that I don't think they're 100 percent right it's like and he they were saying the opportunities are elsewhere and not getting Marc was saying Silicon Valley is finished .
+O,Yeah .
+O,Essentially which was kind of interesting .
+O,And he did not start his company in Silicon Valley .
+O,I mean some of them he's neither of them did actually write some most B.S. companies just have rules that they wouldn't invest unless you are located like 40 miles from where they were .
+O,So and I think the Valley is a bubble like a lot of them don't actually leave and it's a very under averse bubble .
+O,And I think that a lot of more I'm seeing a lot more women and people of color saying you know what .
+O,Like these cultures are not going to change .
+O,I'm going to leave and go start my own company and we have to ask I have to ask myself as a CEO of girls who code like should I keep encouraging my students to actually go into these companies when they're simply going to spit them back out .
+O,And so we have to kind of I think really encourage a culture of entrepreneurship and find those businesses .
+O,You know my husband and I you know as a family do these kinds side investments in women and people of color .
+O,We see tremendous people .
+O,That's what they were .
+O,And I think everyone should do that right .
+O,And there are a lot of people with a lot of incredible ideas and I think that a lot of these folks that really just have a very siloed vision of who deserves who's worthy of their ideas being funded are simply going to miss out on the innovation of the future meaning that they're not going to have the investments the Barack does it is a question of capital and how it's deployed .
+O,Correct .
+O,I didn't realize this but Marc has given Arlan Hamilton a million dollars .
+O,Like it was that I didn't know that I know that which was he had had trouble raising money because lots of reasons .
+O,But you know he's trying .
+O,He's like I'm trying to trainer and helper and figured out it was really because he had read about it .
+O,Yeah I thought it was interesting .
+O,So given that do we need to encourage people to code more or do you think you guys have all got the message through or is that just an ongoing .
+O,Yeah .
+O,I mean I think we need to still .
+O,I care about equity and I still think that there are so many parts of the country and this is I think a lot of what Trump got elected right where people feel like their kids are not going to have the same opportunity that they have and their jobs are being automated right there being families broken by the opiate crisis .
+O,To me those are the places where we need to be right .
+O,We need to be in places where kids will have love of poetry .
+O,The other place I'm really focused on is you know my new book Brave not perfect .
+O,I still think as women we hold ourselves back because we've been raised to be perfectionists you know Clive Thompson I've done this great story about why you saw this precipitous decline of women in technology in computer science classrooms from the 80s on down and what had happened in the 80s was the personal computer came out .
+O,And so a lot of women were walking into these classrooms where all these men had these had tinkered with these computers and they thought that suddenly they were smarter than them .
+O,It wasn't about their ability but their perceived ability .
+O,We often as men write count ourselves out OK we don't talk about that book we get back .
+O,We're here with freshmen so Johnny she's the founder and CEO of girls who code .
+O,We're gonna take a quick break now and we'll be back after this .
+B-AD,Today's show is brought to you by zip recruiter are you looking for a new job .
+I-AD,Maybe you'd like to work from home .
+I-AD,Or maybe you hope to relocate to a different city .
+I-AD,You might even want a job that offers travel opportunities .
+I-AD,Zip recruiter has them all to get my first job at the Washington Post .
+I-AD,I called the editor when they made a mistake in a story and I yelled at them that worked for me but for most people finding the right job is incredibly difficult because you get overwhelmed by all the options .
+I-AD,The zip recruiter app personalizes your search criteria so you can find exactly the job you want .
+I-AD,It's like having your own personal recruiter helping you find a better job .
+I-AD,What's not to love about that .
+I-AD,Just download the zip recruiter job search app let it know what kind of jobs you're interested in .
+I-AD,And it just starts doing the work .
+I-AD,The zip recruiter app finds jobs you'll like and puts your profile in front of employers who might be looking for someone like you .
+I-AD,Then if they like your profile zip recruiter lets you know .
+I-AD,So if you're interested in the job you can apply .
+I-AD,It's no wonder zip recruiter is the number one rated job search app .
+I-AD,It's time to let the power of technology work for you .
+I-AD,Don't wait .
+I-AD,The sooner you download the free zip recruiter job search app the sooner it can help you find a better job .
+I-AD,So download the free zip recruiter job search app .
+E-AD,Today .
+B-AD,Hi I'm Avery Teflon and I'm hosting curbs new podcast .
+I-AD,Nice try .
+I-AD,It's stories about how people have tried to design a better world and what happens when those designs don't go according to plan .
+I-AD,Season one is called utopian and it's about the perpetual search for the perfect place .
+I-AD,It includes cannibalism fascist architecture polyamory hermetically sealed domes and Courtney Cardassian dining room chairs .
+I-AD,But you know not necessarily in that order .
+I-AD,New episodes of nice try come out every Thursday .
+E-AD,Subscribe for free on Apple podcasts or in your favorite podcast app .
+O,We're here with Russia Miss Ajani the founder and CEO of girls who code which is our exemption that helps a guy schoolgirl third to middles grade on up on up to code and move into move into this in college and things like that .
+O,The idea is you guys are providing the pipeline this beginning part and the part where you will go in and then the difficulty you're now seeing is you can train all you want or get try to get as many people and there's lots of efforts going on going by lots of different groups to do this and especially over the last couple of years .
+O,But it doesn't matter because it comes up against the hard wall of the companies themselves .
+O,Absolutely .
+O,I think it even starts before that because I think the programs to the colleges .
+O,Yes .
+O,Is there is there what has to happen in colleges .
+O,I mean we have been work we've started three or better launched 300 college loops on college campuses critical mass .
+O,So I think two things are happening there .
+O,One you have these cultures that are very male dominated that quite frankly make women feel like they don't belong .
+O,Right .
+O,And other people not just women women people certain men people of color stuff like that correct .
+O,Like if you are not the norm .
+O,Right .
+O,And I think secondly sometimes when you are not the you know part of the majority you you underestimate your ability .
+O,And so you feel like other people are actually more prepared smarter than you are .
+O,And that's why I'm on a mission to kind of break perfectionism and also create community amongst women and people of color .
+O,So we've launched these girls who code loops and they've been tremendous .
+O,So what does a loop a loop is basically a group of girls who code alumni and other women in computer science where they can sit and ask questions and fail together and say oh you just went to Twitter to interview questions that they ask you oh you just took this yes class I heard a weed out class what should I be thinking about .
+O,Oftentimes we don't share knowledge and information with each other because we don't want to feel like we're dumb .
+O,All right .
+O,And so it's also the third part of that is really starting to change cultures in computer science departments which I think is really incredible .
+O,I met a parent yesterday whose daughter majored in Computer Science at Harvard .
+O,And last year they switched from doing in-person classes to online classes .
+O,And her daughter dropped out because she didn't have that sense of community .
+O,I want Harvard to measure what was the impact on that decision on women and people of color .
+O,And under screening she likes being in the yeah we're a place where she can ask questions and it wasn't enough for her to just want to be staring at a screen just asking questions .
+O,So I think again that's really important to keep our eye on administrations oncologists and see what are they doing to make sure that this diversity quite frankly happens .
+O,Rochester Institute of Technology is doing incredible work right on closing the gender gap in tech .
+O,One of the reasons why they've been so successful is they've started these men who support women in computing clubs some Ambassador there's men inside cups .
+O,They're the ones who stand up against micro aggressions .
+O,They're the ones who share internship advice .
+O,They're the ones who speak up when there's a sexist comment made .
+O,They're exercising bravery in using their power and their voice as a man to help change things .
+O,And I think that's critical .
+O,So once you get past the college when it's the job is the job market .
+O,And obviously right now a lot of the jobs are in the big companies .
+O,Yeah .
+O,More than the startups and women don't do startups as quickly as men do at all by massive numbers actually .
+O,Just interesting talk a little bit about that that shift when one when you go into a big company and the idea to start a startup or to do that right out of the gate .
+O,Well I think for a lot of women it's that stability right .
+O,It's that name brand .
+O,It's like you know you want to go to a Facebook or a Microsoft or Google .
+O,And I think that the problem I think that we're seeing is that these cultures are slow to change .
+O,I would have expected the diversity numbers to look they aren't they don't change .
+O,They're not changing at all .
+O,And maybe I was a little naive when I saw girls who code but I'm like oh these companies are created oftentimes by men that were raised by progressive women .
+O,Right that probably a self-described feminist you know in in a moment in time where we have a lot more knowledge about why diversity is important and a nerd as a nerd male nerds welcome .
+O,And that isn't what we are seeing happen with companies and I think we're falling back onto excuses one the pipeline and there's just not enough of them I can't find them .
+O,And to this idea like they're not qualified .
+O,Right .
+O,And I think both of those are false and we have to really really hold their feet to the fire to say hey like if you think that this is happening prove it because then nothing will change if we don't talk about the qualification because that's something you hear a lot that say they do it a lot .
+O,What I hear it's me is when it's on boards when there's plenty of people for boards there's plant in that area I'm like there's plenty of qualified women I can think of 20 60 third one hundred but in working that is one of the arguments is that the how do you change that .
+O,I mean various people have talked about you know there's obviously testing that people do .
+O,There's all kinds of things but a lot of it does still come down to this idea of culture fit .
+O,Yeah .
+O,Things like that now other people are saying I will solve that because we will be able to sort people the A.I. .
+O,Yeah .
+O,Talk about that .
+O,Well one I think there's a lot of elitist zoom in terms of where we recruit from and what I have found especially after the student loan crisis is that I have a lot of students who got into M.I.T. Stanford but they're going to CUNY or Hunter because they can't afford it .
+O,Yeah .
+O,And so we really have to change where we're where we're looking for talent .
+O,Right .
+O,Because I think we'll find a lot of women and people of color underserved minorities in places that we're not looking at one .
+O,You know I think second it does matter when you have all male white panels that are interviewing who are making the decision of who's qualified who's not qualified because they're looking for people like Johnson like I've .
+O,Well did you see that .
+O,Yeah I didn't .
+O,I think a chance to fully .
+O,Oh well I was sort of like whoa .
+O,Not even one you could not drag one woman in .
+O,Wow .
+O,Because you're not looking for them right .
+O,I mean the other thing is is that I wish that computer science department in technology companies would think about talent the way colleges think about football teams they go out and find them .
+O,They have recruiters that are out there looking for them .
+O,Trust me .
+O,Like if Google really wanted to get to parity in the next five years they could figure that out right but that would mean that they would have to actively get up go out in the country .
+O,It's hard to find that .
+O,I know it's always hard when it's something that's not hard .
+O,But here's the thing I think millennials care about this and I think that Google and Microsoft have a potential of becoming like Goldman Sachs where a lot of people just don't want to work there because they want to be affiliated with that brand .
+O,And like like I was I you know I was surprised when I read that Google had filed something with the National Labor Relations Board to say that people can't organize on their emails .
+O,I mean that's the kind of thing that like Millennials are like what .
+O,Right .
+O,And so they got a shift because they're going to have a huge problem finding talent among different people .
+O,Yes .
+O,Yeah yeah .
+O,So what do you advise them .
+O,So then there's that going to the big companies which which are stubbornly continue to have the same diversity numbers .
+O,What else could they do .
+O,What could they actually do .
+O,Not that you should be .
+O,Tell them exactly what I mean because they have plenty of resources of their own but what would be one thing that you would have the big companies do .
+O,And I want to move on to entrepreneurship .
+O,Well I think we have to be honest in the fact that there is a lot of micro aggressions and sexual harassment happening at these companies .
+O,And their engineering don't know how to behave .
+O,And they almost need to have training to how to interact with women quite frankly because Silicon Valley can't be like Hollywood right where it feels like listen if you're if your son is bringing in a lot of money and you're we're gonna let you do ever you want .
+O,Right .
+O,Like that seems to be like the attitude there .
+O,And that has to change .
+O,And I honestly feel like and I've been at some of these events and I've been at some these conferences .
+O,It's like the basics like basics .
+O,It's it's not to me you think me too has had an impact or not .
+O,Here we are a post that post well sort of posts that in the middle of post .
+O,I think it's it's not has have had as much of an impact as I would like .
+O,Listen for all the women who are listening here that work at technology companies keep protesting keep fighting keep walking out and for all the male allies when you walk out to them like we just have to start organizing technology companies in a way that you see other companies be organized so that these cultures changed they have to feel the pressure .
+O,Mm hmm .
+O,Do you think it's out of ignorance or just I don't think they want to deal with it .
+O,I think it's again a lot of what they consider high performers talented people who engage in these behaviors and they don't want to risk them walking away or having to fire them but they need to .
+O,All right .
+O,So you get so you train these people up and then they run flat into this wall you sexism etc. .
+O,So what about starting your own company .
+O,That's that's one way of doing it .
+O,That's one way I actually starting to see the field for later .
+O,Yes I am highly thinking about creating an incubator because that's that's kind of the conclusion I'm potentially coming to is that maybe it culture only happens from inception that you have to start a company out with a diverse team and to build a culture where actually you want to have diverse talent and that means that we have to support women people of color unrest of groups to like start their own companies .
+O,And how does that happen from a capital point of view .
+O,I mean I think you need to have more people actually writing checks .
+O,It can't be because what I mean what what what was the number fewer than 20 black women in the history of our country have gotten more than a million dollars in seed capital .
+O,All right come on .
+O,And so I do think that a lot of us in this space need to think about how we're supporting that work too .
+O,So how do you do it .
+O,Are you saying it is one thing .
+O,I think that female founders fund right all raise is thinking about this big men BBG ventures like there are a lot of different of kind of funds now being created around women around diversity .
+O,We need more .
+O,All right .
+O,Then subjects people to being pushed to the side .
+O,Those are the diverse funds versus here's the game .
+O,If I'm saying that I don't even know if I can change the culture of Facebook I don't know if I can change the culture of Sequoia .
+O,Like I don't know .
+O,You know I have not seen the type of change that I'd I'd like .
+O,And so we may have to just throw our hands up and say instead of continuing to try to change the establishment let's make our own establishment .
+O,That's always been my theory in life .
+O,Like except that's where the money is .
+O,It is but it doesn't have to be does it .
+O,I mean I still think that like can have I believe that there are very I think about Brian O'Kelly one of our first supporters of you know just made a lot of money out I have Nexis .
+O,He believes in this like I can .
+O,There are men who have a lot of money who are thinking about diversity in very different ways .
+O,I'm not saying that they've been at Kleiner Perkins for the past 40 years .
+O,So maybe there's a new generation of investors who are going to think about this differently and I encourage you to .
+O,OK .
+O,When you think about the creation of these companies you obviously you have to have an entrepreneurship angle with young women people of color .
+O,You're teaching code but don't you need to teach more than that entrepreneurship .
+O,We are teaching more that all of our like lessons essentially end with an impact project where we encourage our girls to build something to get into a team and create something .
+O,One of my students you know afterwards built a microchip where you put into a gun and it alerts you when it goes off in an area like a school .
+O,Youngest woman to get a patent .
+O,Anastasia at the University of Pennsylvania you know we have students who build you know built an algorithm to help detect whether a cancer is benign or malignant .
+O,You know had a student who built an app a tool called Rethink which if you're about to say something negative on a group text it asked you should you say that she was on Shark Tank .
+O,So like we are saying it was a little thing like that year ago a drunk thing couldn't breathe into it .
+O,And then you're not allowed to text if you're real drunk .
+O,Oh yeah yeah yeah .
+O,But yeah I mean we're inspiring them to be entrepreneurs and to think entrepreneurial .
+O,And that also means like being able to present your idea like every man I know has like a billion dollar slide in his business idea .
+O,Even if he's like selling ice cream most women will not tell you how their company is gonna be a billion dollars because we think we should approve every single little number .
+O,So part of it is like how do I present .
+O,Like how do I talk about the thing that I believe in and you know how do I work with a team to create it .
+O,When you're doing that what are some of the challenges you face in pushing girls so like that now after getting them you know moving the ball forward on coding itself .
+O,Yeah I mean I think I told my my undue story how girls are afraid to write a line of code and then ask somebody for help because they don't want to show that they've made a mistake .
+O,I think once they get through that of like wow I can actually create something that I didn't think that I could .
+O,I think the next stage is really having belief in their idea you know knowing how to work with the team to actually create it and then asking somebody for money .
+O,You know I tell people all the time like you know have your you know have your daughters like sell Girl Scout cookies I guess this idea of asking someone to invest in you is something that sometimes is a challenge for us as women because it's not what we've been raised to do right .
+O,And to also be able to stand up and speak in like you know present your idea .
+O,I can't tell you you know after my book tour how many times during Q and A I'll watch the first 10 hands race so our men and women are like furiously scribbling down their questions trying to perfect them .
+O,It is true the other day I wouldn't ask I wouldn't answer questions for the men in the room but I don't really care .
+O,Anyway we're going take another break now .
+O,We'll be back after this with Rush Mr. Johnny the founder and CEO of Girls Who Code .
+O,We're here with Rushmore Sajjan .
+O,She is the founder and CEO of Girls Who Code suit .
+O,Do you ever think of calling it Women Who Code .
+O,I'm not being .
+O,No it's just it's got it .
+O,You've got to move people along .
+O,Well there's an amazing organization called Women Who Code .
+O,OK .
+O,But I think it's important as an entrepreneur to stay in my lane and I feel like there are still millions of girls that I want to teach I mean I was just on the phone with a team in Jordan today because I really want to start teaching girls to code in refugee camps .
+O,So I still feel like there is a lot like I need I want to do in this age demographic in this age demographic Yeah .
+O,And what are some of the changes you see as you've done it over the past couple of years since when 2011 is becoming cooler .
+O,Right .
+O,I think we've made coding cooler because part of it is that right .
+O,When you change a girl's mind a lot of this is like oh that's not for me that's like you know a dorky guy in a basement somewhere you know staring at a screen .
+O,I think that we have shifted the way that we talk about it like girls want to solve problems they want .
+O,They don't want to .
+O,Like having a theoretical conversation about computational thinking it's like Hey teach me how to code so I can build this Web site to do something about climate change right .
+O,I think the third thing is it's really about changing the mindset of parents .
+O,I still think that we encourage our boys to get dirty and be technical and to build and create things and we're still pushing dolls and princesses to our girls .
+O,Not me I'm not .
+O,Of course not you know my voice Cook and although one of my boys does build and create it you know it's like we're hardwired parents are hard wired and sometimes like toughen up their boys and to insulate their girls .
+O,And that often I remember was one parent came up to me after her daughter had been through a girl's Riko program and we were encouraging her to start a club at her school .
+O,And she was like well my daughter's really popular and she's like the head of the cheerleading team I'm real I'm like .
+O,But I still hear this lady I still hear this from parents right from the parents you teach .
+O,Yeah .
+O,All right .
+O,So when you're teaching them where then let's finish up talking about where the next things are going .
+O,Obviously it's not going to just be coding is all kinds of things .
+O,Yeah I do think in the future having more humanities background more other things as you've seen through some of these problems at Facebook and other companies .
+O,One of the reasons is that people making these products have no conception of either their users or anything else .
+O,I could not agree more .
+O,I think that they also don't .
+O,I think girls really care about the impact of technology on humanity .
+O,You know one of my students was telling me how you know data sets are so important because she was reading how Google and Alexa are being used by perpetrators of domestic violence to lock women out to turn the music get rollouts and you don't have people on those teams too who have experienced that to say Hey got you know hey wait a minute here like this could happen .
+O,So I do think that having that mixture right like being a gender studies major and also majoring in Computer Science is incredible .
+O,We have to encourage that .
+O,I think that where this is going is I think that this generation of young people want to change the world .
+O,They're not thinking about making money right that great article today in New York Times where you have to think about like these CEOs .
+O,It's almost like too much capitalism right there too much thinking about the bottom line and how they can use ad revenue to make another dollar and not thinking about the impact on humanity .
+O,It's like where are you going to be at this moment in history what where are you going to stand .
+O,And I know we're women and people of color and underserved groups are going to stand on the right .
+O,Not at all not necessarily all .
+O,There's some more of that make money .
+O,Yes .
+O,So but how do you get these new changes to get the whole culture to think like that or have more people to have more people like that in the larger business culture to do that .
+O,Absolutely and I think we've lost that right what we call compassionate capitalism .
+O,I think we've lost a sense of and you really see this I think in the past couple years of Trump's administration I mean I think part of the reason why we haven't really turned his business is really still by him .
+O,They won't maybe admit it publicly but they absolutely are .
+O,Yeah they like the economy .
+O,Yeah .
+O,They want they really want to make more money .
+O,All right .
+O,And while people are hurting every single day and the fact that we're locking babies up in cages should be enough to say enough is enough .
+O,And also the culture of violation I was just talking to Scott Galloway about this .
+O,You see it at interest on his earlier this week is is even if you don't feel like you're locked into online stuff for example social media or other things you get impacted by it anyway because of what dribbles down into the culture like you may not follow anti vaccines on Facebook .
+O,But it has an impact on you .
+O,You may not you know sit on Twitter and yell at each other but it has an impact on the society at large .
+O,And this guy was making the point that now top basketball players are screaming at refs right .
+O,And this everybody feels that it's leaking out into the culture at large .
+O,I don't think it's a male thing .
+O,I do think it's it's a culture of not thinking about safety .
+O,Absolutely .
+O,I also think we're really in our silos like we think that whatever is my Instagram feed is like what life looks like .
+O,And it doesn't .
+O,And I think it's making us less compassionate making us less able to love .
+O,I mean there was a huge attack in Syria yesterday most of us didn't even know that that happened that you know hundreds if not hundreds of thousands of kids got displaced and are not going to go to school and that most kids haven't gone to school in Syria for the past nine years and 15 year olds can't read or write like we have are so detached from what is happening in the rest of the world and I think a lot of that has to do with what we see on our social media feeds .
+O,And it's really really really problematic .
+O,And I I think that like having a diverse set of innovators and creators and entrepreneurs would change some of us .
+O,Do you see any role that when you talked about I want to finish up talking about the idea of role models .
+O,Everyone talks about that .
+O,Where do you see the role models though .
+O,I mean I think they're there .
+O,I actually do think that they're everywhere .
+O,They're just not on the front page of The New York Times above the fold right .
+O,I think that we are still reading about we think about in technology these CEOs and I don't think that people are looking to them necessarily as role models and we right now know they're all ready to die .
+O,You know I am you know I'm speaking at Bill Gates summit next week and one of the things I want to say is that listen people look up to you as CEOs and so you actually could make a lot of difference .
+O,Once a week by thinking about who's a woman I'm going to highlight on my team who's the woman that I'm going to tweet about and say hey learn about her like don't always operate from gender and race from a place of defensiveness .
+O,Use your power for good .
+O,Use your voice for good use your platform for good .
+O,And we often don't think about like I sometimes feel like I don't hear from CEOs unless there's a walkout happening or protests happen or a sexual harassment allegation like I want to hear about what you think about gender equity on a weekly basis because you come from a place where you are loudly proclaiming that you are a feminist and it's something that well not all of them think until I want to .
+O,I know but I want them to like I want them to .
+O,I want to see a different type of leadership from these men and I think it's possible .
+O,I know them .
+O,I don't think so at all .
+O,I mean we don't think about it .
+O,I think it's not it's not it's not necessarily hostility with all of them and that's some of them it's a hostility for sure or a defensiveness .
+O,Like you know my fault kind of thing .
+O,And then the second part is they don't think about it and it's priority number 26 on a list of 27 or it's you know it's lowest .
+O,No one down so they never get to it and definitely growth growth growth has been at the top of it and all kinds of different .
+O,Yeah but it's never you can't even make a financial argument to them which is that to me is really interesting when you look at all the various studies that show that a diverse workforce is more profitable when you can drop one study after next .
+O,By the way you do have to believe studies .
+O,You know the studies are crazy .
+O,They're not say but it probably will make you more money and you can't even appeal to their greed and that's what I find it .
+O,So then you know forget about them .
+O,But I do think that that that the men one level below are two levels below like I had a lot of very senior Uber engineers after that went down men because 40 percent of girls who code teachers are men say I can't stay here .
+O,Same thing happened to Google .
+O,Same thing happens at Microsoft .
+O,So I do think that the men who have talent and who are brilliant and smart but who are feminists who aren't going to put up with this you need to leave when those things happen .
+O,And just to finish up what would you like to do in the next version of girls .
+O,I mean the next couple of years for girls you've got people talking about doing code you have people thinking about code and you know it's all across the country every state is talking about the idea of putting coding education even though there's all these issues around education and finances and that's like that .
+O,It is a priority .
+O,One of the priorities it's definitely become a priority through all these various efforts .
+O,What is next .
+O,What do you think the key things are next .
+O,You've got people's attention .
+O,I think that we have to change industry .
+O,I don't want to teach all these girls and nobody hires them .
+O,And you know it's interesting like Tech still has a pipeline .
+O,I mean has a pipeline from all throughout .
+O,Right .
+O,Less than 25 percent of the workforce is female and what less than 5 percent at the top level is it is women and people of color .
+O,I mean it's it's less than 1 percent right .
+O,It's horrendous .
+O,And so we have a unique opportunity .
+O,It's almost like it's like the 19 hundreds and we're looking at the law profession or the medical profession right .
+O,We have a unique opportunity to learn from what didn't happen in other industries and to do it differently in tech .
+O,And my telling you that I have all the answers but I am telling you that I'm thinking about it every single day .
+O,So what areas should they go into of tech .
+O,Woody what are you encouraging .
+O,Well we're encouraging them to continue to stay being technical and this is again why in particular .
+O,But I mean we want them to go into .
+O,You know there be a software program or go into product development right .
+O,Go into kind of cases where they can I Robotics Automation all of the above .
+O,Right .
+O,I mean I think every week people have a different opinion of where the industry is actually going .
+O,But our mission right now is to simply just teach computational thinking .
+O,So you actually feel comfortable with the languages that are coming for you know coming at you and that's really are our goal .
+O,Like it's not like we want everyone to go into robotics or into A.I. or into being data scientists .
+O,I want you to feel comfortable you know understanding technology and computational thinking in terms of like I can go in and solve a problem like that's my goal .
+O,And then what would you like from the media .
+O,Getting back to my God like I am on a shameless effort to stalk Shonda Rhimes to do her next show .
+O,And like a female coder listen it's all about culture .
+O,Like this is all about work is it work .
+O,Is it maybe she'll .
+O,Hopefully we're you're listening right now .
+O,To me and care .
+O,But look I think that I think that culture can actually shape this and changes very quickly .
+O,And you've seen this in other in other ways we've seen this with medicine and law .
+O,Right .
+O,I mean scandal L.A. Law and so it's not really the way we want to behave .
+O,Right .
+O,But you heard him saying I knew there was L.A. Law .
+O,I get my point .
+O,I get your point .
+O,But like I like that's how I decide to be what's going to be a lawyer .
+O,Yeah .
+O,And so we don't L.A. Law .
+O,Not only ally mcbeal Ally McBeal .
+O,And I was a different show right .
+O,And quirky and Kelly McGillis and they accused me like to me like a I like a super cool show about like you know female coders that go on and like you know take Facebook down like that's inspiring .
+O,And so showing more of this on television in magazines you know in children's shows and really shifting you know not having Barbie dolls that say I hate math not having teachers say I'm allergic to algebra .
+O,Right .
+O,Not celebrating this culture where girls are not quote good at math and also like inspiring bravery .
+O,Right .
+O,Which is what my book Brave not perfect is about like .
+O,I think that we have to show women a different way and not be stuck in the way that we have been actually raising young girls .
+O,And we as women have felt like that we actually can't take risks .
+O,You know we .
+O,And look I do think that there is a higher cost for failure .
+O,You know I was reading how women in finance are 20 percent more likely be fired .
+O,You know after a violation women the bar .
+O,You know twice the rate are disbarred for the same exact thing .
+O,And so and we see this in tech .
+O,So we have to change kind of the culture of failure and a failure can't be a privilege just for white and Asian men .
+O,It's got to be a privilege quite frankly for all .
+O,Everybody fair everybody feel .
+O,But we got to raise our kids differently .
+O,Yeah .
+O,That is absolutely true freshman .
+O,Thank you so much for coming on the show .
+O,Thanks Ken .
+O,Thanks to you all for listening and I'm going to talk to that Leslie Stahl .
+O,I'll do that .
+O,Let it go by .
+O,That's happened .
+O,You can follow me on Twitter at Kara Swisher my executive producer Eric Anderson is at Erica America .
+O,My producer Eric Johnson is at Hey hey E J restaurant where can people follow you online .
+O,You can follow me at Rush Miss Ajani on Twitter and I used J .
+O,I say you J and I .
+O,Right .
+O,OK .
+O,If you like this episode and what is Girls Code girls who codes comments at girls who go dot com .
+O,OK if you like this episode you really appreciate if you shared it with a friend and make sure to check out our other podcast recode media and pivot just search for them on your podcasting app of choice .
+O,Thanks also to our editor Joel Ravi .
+O,Thanks for listening to this episode of RICO decode .
+O,I'll be back here on Wednesday .
+O,Tune in then .
+O,Hey everyone this is Kara Swisher editor at large of Recode .
+O,And I'm Scott Galloway NYU Stern professor of marketing Cera .
+O,Really I don't know how they let you into that .
+O,Tell me about that .
+O,You guys you snuck into that school .
+O,I'm cheap .
+O,I work cheap .
+O,I think I think that woman from Full House got you in .
+O,Right .
+O,That's right .
+O,Varsity Blues .
+O,I can be bribed by the way anyone who wants me to get their kid and seriously 40 bucks and I'll do my best Scott .
+O,I'm not above that .
+O,I'm not only a whore Kara I'm a cheap whore .
+O,Scott I want to tell you about our pivot podcast you just got a little taste of it .
+O,He's completely a trashy person I'm trying to class up the joint .
+O,Anyway Scott explain it for the people .
+O,So every week we break down the Turks biggest stories and we taxonomy is it and learning and how it impacts our larger economy tax itemizing is my way of saying I'm trying to pretend I'm smarter than I am .
+O,Yeah a Texan I you know what that means .
+O,It's gotten I spend all week in the trenches holding business leaders feet to the fire fearlessly tweeting at the Zucker bergs Bezos endorses and we come into the studio and argue about which one of us knows more about what happened this week which is typically me but it doesn't stop him from talking .
+O,Anyway Scott how do you see it .
+O,We have winners and losers .
+O,We make predictions and we try to look at stuff through an unfiltered and unpolished lens .
+O,The journalistic rigour leader in our community of Kara Swisher .
+O,And then there's the other guy would you care to join us .
+O,Download now .
+O,Write us a nice review .
+O,All right .
+O,Every Friday morning we drop a new episode for the biggest story of the week and we give context affects your life .
+O,And let me just be clear Scott is a prediction machine .
+O,He's gazed into his crystal ball where he keeps it to tell you about where things are headed .
+O,He's been right on Amazon Tesla Facebook all kinds of things .
+O,How many how many are you keeping a tally Scott .
+O,You know I just stopped you said prediction machine .
+O,I'm just a machine .
+O,I'm a sassy little means I'm a machine .
+O,I don't know where we're going with this is looking for all the cards .
+O,The other day I was like he doesn't seriously Bromo all right .
+O,Okay .
+O,That's right .
+O,Show up with the big dog one word one word every week .
+O,Well Wolf so that's good too I doubt it does at this point subscribe to pivot with Kara Swisher and Scott Galloway for free on Apple podcasts or in your favorite podcast .
+O,Almost worth it almost worth it .

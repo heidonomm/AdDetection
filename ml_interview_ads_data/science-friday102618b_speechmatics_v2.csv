@@ -1,0 +1,726 @@
+B-AD,"WNYC Studios is supported by outie , explore the all new 2019 Audi A8 and see for yourself why luxury has found the vehicle it deserves ."
+I-AD,See your Tri-State Audi dealer for a test drive today or visit Audi USA BCom for more information .
+I-AD,WNYC Studios is supported by the ferryman .
+I-AD,The ferryman just opened on Broadway to unprecedented acclaim .
+I-AD,The New York Times says it will take your breath away .
+I-AD,And The Washington Post cheers .
+I-AD,This explosive drama is what a theater lover lives for .
+E-AD,Get tickets now to this Olivier Award winning best play at the Ferryman Broadway dicom .
+O,Listener supported w N.Y.C. studios' .
+O,This is Science Friday .
+O,I'm IRA FLATOW .
+O,"Even if you're just a casual student of ethics or just a fan of the TV show The Good Place , you've most likely heard of the trolley problem , a runaway trolley ."
+O,Here goes .
+O,It's on course to kill five people working down the track unless you pull a lever to switch the trolley to a different track where only one person would be killed .
+O,Do you intervene to kill the innocent bystander ?
+O,"Michael , what do you do ?"
+O,The trolley problem real .
+O,So we could see how the ethics would actually play out .
+O,There are five workers on this track and one over there .
+O,They're the lovers to switch the tracks .
+O,"I we figure , you know , a utilitarian ."
+O,"Yeah , that was a segment from the good place , and you can see it's one thing to imagine the trolley problem with a human at the controls , but when it went about a driverless driverless car , which , you know , controlled by a computer ."
+O,Autonomous vehicles are set to take over the road in the not too distant future .
+O,The U.N. recently passed a resolution that supports their mass adoption and that will put the decision of whom to save and whom to kill in the hands of a machine .
+O,Who should the car decide to protect ?
+O,The passengers .
+O,The pedestrians ?
+O,Older people .
+O,Younger people .
+O,A pregnant woman ?
+O,A homeless person .
+O,"My next guest discovered that how we answer that question depends on the culture we come from , and that could make designing an ethical autonomous vehicle a lot more challenging ."
+O,So Han D'Souza is a research assistant with M.I.T. Media Lab in Cambridge .
+O,His researches in the journal Nature this week .
+O,Welcome to SCIENCE FRIDAY .
+O,Thank you .
+O,Pleasure to be on .
+O,Nice to have you .
+O,Why is the trolley problem the best way to think about the future of driverless cars ?
+O,"Well , driverless cars promise to eliminate a large number of accidents , like the vast majority of accidents that currently happen due to human error ."
+O,But in the small number of cases were unavoidable accidents .
+O,There may be cases of unavoidable harm .
+O,"And , you know , typically we've had we've had Asimov's laws of her buttocks ."
+O,And those don't really .
+O,Those aren't really sufficient to look at situations where many eye has to balance the risks or balance harm or distribute harm .
+O,"ASIMO Yeah , that's how Asimov's laws , one of its laws of robotics , says there will never harm its creator , the robot ."
+O,And that may not be the case when in really when driverless cars come about .
+O,Yeah .
+O,"So in 2016 we actually released the Moral Machine website , which which is the main source of data for the study in 2016 as a companion website to a paper that might be AI , among others and others published about the social dilemma of autonomous vehicles ."
+O,"And that there was a study about what people think of autonomous vehicles that might have to see a sacrifice , one passenger to see if five pedestrians and people were found to want that as the norm ."
+O,"Like so so like sacrificing cars , cars that might sacrifice their passengers , but they don't want to use one or being one themselves ."
+O,So that's a bit of a dilemma .
+O,And I wanted to get more data about all the different factors that might go into this equation .
+O,"And in your study , when you you surveyed people all over the world that did not seem to be one philosophy of what should happen in this situation ."
+O,"Yes , there were broad global trends ."
+O,"Like , for example , nearly every country had a preference for between me , between male and female characters as morally significant in outcomes ."
+O,"They would prefer to see females , but the relative strengths of that preference are varied from country to country ."
+O,"And we noticed that clusters more or less , according to some cultural and geographic proximity , such as when it would give me Asia versus Middle East , places like Europe , North America , how were they all different ?"
+O,"So there were there were three main clusters , actually , Asia as an East Asia and some Middle Eastern countries and South Asia kind of clustered together as the we call that the eastern cluster ."
+O,"And then there's the southern cluster , which is dominated by Latin American countries and countries of a French Francophone heritage ."
+O,And there's the other countries are in the northern cluster .
+O,"Let's right the western cluster , which is mostly western countries , are full of Protestant or Catholic provenance ."
+O,So the countries in Asia and the Middle East preferred to spare younger rather than older characters .
+O,"That was not what it was , much less pronounced there ."
+O,Yes .
+O,The the general preference for sparing younger over all the characters was much less pronounced in the case of the Eastern Cluster .
+O,"And in Europe and North America , they preferred to spare room ."
+O,"I mean , they had their kind of more or less that was the average ."
+O,"And then in in the southern cluster , that's mostly the Latin American countries ."
+O,They had a slightly higher propensity to save the young .
+O,"Now , I took this test ."
+O,It was quite fascinating .
+O,And I know I had my own personal reasons for me .
+O,"The choices I made , how can you tell what types of logic people are using to make these choices ?"
+O,There are different intuitions that might go into this .
+O,"I mean , the classic one is utilitarianism , as as we heard in that clip you played and the ontology ."
+O,"So utilitarianism , as you know , it should SRB save as many lives as possible , even if that means committing to an act to an action like intervening ."
+O,"And there's also the deontological approach , which is like do no harm ."
+O,So that's those are the well-known ones .
+O,"And we've noticed , for example , that in different countries there are cultural factors and economic factors even that influence what decisions people make ."
+O,"For example , in countries with relatively higher economic inequality , they have a relatively higher tendency , relatively higher preference for saving high status individuals versus low such as individuals ."
+O,"You know , you put that into your tests , but in the scenarios , they include income , gender , physical characteristics , different ages ."
+O,These are things that the current driverless cars can identify .
+O,"Are they any they're not going to be , you know , knowledgeable of all those different things when it comes to making a decision ."
+O,So is that really a practical way to study it ?
+O,It depends what you use it for .
+O,"We do not really expect that we'll just take this data and build a model and and , you know , plug it into the vehicle , into vehicles , into future autonomous vehicles ."
+O,What we want to do is understand what the public's reaction to it is on the motor vehicle crash might be .
+O,We won't understand what what fuels need to be lead in order to encode adopter to fit all those vehicles .
+O,"So , yeah , those are the primary goals of this , to kind of see that conversation , to provide the ground truth for conversation about autonomous vehicle ethics ."
+O,"Guess you must talk to everyday people when you you know , you talk about your tests and and your relatives and friends about getting in a driverless car ."
+O,"I mean , let's just just between you and me and people want to get into a car where they don't have the option of protecting their own life ."
+O,"They know that the car might choose , that they die instead of someone on the street ."
+O,They're going to want to buy that kind of car or get into one .
+O,"So that's actually what what the paper and the 2016 paper looked at , which was do people and people people generally prefer to not buy such a car broadly and individually ?"
+O,It varies .
+O,"I mean , it depends on sometimes sometimes age or you know , or familiarity with technology has been known to and including , as I've seen , a familiar familiarity with the idea with EAI and and Avey technology affects these decisions ."
+O,"I would think that the car engineers must be , as you rightly point out , they're doing tests about this and they are thinking a lot about this topic ."
+O,"Yes , the industry is suddenly considering this ."
+O,"I mean , you know , Mercedes was at one of the heads of autonomous vehicles ."
+O,Automation said something back in in 2016 about autonomous vehicles like they might have to save the person in the vehicle if you can see the person in the vehicle .
+O,But then there was backlash against that .
+O,"So and then , you know , Ford , for example , though , they said the chief of Ford said that autonomous vehicles , that it'll ultimately have to come from a social consensus and that that's kind of the conversation we hope to see here ."
+O,It's not going to be a commercial someday were where the car companies are competing for your business by saying we'll put you first and instead of the pedestrian .
+O,Yeah .
+O,Autonomy .
+O,"Automakers might have different interests than , say , insurers and , you know , policymakers , consumer advocacy groups , that's their stakeholders with ."
+O,"And of course , the consumers I mean , their stakeholders with with differing interests ."
+O,And they will have to have a conversation to come to a consensus about where to move and that that that consensus might .
+O,That conversation might look different in different countries because of the different strengths of the preferences for along each of these dimensions .
+O,Let me see if I can get a quick phone call in .
+O,Lee in Tucson .
+O,Welcome to SCIENCE FRIDAY .
+O,Hi there .
+O,Quickly .
+O,Hello .
+O,"Yes , go ahead ."
+O,I write on my own .
+O,Here you are .
+O,Go ahead .
+O,Okay .
+O,"I guess my question in these ethical considerations in the survey or just in the in the practice itself that your guest is talking about , if there's ever actual material consideration of just not doing it at all ."
+O,"In other words , are the surveys including a question , do you think that to just think about actually just dropping this or not doing it at all ?"
+O,And do the people that consider the ethics of the whole thing really actually consider just dropping it and not doing it at all ?
+O,"And I'm referring to self-driving cars , A.I. ."
+O,OK .
+O,OK .
+O,Yeah .
+O,"You think , well , maybe this is just a bad idea that I mean , we think that that more knowledge is always good ."
+O,"Ultimately , when when self-driving vehicles start to come on the market in greater numbers and maybe even autonomous vehicles without any manual driving options , there's an issue of whether people will actually take to these ."
+O,"And in order for that to happen , I mean , even a default decision , even a random to say , even a decision to randomize even even a decision to always never intervene ."
+O,Those are still decisions that have to be made .
+O,And that's exactly that .
+O,That's a good place to start because we've run out of time and this is a topic we will pick up .
+O,I want to thank you so and for taking time to be with us today .
+O,So and D'Souza is a research assistant with the M.I.T. Laser Lab in Cambridge .
+O,"We're going to take a break and take off with the original moon man , Neil Armstrong in the new film First Man ."
+O,Have you seen it ?
+O,What do you think about it ?
+O,Give us a call .
+O,We'll be right back after this break .
+B-AD,WNYC Studios is supported by oudeh .
+I-AD,Explore the all new 2019 Audi A8 and see for yourself why luxury has found the vehicle it deserves .
+I-AD,"If you speak style , refinement and prestige , the all new Audi A8 won't have to say a word ."
+I-AD,"You'll know what it's saying by admiring its bold new design , a vehicle of progress and an experience for the senses ."
+E-AD,See your Tri-State Audi dealer for a test drive today or visit Audi USA dot com for more information .
+B-AD,WNYC Studios is supported by the ferryman .
+I-AD,The ferryman just opened on Broadway to unprecedented critical acclaim .
+I-AD,Ben Brantley of The New York Times says .
+I-AD,This is theater as charged and expansive as life itself .
+I-AD,It will take your breath away .
+I-AD,The Chicago Tribune calls it epic and extraordinary .
+I-AD,Time Out gives the ferryman five stars and declares it's this year's Must-See .
+I-AD,The Washington Post shares this explosive drama is what a theater lover lives for .
+I-AD,Don't miss the Olivier Award winning best play the ferryman .
+I-AD,Get Tickets at the ferry .
+E-AD,Men Broadway RT.com .
+B-AD,There are doors that once opened can never be closed .
+I-AD,WNYC studios and snap judgments underground lair spooked .
+I-AD,Season 2 is here .
+I-AD,Listen now every week until Halloween .
+I-AD,"Be afraid , but don't turn out the lights ."
+E-AD,Listen to speak whenever you get your podcast .
+O,This is Science Friday .
+O,I'm IRA FLATOW .
+O,Spectacular science shocker ever filmed .
+O,Too real to be science fiction now science is back .
+O,"Yes , indeed ."
+O,"It's time for another episode of Science Goes to the movies , and this week , a time honored story of a man , a plan and the moon ."
+O,"I don't know what space exploration will uncover , but I don't think it'll be exploration just for the sake of exploration ."
+O,"I think it'll be more the fact that it allows us to see things that maybe we should've seen a long time ago , but just haven't been able to until now ."
+O,That's actor Ryan Gosling playing astronaut Neil Armstrong in the new movie First Man .
+O,"He's talking about why he wants to be part of the Germany mission's astronaut crew , which will later finds out he lands him as the first human scent , food and set foot on the surface of the moon ."
+O,"And we've gathered a stellar panel of space nerds to talk about the film , what they liked , and maybe could have been done a little bit differently maybe than there were some errors in the film ."
+O,We want to hear from you .
+O,If you if you could make a movie about space exploration .
+O,What story would you want to tell ?
+O,These are the common stories .
+O,You hear the famous ones .
+O,What about some un famous people are famous stories .
+O,They could be from the space race or right now at any decade your life .
+O,Give us a call .
+O,Our number is 8 4 4 7 2 4 8 2 5 5 8 4 4 CY talk .
+O,You can also tweet us at Sye Fry .
+O,"Let me introduce my guests , Miriam Kramer's science editor at Mashable ."
+O,Welcome to Science Friday .
+O,All right .
+O,Thanks for having me .
+O,"And as you morons see , is a human exploration mission now an analysis lead at NASA's Johnson Space Center in Houston ."
+O,Welcome to New York .
+O,Thank you .
+O,"Good afternoon , ma'am ."
+O,And I received Sidiqi .
+O,He's a he's a history professor studying space exploration at Fordham University .
+O,His most recent book is Beyond Earth A Chronicle of Deep Space Exploration .
+O,Nice to have you .
+O,Nice to be here .
+O,Spoiler alert .
+O,That's it .
+O,"We're deep diving into the movie and that means we'll be talking about a key plot points , including ."
+O,Yes .
+O,Does Neil Armstrong make it safely back to the moon and back ?
+O,"If you don't know that , we'll get we're gonna be giving that away ."
+O,"So if you want to take part number 8 4 4 7 2 4 8 2 5 5 , you can also reach us @S-C-I-F-R-I Marium List ."
+O,Let's start with the review .
+O,Thumbs up or thumbs down ?
+O,"Oh , I loved that ."
+O,I'm in the tank for this movie .
+O,I really liked first man .
+O,It actually I've said this kind of surpassed my previous favorite space movie and is now in the top spot above Apollo 13 .
+O,"Yeah , that's pretty high brow ."
+O,Yeah .
+O,I really I really enjoyed it .
+O,I thought that it was sort of the space movie that we needed in a lot of ways .
+O,Why ?
+O,What do you mean ?
+O,"We needed a feel good movie , not some more ."
+O,I really enjoyed the tone of it .
+O,Like I have wanted for a long time for there to be some kind of darker look at space history .
+O,And I think that this kind of gave it to us in a lot of different ways from like the creaking metal of the ships as unless they were launching .
+O,"I thought I was you know , I was really he was gone ."
+O,"I mean , can as it was , you know , get an idea , had the rattling and much vibration ."
+O,It really wasn't exactly like real .
+O,I felt it .
+O,And just also like looking at the portrayal of masculinity and kind of the way that the whole movie came together around that I thought was really astute and a lot of ways to do it .
+O,What did you think on a personal level ?
+O,I really enjoyed it .
+O,"For me , it's the first person aspect versus just sort of watching it from the outside ."
+O,"You can really put yourself in the movie and , you know , most of us will never get to fly in space ."
+O,"So getting to actually experience it in a way was really a fun way to inhabit movie made ISF for throughout the film we see Neil Armstrong as dispassionate , reserved , contained , and that was all part of his engineering mindset ."
+O,Here's this .
+O,Here's a clip .
+O,Planning on taking some of our children to the moon bus tour with fellow wouldn't want to give his wife bragging rights .
+O,"Neil , will you take anything that choice they take with you ?"
+O,"I think that's a real quote , Arvizu ."
+O,"You met Neil , right ?"
+O,I did .
+O,I did .
+O,I met him once at a conference .
+O,"I think , you know , the movie ."
+O,It really does Justice's character in a way .
+O,I liked the movie quite a bit .
+O,"It's a flawed movie , but it's really great movie ."
+O,"I really think this is a movie that captures the other side of the right stuff , so to speak ."
+O,"The engineering , technical backgrounds and the kind of commitment these guys needed to have beyond just be fighter chunks and and that kind of internal narrative , internal kind of story ."
+O,"And in this movie about what it took to be an astronaut , I think really is communicated really effectively ."
+O,"Was he as reserve as you went , as you knew him ?"
+O,"Well , I didn't really I don't think I knew him that well ."
+O,"But from what I understand , he was very reserved , but he was not ."
+O,"I think as perhaps dower as portrayed in the movie , he had a sense of humor ."
+O,He was a funny guy .
+O,But I do think he had a lot of struggles in his life .
+O,"And as his biographer , Jim Hansen , has talked about , you know , there were some serious problem struggles in his family life and also with his colleagues in the astronaut office ."
+O,"So , you know , I think it's a bit of both ."
+O,He was I think he was he was a bit perhaps reticent .
+O,But but I think he was also capable of just being kind of chilling out .
+O,You didn't get that impression too much in the movie ?
+O,Not so much in the movie .
+O,But I think the movie was focused on those aspects of his career in life that required concentration and diligence .
+O,And as you .
+O,You're an engineer .
+O,Did you feel like that was a fair portrayal of any engineer ?
+O,I think engineers have a whole variety of personalities .
+O,So I think you saw a few different personalities in that movie .
+O,"And if you look across a lot of movies , you'd see that there's fund engineers ."
+O,There's a very serious ones .
+O,There's ones that are super outgoing .
+O,So it's certainly a fair portrayal because pretty much every personality type exists in engineering .
+O,And one thing that struck me about this film was how jarring and difficult all the scenes of spaceflight were .
+O,There you had Neil is cramped .
+O,The launches were teeth rattling and it was just disorienting any time we saw people flying nude .
+O,Was that realistic to you ?
+O,"I think there was a lot of realistic aspects that , you know , people assume you have this fun floating feeling , but especially in the Germany capsule , the Mercury , there wasn't a lot of room ."
+O,So you were really crammed in there .
+O,The cockpit was right in your face .
+O,The control panel .
+O,So I think that was a very accurate portrayal .
+O,All the switches engages are just right there .
+O,"So that and then , of course , the rocket rides uphill can be very bumpy ."
+O,So that was certainly true .
+O,Let's go to the phones .
+O,"Andrew in Sarasota , Florida ."
+O,Welcome to Science Friday .
+O,"Andrew , are you there ?"
+O,"Oh , hi ."
+O,Hi .
+O,"Sorry , I think I got disconnected there for a moment ."
+O,"Yeah , I was saying it just since you happened to mention in the Gemini program , we hear a lot about Mercury and we hear a lot about the Apollo ."
+O,But I feel like the Gemini program is under served .
+O,The first time man stepped out into the void and Americans did spacewalks .
+O,I think that's a story worth telling .
+O,"Hey , thanks for that call ."
+O,"I you know , asaph , a lot of people don't realize , you know , in that scene in the movie where he can control the orbiting , the rotation and he had the right stuff to pull out of that ."
+O,That's why he got the first seed to go landing on the moon .
+O,"Yeah , I think that's definitely one of the factors that kind of made him much more visible in the astronaut office there ."
+O,"I mean , there were other candidates for the job , but for sure , the Gemini 8 experience was a really key point ."
+O,It was a really dangerous mission .
+O,And I was just looking up old life magazines from that month .
+O,"And it was widely reported at the time as a kind of really kind of an amazing , exciting moment in the space race , a kind of successful failure in that sense , but a fantastic moment captured really nicely in the movie ."
+O,"As the one person in the room who remembers that real and real time , I can say that it was very exciting ."
+O,"The big emotional punch of this story was Neil's grief over the death of his daughter when she was just 2 years old and then the loss of the fellow astronauts in the lead up to Apollo 11 , Apollo 1 , whatever ."
+O,Do you think these human losses shaped history as as it played out ?
+O,"Well , you know , I mean , these things were if as I think is also communicated in the movie , these fighter pilots , test pilots were very familiar with losses because they had been at Air Force bases and many of their colleagues were , you know , not making it back home from test flight ."
+O,"So in many ways , they were used to it , but nobody's really used to losses like that , especially losing a child is something that nobody can really know unless it's happened to them ."
+O,But I think those things deeply affected Armstrong to the degree that we can say .
+O,And those those things were communicated really effectively in the movie in a way that I thought was really poignant and powerful .
+O,Marry me .
+O,"You know , we really don't usually see the personal side of an astronaut in a lot of films ."
+O,"Apollo 13 , we saw some of it , but it was really the heroic victory of getting back ."
+O,Right .
+O,Yeah .
+O,"For me , I think a lot of these space films tend to be focused more on spend sort of what the country is going through or than the nationalism aspect of it and the pride that these people bring to the country ."
+O,"But for me , the refreshing part about this movie was that it was really about him ."
+O,It was really about Neil and his struggle and sort of how many ways like death was kind of haunting him .
+O,"And that's something that I don't think that most people think about when they're thinking about the early days of the space race or even today , that it is this incredibly dangerous undertaking , because we are a lot of engineering geeks around here ."
+O,We'd like to know about what things got .
+O,The movie you got wrong .
+O,"What do you think , Miriam ?"
+O,The movie guys wibble .
+O,I May Be Wrong .
+O,First and last I ask is you see half the year .
+O,But did anything jump out at you ?
+O,I don't know of anything in particular jumped out .
+O,"I mean , I would say that final scene , I had a lot of questions about historical accuracy and whether or not he actually could have carried what he carried out to that crater and done what he did at the greater access ."
+O,What do you think ?
+O,What jumps out ?
+O,"You know , I've got a caveat ."
+O,This is a movie .
+O,It's not a documentary .
+O,So I wasn't as fully vigilant for these kinds of things .
+O,But I did something .
+O,Some things stood out .
+O,"For example , the insides of the spacecraft , like the Gemini spacecraft , looked kind of grimy and dirty ."
+O,And and I think they were really clean .
+O,I think that was a directorial choice to depict these things as rickety machines there so that there's kind of aesthetic choices that he made .
+O,"But I think overall , it's pretty accurate ."
+O,There's little little bits and pieces that he missed for sure .
+O,"And , you know , a lot of space nerds online are busy uncovering all this stuff ."
+O,"But overall , I think it's pretty accurate ."
+O,What did you wouldn't think of Buzz Aldrin ?
+O,Is that a trick question ?
+O,"I've known him a hundred years , so I have my own opinion ."
+O,"Well , we can we can say for sure that this was an exaggerated depiction of Buzz Aldrin in the late 60s ."
+O,"I don't think he would have said the things he said , but that was a choice , a kind of narrative choice from the writers ."
+O,"So , yeah , I'm there's not much to say ."
+O,"Obviously , he was he was not like that ."
+O,"But , you know , it's sort of the story as you you agree ."
+O,"I think they did a really good job , especially with the interiors and the window like details down to the window markings that they used for rendezvous and docking were there ."
+O,So that I really enjoyed that accuracy .
+O,There was one sort of technical piece that jumped out to me as a mission designer when they actually did the translator injection burn .
+O,"They were pointed at the moon , which means they would have missed it because it takes three days to get there ."
+O,The moon's moving that whole time .
+O,You really have to aim in front of the moon by quite a bit .
+O,So you like throwing a football in front of the receiver that's running .
+O,"And so that one when I kind of chuckled in the theater , but I refrained from commenting from my fellow new movie goers there ."
+O,"Well , I you know , just just to someone who watched it in real time when it happened then was the media ."
+O,That's how they portrayed it .
+O,They never really showed you the exact trajectories .
+O,They just showed you how the thing would circulate around the moon and come back .
+O,"Now let's go to Syracuse , New York ."
+O,"Hi , Mark ."
+O,Welcome to SCIENCE FRIDAY .
+O,Hi .
+O,Hi .
+O,Go ahead .
+O,So I remember distinctly watching the landing as an 11 year old and being so excited in the afternoon to watch the LEM touchdown .
+O,And then in the morning like one in the morning .
+O,"The spacewalk , as I recall , was moved up a good number of hours ."
+O,So it was in the middle of the night .
+O,"I remember waking up my 8 month old rather than 1 year old sister , sort of plopping them in front of the TV on my parents bed so that they would be able to have bragging rights for the rest of their life that they actually watched it ."
+O,But I was wondering if missing from the movie was a emotional reasons why that was pushed up so much .
+O,"I mean , that I thought would give some insight ."
+O,"Also , Neil Armstrong's emotions at that moment ."
+O,Mm-Hmm .
+O,I'm IRA FLATOW .
+O,This is SCIENCE FRIDAY from WNYC Studios .
+O,Any reaction ?
+O,Hammond Yeah .
+O,"From what I remember , the moonwalk was pushed ahead because the guys didn't want to wait ."
+O,"But this was a small operational decision , but I don't think it has to do with any kind of particularly emotional issue ."
+O,They just moved it .
+O,They were there .
+O,Let's get this .
+O,"Yeah , let's get ."
+O,I think they were supposed to take a nap .
+O,"And if I remember correctly , you know , I wouldn't be getting hardly sleep on the moon ."
+O,Yeah .
+O,"Yeah , that's right ."
+O,"Well , you're all you're all here ."
+O,All my guests are space nerds of some kind .
+O,And what did it feel like to see that representation of the landing from the astronauts eye view mirror ?
+O,And we to go to you first .
+O,I was on the edge of my seat .
+O,It was so funny .
+O,I was like I knew I knew he was gonna land .
+O,We all know he .
+O,"But for some reason , I was just like , oh , gosh , are they going to make it ?"
+O,I was nervous .
+O,"I said , yeah ."
+O,"You know , echoing Miriam , I mean , you know , this is gonna have a match ."
+O,"It was brilliantly portrayed , I thought , really wonderfully done ."
+O,You got a sense of what was happening to all the jargon and why Armstrong moved ahead from this creator and what he had to do .
+O,Ngadju I think it was a fairly accurate portrayal .
+O,My understanding is there were somewhere between 10 and 20 seconds worth of propellant left on the vehicle and they actually touched down .
+O,So I'm sure they were on the edge of the seat as they were doing it .
+O,"That start standing there weren't the seats , but it was very well portrayed that there was a very high risk maneuver that Neil was executing ."
+O,"Yeah , if I remember correctly , following overall the year there was there was chaos going on , which I think , well , you didn't see as much of because you were in the capsule that much time watching ."
+O,"But the coolness of Neil Armstrong during this whole thing , you know , hand guiding this down and you see that the fuel ticking down and he's not panicking and he's there ."
+O,He's finding a smile and he puts it down .
+O,"I mean , it was it was they they captured that very well ."
+O,It was absolutely .
+O,"Yeah , I agree ."
+O,And then they first step off the famous one small step .
+O,Now you do .
+O,He did not say one small step for a man .
+O,He said one small step for man .
+O,"You know , isn't there has there been some controversy about what he really said ?"
+O,S.F. Yeah .
+O,"I mean , for years ."
+O,Yeah .
+O,"But I think we can say that , you know , I think that sentiment is more important than the preposition ."
+O,"But yeah , we're not sure exactly what what he said or didn't say because there is static ."
+O,I think he said at some point afterwards that he was a man .
+O,Yeah .
+O,That was that was the intention and was intention .
+O,"And we look back at the space race this time when the nation and for the Apollo landing , the world was united in one vision ."
+O,I remember all awe and they showed this in the film .
+O,I cannot remember another moment since then where the whole world was watching one event together and it was sort of a unifying experience as if .
+O,"Yeah , absolutely ."
+O,"I think people forget that there were actually , you know , a lot of Americans who were not as enthusiastic about the space program in the 60s ."
+O,"But I think that one moment in July 69 , I think there was a kind of a cultural consensus ."
+O,"And this was one year after what I consider the most terrible year , 1968 I ever have lived through ."
+O,"So and then there was to have this kind of event where everybody was sitting united together because the country was so divided over the war and feels a little bit like that now , that sort of same feeling ."
+O,We're gonna take a break and talk more about space travel and talk with my guests here about that .
+O,"Maybe if he saw the movie , please let us know our number 8 4 4 7 2 for a 255 ."
+O,You can also tweet us @-S-C-I-F-R-I .
+O,We'll be right back after this break .
+O,Stay with us .
+B-AD,"WNYC Studios is supported by outie , explore the all new 2019 Audi A8 and see for yourself why luxury has found the vehicle it deserves ."
+I-AD,"If you speak style , refinement and prestige , the all new Audi A8 might have to say a word ."
+I-AD,"You'll know what it's saying by admiring its bold new design , a vehicle of progress and an experience for the senses ."
+I-AD,See your Tri-State Audi dealer for a test drive today or visit Audi USA DOT for more information .
+I-AD,WNYC Studios is supported by the ferryman .
+I-AD,The ferryman just opened on Broadway to unprecedented critical acclaim .
+I-AD,Ben Brantley of The New York Times says .
+I-AD,This is theater as charged and expansive as life itself .
+I-AD,It will take your breath away .
+I-AD,The Chicago Tribune calls it epic and extraordinary .
+I-AD,Time Out gives the ferryman five stars and declares it's this year's must see The Washington Post .
+I-AD,Cheers .
+I-AD,This explosive drama is what a theater lover lives for .
+I-AD,Don't miss the Olivier Award winning best play the ferryman .
+I-AD,Get tickets at the ferry .
+E-AD,Broadway RT.com .
+O,This is Science Friday .
+O,I'm IRA FLATOW .
+O,"We're talking about Neil Armstrong , as portrayed in the new movie First Man from the personal hardships the astronaut overcame to the jarring , dizzying process of astronaut training to have that story led to all the missions ."
+O,"And since that unforgettable July night of 1969 , my guests are Miriam Kramer , science editor at Mashable ."
+O,"Now , Judy Moran seeks Human Exploration Mission Analysis Lead at NASA's Johnson Space Center in Houston ."
+O,"Seb Sidiqi , a professor , a history professor studying space exploration at Fordham ."
+O,His most recent book is Beyond Earth A Chronicle of This Deep Space Exploration .
+O,Our number is 8 4 4 7 2 4 8 2 5 5 .
+O,We have lots of tweets that came in .
+O,Let's see what we get to just a few of them .
+O,"Tweet from Glenn who says , No one knows how much Russia pull ."
+O,Put the first spacecraft in orbit or the first human .
+O,Where did this knowledge come from having to really get us into the space race ?
+O,I asked you at the beginning of the hour to tell us what kind of film you would like to see that hasn't been made yet .
+O,I think that's his .
+O,"His effort , efforts , explaining a film he would like to see ."
+O,Let's go to the phones for another suggestion .
+O,Let's go to Ali in Cleveland .
+O,"Hi , Ali ."
+O,Welcome to SCIENCE FRIDAY .
+O,Hi .
+O,I love your show .
+O,Glad to be on .
+O,Go ahead .
+O,"No head , Alan ."
+O,"Yes , go ahead ."
+O,"Oh , I would love for some sort of biopic or something to be done about Mae Carol Jemison ."
+O,"You know , there are very few African-Americans and space exploration , very few women ."
+O,And she was the first African-American woman to go into space exploration .
+O,"And not only that , she just seems like a like a really cool person to hang out with ."
+O,"I mean , she's done dancing and acting and with on Star Trek ."
+O,And she graduated high school at 16 .
+O,"And , you know , and she was very inspired by the civil rights movement ."
+O,"I just feel like she's just all around a really multi-faceted , fascinating person to do a movie about ."
+O,And I'd love to see just to see something about her .
+O,"Mary , you're nodding very much in agreement ."
+O,"Oh , yeah ."
+O,Mae Jemison is very cool .
+O,"I've met her a few times and it's just always a treat to talk to her about , you know ."
+O,"Can you tell us a little bit about her history , you know ?"
+O,I think pretty much what the caller said .
+O,Yes .
+O,Is what I know of her is she's just like like a really interesting life filled with a lot of different things from science to the arts .
+O,Ngadju Mae Jemison .
+O,"Yeah , there's certainly a lot of background ."
+O,"She flew one of the shuttle flights , early ones for women ."
+O,And I think there'd be a really interesting story to tell there .
+O,That's it .
+O,"Yeah , absolutely ."
+O,I think there will be an amazing story .
+O,"Or , you know , her life is amazing ."
+O,"Then it is a treat from a tweet from APA says , how about the early women astronauts who didn't fly ?"
+O,Or perhaps what would happen would have happened if they did fly .
+O,Sounds like an interesting topic .
+O,"There are all these behind the scenes stories , right ?"
+O,"Yeah , there are ."
+O,"I mean , I think that's the Mercury 13 ."
+O,Right .
+O,So I there I believe was not as some kind of Netflix series about about them .
+O,"Also some kind of documentary series that was well regarded , you know , and all the people who were in that control room and all the other places and , you know , all kinds of all kinds of stories ."
+O,"It's interesting , this this is a movie about the heroics of astronauts nearly 50 years ago and nearly 50 years since the moon landing next summer , which I'm having trouble getting my head around ."
+O,And we also have Apollo 13 .
+O,We have the right stuff .
+O,Why is Hollywood still talking about things that happened 50 years ago when so much has happened since ?
+O,What do you think ?
+O,"Yeah , that's a good question ."
+O,"I think part of it is that , you know , Apollo landing on the moon , that was that was the big stuff like that was the big stuff that human exploration has has done in the last 50 years ."
+O,"I mean , that the shuttle was exciting and incredible , but it wasn't as exciting and incredible as like actually going to the moon ."
+O,So I think that it's it's a deep well that people keep coming back to because of that .
+O,"And that said , I think that there are plenty of stories to be told more in the here and now ."
+O,I mean I I think the robots should get their due .
+O,Yeah .
+O,"You know , that's what I said ."
+O,We were talking about this .
+O,I said there are all those robots .
+O,We don't hear any stories about the trials and tribulations of getting those robots .
+O,Yeah .
+O,And there are many other places .
+O,Yeah .
+O,And you know what ?
+O,We also hear about any stories of any other countries in the space room .
+O,There are so many other asks if there are so many countries up there right now .
+O,"I mean , there is a story to be told in the tweet about the Russians ."
+O,I think there will be a an epic story to tell about their chief designer .
+O,And they're there all their travails and difficulties in the space dog like it does many ways to enter into that story .
+O,But I would say that .
+O,"It's not all looking back in the past , if you look at movies like Gravity and The Martian , those are sort of maybe imagining a kind of alternate alternative to these sort of looking backward movies ."
+O,I think maybe there is something to be said about the interest in space in general .
+O,But I like to believe we're not just looking back .
+O,We're also imagining the future news .
+O,What do they talk about at NASA these days about so ?
+O,"Well , our big project is actually trying to get back to the moon ."
+O,So that's the Orion ESA Celeste programs and all of exploration systems development .
+O,"So , you know , really , I think once we can start flying those flights , there will be a whole nother crop of stories to be told ."
+O,"And one of the things I'd like to see , I don't think the general public really understands engineering and how all of these things take to develop ."
+O,"So on a personal level , I think it'd be great if if someone could figure out how to tell what it takes to actually get to the flight for the astronauts to fly on it ."
+O,"Ben in Mesa , Arizona , welcome to SCIENCE FRIDAY ."
+O,"Yes , thank you ."
+O,My name's Ben .
+O,"And yeah , I would I would think it'd be interesting to make a film about what the Challenger accident from an engineering standpoint ."
+O,"They the engineers actually tried to stop the launch , and unfortunately , that did not happen ."
+O,And it ended in the end .
+O,It affected them in ways that many people didn't know .
+O,"Of course , in fact , it killed the crew ."
+O,But I think that many of the engineers have a story to tell as well as if that's a good point .
+O,"Yeah , absolutely ."
+O,"I mean , that's a that's that would be an amazing story ."
+O,"But I think there is a plan to make a movie about the Challenger mission , but focused on the schoolteacher , Christa McAuliffe ."
+O,"But I imagine these the decisions made that day and the day before the launch , which were critical , will be depicted in some fashion in the movie , which were all engineering decisions ."
+O,"And and I'm sure will be , you know , crucial to understanding the accident ."
+O,"You know , as you said , you mentioned the Orion mission that once they get us back to the moon , is it going to be easier because of the lessons we learned from Apollo ?"
+O,"In a word , no ."
+O,Getting to the moon is just as hard today as it was in the 1960s .
+O,"I mean , we know a little bit more ."
+O,"We have an experience base of one to draw from , but actually going to the moon ."
+O,The mission is going to be just as risky .
+O,It's just as hard to do the amount of prop we need .
+O,"When Neil said he wished for more prop , I wished for more prop everyday as well ."
+O,So it's not any easier .
+O,Giving to the moon in itself is risky the second time around .
+O,"I remember after the Apollo missions were canceled , there were three rockets left over ."
+O,We only went to seventeen as well to be 20 .
+O,"I remember going to Houston and seeing them lying on their side , one lying inside as a home for nesting birds ."
+O,"And ever thought there was anything as sad as seeing a Saturn 5 being a home for , you know , it's nice the birds had placed in there ."
+O,"But it was the most fortunately , it's in a building now and it's been restored ."
+O,And I know that has been .
+O,Couldn't we just turn that put it back in the vehicle assembly building and send that back to the moon ?
+O,"I mean , I feel that the avionics are quite out of date and I don't think we can control it anymore ."
+O,When what's the schedule for that ?
+O,And do we have enough money and is it going to be going out ?
+O,So we're working through a 2020 flight for the first launch of s.o.s .
+O,And really the second launch of Orion we launched in 2014 for the first flight of Orion .
+O,And that'll be an untrue flight .
+O,We are going around the moon to a distant retrograde orbit .
+O,"So it'll even go way past the moon , about 70000 kilometers on the far side ."
+O,And that will be a long mission just really to shake down all of the vehicle systems on FLSA and Orion before we put crew on the next flight .
+O,So we're in progress .
+O,We have enough money and it's just a challenge getting there .
+O,It's back to the future .
+O,"Yes , indeed , we do that ."
+O,I want to thank all of you for taking time to be with us today .
+O,It's it's going to be the 50th anniversary next year .
+O,It's really amazing .
+O,"And we'll all be looking forward to seeing the Miriam Kramer , science editor , Mashable ."
+O,"Judy Moran , he was a human exploration mission analysis lead in NASA's Johnson Space Center in Houston ."
+O,"Sid Sidiqi , a history professor studying space exploration at Fordham University here in the Bronx ."
+O,Yes .
+O,"His most recent book , Proud Bronx is Beyond Earth A Chronicle of These Deep Space Exploration ."
+O,Thank you all for taking time to be with us today .
+O,Thank you .
+O,Thanks for .
+O,What's your favorite Beatles song ?
+O,I Want to hold your hand in my Life around Science Friday .
+O,This is our favorite .
+O,"No , it's not a squeaky shoe and it's not the Fab Four we're talking about the fabulous horned Japanese rhinoceros beetle ."
+O,That's what you heard in that clip .
+O,And these beetles have a very interesting courtship ritual .
+O,That's the topic of our latest Mac Roscoe video .
+O,And you can watch it on our Web site at sciencefriday.com .
+O,And here to tell us about that is Gillian Del Sol. She is a biology p._h._d student at the University of Montana in Missoula .
+O,Welcome to Science Friday .
+O,Hi .
+O,Thank you for having me .
+O,"These aren't your typical beetles , are they ?"
+O,They their size .
+O,They're the size of an egg .
+O,And they have horns .
+O,"Yeah , they have big horns ."
+O,What are the horns look like ?
+O,The horns look like these these kind of thick pitchfork shaped structures .
+O,They have two main prongs .
+O,And then those are those are also forked .
+O,So they have these four sharp points on the end .
+O,"And you have a collective these beetles in the field , where do you find them ?"
+O,You fight .
+O,You can find them all over Asia .
+O,They're most famous in Japan .
+O,"But my study sites where in Taiwan and in a few places in Japan , including the small island of YAKKO Kushima ."
+O,So these are not the Asian longhorn beetles that ravage the woods of America .
+O,He says he's no one else .
+O,I just want to get those beetles use these horns when they're trying to woo a female in a kind of a feat of strength contest .
+O,Right .
+O,"So that's the fascinating part about these songs , is that we know that they use their horns and their horns are important for fighting other males , especially fighting other males away from a sap territory , a food territory ."
+O,But it seems as if the females don't actually pay any attention to the horns themselves .
+O,So the males sing instead of instead of using their horns with female courtship at all .
+O,I'm IRA FLATOW .
+O,This is SCIENCE FRIDAY from WNYC Studios .
+O,So let me get this straight .
+O,"They have these big , long horns , but to woo the females , you know , it makes sense that they sing instead ."
+O,And that's when that's the that's the sound that we heard .
+O,Let's hear what .
+O,Listen to the sound of the song .
+O,"Well , Gillian , I guess to another Beatle that that's love ."
+O,It sure is .
+O,What what is it ?
+O,Can you decipher anything that's going on in the song ?
+O,Is it just something that the other Beatles know about ?
+O,"So right now we're trying to figure out how the song might be connected to qualities of the male itself , like how big he is , maybe how how much energy he has or how well-fed he is ."
+O,"Because in courtship songs across the animal kingdom , think about the songbirds in your backyard ."
+O,"These songs and in their complexity and their volume and all these other other little details of the songs themselves are used to communicate something about the singer to the receiver and from a male to a female that might be saying , Hey , I'm big , I'm bad , I'm strong , or something like that ."
+O,"And so right now we're in the process of going through the recordings , like you just heard that I've got in my lab to see if there's any patterns between big and small males , how fast they saying how loud they seeing stuff like that ."
+O,So you actually have a little Beatles recording studio ?
+O,I sure do .
+O,"I made it out of some sound absorbent material , some nice foam on the inside ."
+O,"And I set up a whole little , whole little setup and had the nice little piece of bark for the Beatles to hang out on and ."
+O,And a video camera and a microphone .
+O,So it was it was a legitimate setup .
+O,I'm I'm fascinated about what they are doing to make that sound .
+O,How is how's that sound produced ?
+O,So I personally think it's something very similar to a cricket or grasshoppers rasp and file .
+O,And so I think that there is sort of a rigid washboards structure on the abdomen that they're moving against a hard part of the wing covers .
+O,Then the actual LHR that you see on on the back of the beetle .
+O,So I think they're moving that up and down across much like nails on a washboard .
+O,"Another way the insects make squeaking sounds , though , is by forcing air out through holes in the abdomen through which they breathe ."
+O,Called spirituals .
+O,"So if you've ever seen a hissing cockroach , they don't have a mouth ."
+O,They don't produce that sound with any sort of mouth structure .
+O,That's actually from their abdomen .
+O,So that's another possibility .
+O,"So so the whole ritual goes like , well , you have these two male big beetles with the big horns and they fight for the right to woo the female ."
+O,The one who wins then and plays her a song .
+O,Is that basically what we have going here ?
+O,Yeah .
+O,"Basically , yeah ."
+O,And what else would you know ?
+O,Would you like to know about them ?
+O,"If I could give you my $64 question and an unlimited check , which I don't have ."
+O,What would you what would you do ?
+O,What would you construct ?
+O,How would you use it ?
+O,What would you like to know ?
+O,I would like to know .
+O,And this is what we're trying to figure out in the lab .
+O,"But right now , the biggest question is what are females looking for in males ?"
+O,And is it different than the competitive traits that we already know are important in the competition side of things ?
+O,"Even in the Beatles community , that's what the question is ."
+O,"One , of course , is there's the question ."
+O,It's the age old question .
+O,"And so how many Beatles have you studied , do you think ?"
+O,"Oh , gosh , over the years ?"
+O,"Well , and our first population , we call it at least 800 males in one summer , it was they were everywhere ."
+O,My my old mentor described as like a plague of beetles there .
+O,"Yeah , I guess that's a good description of a group of beetles , a plague of beetle , biblical proportions ."
+O,Can't top that .
+O,"Gillian , thank you very much for taking time to be with us today ."
+O,"Chris , thank you ."
+O,Gillian del Sol is a biology p._h._d student at the University of Montana in Missoula .
+O,And you can watch Gillian and his Japanese rhinoceros beetles in our latest macross Scope video .
+O,It's up there at Science Friday dot com .
+O,B.J. liederman composed our theme music .
+O,"And of course , so if you missed any part of the program , I'd like to hear it again ."
+O,Subscribe to our podcast .
+O,Wherever you would like to get your podcasts .
+O,"And if ever smart speaker , you can ask to play Science Friday whenever you want ."
+O,"So every day now is Science Friday and we are in social communities everywhere , Facebook , Twitter , Instagram ."
+O,And you can also e-mail us Sife Fry .
+O,It's Science Friday dot com .
+O,Go to our Web site at sciencefriday.com .
+O,"For all our educational materials , we have hundreds of videos up there on a people don't know about all the stuff we make for teachers ."
+O,Have a great weekend .
+O,I'm IRA FLATOW in New York .
+B-AD,"Science Friday , supported by Wix dot com ."
+I-AD,Did you know you can get a professional Web site in five minutes or less ?
+I-AD,It's true .
+I-AD,Wix dot com developed artificial design intelligence that builds a stunning Web site just for you .
+I-AD,You can even do it right from your phone .
+I-AD,Here's how it works .
+I-AD,Go to Wix dot com and decide what you need a Web site for .
+I-AD,Pick your style and add your images and your Web site is ready .
+I-AD,Now that's the future .
+I-AD,Create your Web site today .
+E-AD,Just go to Wix WAAX dot com slash Science Friday to get 10 percent off when you're ready to go premium .

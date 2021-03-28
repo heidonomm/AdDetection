@@ -1,0 +1,1864 @@
+B-AD,"Hello , everybody , how you doing out there ?"
+I-AD,"This episode , the podcast is brought to you by Squarespace ."
+I-AD,Squarespace is the host of my Web site .
+I-AD,Joe Rogan dot com .
+I-AD,And it's a great place .
+I-AD,"If you want to make your own Web site , you can do ."
+I-AD,"I know you're like , I can't do it ."
+I-AD,You can do it .
+I-AD,You can with Squarespace because they've got it nailed .
+I-AD,"They've got it down to a simple , easy to use , drag and drop user interface and gorgeous designer templates that allow anybody that will allow you ."
+I-AD,Me .
+I-AD,"The average Joe off the street , the average Jane ."
+I-AD,"Any person who knows how to use a computer in a normal way , can you move files around on your desktop then ?"
+I-AD,"Boom , he can make a gorgeous web site with Squarespace ."
+I-AD,They really have it down in a simple science to a simple science .
+I-AD,I just think you could promote a physical or online business .
+I-AD,You can blog or publish content .
+I-AD,If you got an idea .
+I-AD,You think maybe I can make a job out of this .
+I-AD,Squarespace is the way to do it because you can sell things through it .
+I-AD,They have powerful e-commerce functionality that lets you sell anything online .
+I-AD,"Plus , it's really simple to use ."
+I-AD,"You can customize the look , the feel , the settings , the products and more with just a few clicks ."
+I-AD,Every Web site comes the free online store .
+I-AD,Everything is optimized for mobile right out of the box and they have a new way to buy domains .
+I-AD,And you could choose from over 200 extensions .
+I-AD,I bet you like me .
+I-AD,And you didn't even know there was over 200 extensions .
+I-AD,"They have built in search engine optimization free and secure , hosting nothing to patch or upgrade ever 24/7 award winning customer support ."
+I-AD,And they'll let you try it out for free .
+I-AD,How about that ?
+I-AD,Go to Squarespace dot com slash Joe for a free trial .
+I-AD,Then when you're ready to launch .
+E-AD,Just use the offer Cojo and you will save 10 percent off your first purchase of a web site or domain .
+B-AD,We're also brought to you by the motherfucking cash app .
+I-AD,"The cash app , which is the easiest way for you to send or receive money , especially when your friends owe you or when you owe them ."
+I-AD,But now it's also the easiest way for you to try to grow your money in the market with their new investing feature .
+I-AD,And unlike other bullshit ass investing tools that only let you buy entire shares of stock .
+I-AD,Cash app lets you invest with as little as $1 cash app is also the easiest way to buy and sell bitcoin .
+I-AD,So come on kids .
+I-AD,What the fuck are you waiting for ?
+I-AD,"And of course , when you download the cash app , enter the referral code ."
+I-AD,Joe Rogan .
+I-AD,All one word and you will receive $10 and the cash .
+I-AD,"Apple send $10 to our good friend Justin Ren's fight for the forgotten charity , building wells for the pigmies in the Congo ."
+I-AD,"And through this promotion , we built several wells and raised thousands and thousands of dollars were very , very , very honored and happy to be a part of that ."
+I-AD,"So don't forget , use the promo code ."
+I-AD,"Joe Rogan , when you download the cash app ."
+I-AD,"Joe Rogan , all one word , no space ."
+E-AD,When you download the cash out from the App Store or the Google Play store to day .
+B-AD,We're also brought to by Xoom video conferencing .
+I-AD,Zoom did not invent video conferencing .
+I-AD,They just made it better .
+I-AD,And now Zoom's how business gets done .
+I-AD,Zoom ties together .
+I-AD,"All of your communication needs in one easy app for video conferencing , phone calls , group chat webinars and your conference rooms ."
+I-AD,"Turn any workspace into a modern , easy to use zoom room and enterprise grade video conference room design for instant collaboration with flawless video and audio , instant wireless content sharing , and a single tap of a button to start a meeting ."
+I-AD,"It's beautiful and Xoom phone works seamlessly from any device as your business phone system to make him receive phone calls , captcha call recordings and easily elevate from phone call to video if the need arises ."
+I-AD,"Zoom is used resume's zoom , zoom , zoom in ."
+I-AD,Zoom is used by millions to connect around the world .
+I-AD,Why wait any longer ?
+I-AD,Visit .
+I-AD,Zoom online to set up your free account today .
+E-AD,Meet happy with Zoom .
+B-AD,Were also brought to you by policy genius .
+I-AD,"If there's one thing that human beings are not great at , it's predicting the future ."
+I-AD,Take a look around .
+I-AD,"No amount of crystal balls , fortune cookies or tea leaves could predict the world we're living in right now ."
+I-AD,But unpredictability is also what keeps life interesting .
+I-AD,The trick is to enjoy the ride without worrying about what's around the corner .
+I-AD,And one way to worry less is to get the right life insurance .
+I-AD,And that is where policy genius can help .
+I-AD,Policy genius makes finding the right life insurance a breeze .
+I-AD,"In minutes , you can compare quotes from the top insurers to find your best price , and you could save 15 hundred dollars or more a year by using policy genius to compare life insurance policies ."
+I-AD,Once you apply the policy genius team will handle .
+I-AD,All the paperwork and the red tape for free .
+I-AD,And policy genius doesn't just make life insurance easy .
+I-AD,They can also help you find the right home and auto insurance or disability insurance .
+I-AD,"So if you haven't found a play by play breakdown of your future inside a crystal ball or a cookie , that's OK ."
+I-AD,Be prepared for anything with life insurance .
+I-AD,"In just a few minutes , you can find your best price and apply at policy genius ."
+I-AD,Dot com policy genius will always get the future wrong .
+E-AD,Better get life insurance right .
+O,My guest today is Michael Osterholm .
+O,And we need him right now .
+O,He's a public health scientist and a biosecurity and infectious disease expert .
+O,He is the director for the Center for Infectious Disease Research and Policy at the University of Minnesota .
+O,"And we had a fantastic conversation about specifically about the Corona virus , but also about some other diseases ."
+O,And it was very enlightening .
+O,"He's going to clear up a lot of myths and let us know what we should be worried about , where we're at ."
+O,And it was it was eye-opening .
+O,And he's also the author of Deadliest Enemy Our War Against Killer Germs .
+O,"So please welcome Michael Osterholm , the Joe Rogan experience ."
+O,All right .
+O,Here we go .
+O,"So what you said when you sat down was absolutely perfect , that the timing could not have been better ."
+O,We'll tell everybody which do .
+O,Michael .
+O,"Well , thank you ."
+O,"I'm a poor black for better term , a medical detective ."
+O,"I've spent my whole career tracking infectious diseases down , trying to stop him ."
+O,Try to understand where they come from so we can make sure they don't happen in the first place .
+O,"But most of all , trying to respond to situations just like this , just like this and just out off the bat ."
+O,How serious is this ?
+O,Is this something that we need to be terrified of ?
+O,Or is this overblown or how do you stand on this ?
+O,"Well , first of all , you have to understand the timing of it in the sense that is just beginning ."
+O,"And so in terms of what hurt , pain , suffering , deaths account happened so far is really just beginning ."
+O,This is going to unfold for months to come yet .
+O,"And that's , I think , what people don't quite yet understand what we saw in China ."
+O,"I'm convinced , as are many of my colleagues , as soon as they release all of these social distances is mandated , stay in homes , have left your home in weeks and weeks kind of thing ."
+O,"When they go back to work or on planes , trains , subways , buses , crowded spaces , manufacturing plants , even China is going to come back again ."
+O,"And so this really is acting like an influenza virus , something that transmits very , very easily through the air ."
+O,We now have data to show that you're infectious before you even get sick .
+O,"And in some cases , quite highly infectious ."
+O,Just breathing is all that you need to do .
+O,"So from this perspective , I can understand why people would say , well , wait a minute , flu kills a lot more itself every year than this does ."
+O,"And Ari , remind people that's just beginning ."
+O,Probably the best guess what we have right now on what limited data we have to say this going to be at least 10 to 15 times worse than the worst seasonal flu year .
+O,We see 10 to 15 times worse in terms of fatalities .
+O,"Yeah , yeah ."
+O,And just illness .
+O,"In fact , I just brought some numbers ."
+O,We can certainly estimate that this could require 48 million hospitalizations .
+O,Ninety six million cases actually occurring over four hundred eighty thousand deaths that can occur over the next three to seven months with this situation .
+O,So this is not one that to take lightly .
+O,And I think that's what I can understand .
+O,"If you say you look at 10 deaths or 20 deaths or 50 deaths , just remember two weeks ago , we are talking about almost no cases in the United States ."
+O,"And now that we're testing for it and watching this spread as it's unfolding , those numbers are going up astronomically ."
+O,"Three weeks ago , Italy was just living life just fine ."
+O,Now they're literally in a virtual shutdown of the northern parts of Italy .
+O,And that's the challenge with an infectious disease like this .
+O,It could spread very quickly and it also can affect people .
+O,"I think maybe to put this into modern terms , this is something we think of often when we think of , you know , pre-antibiotic days , you know , the old time medicine ."
+O,We have an employee at our Center for Infectious Disease Research and Policy at the University Minnesota .
+O,"And she has a dear friend who lives in Milan , Italy , and she works at a hospital there ."
+O,And she takes this to this employee of ours last night .
+O,And this was an email that came out yesterday from one of their physicians in Milan at the largest hospital there .
+O,He said I just got a very disturbing message from a cardiologist at one of the Milan's largest hospitals .
+O,They're deciding who they have to let die .
+O,They aren't screening the staff anymore because they need all hands on deck .
+O,And they have a very small areas of the hospital dedicated to non-covered patients where they still screen doctors .
+O,Everybody else is dedicated to colvard patients .
+O,"So even if they're positive , meaning that they're sick , they don't and they don't ."
+O,"Severe cough or fever , then they have to work ."
+O,He says that that they're seen an alarming number of cases in the 40 something age range and as these are horrible cases .
+O,So we need to stop thinking that this isn't only an old person's disease .
+O,This is what's going to unfold .
+O,Not just and move on .
+O,It's unfolding on the line .
+O,It's unfolding here in Seattle .
+O,And this is what's going to continue to roly-poly unfold throughout the world .
+O,Where did this rumor come from that it's an old person's disease ?
+O,Is it just because the majority of the people that have died from it so far have been older ?
+O,Yes .
+O,"In fact , that's the primary risk factor for diet is being old and then having certain underlying health problems ."
+O,"For example , in China , those men over the age of 70 who also smoked were eight to 10 percent of them died ."
+O,Sixty five percent of older Chinese men smoke .
+O,"The case fatality rate or the percentage of people who die and women , that same age group is only about 2 percent ."
+O,"In that case , very few women smoke ."
+O,"Now , the challenge we have is that that's the Chinese data ."
+O,But there are a series of risk factors that we worry about that if they overlay on this disease are going to cause bad outcomes .
+O,And we happen to be right at ground zero for one of the major ones here in this country .
+O,That's obesity .
+O,We know that obesity is just like smoking in terms of its ability to really cause severe life-threatening disease .
+O,And 45 percent of our population today over the age of 45 in this country are obese or severely obese and men and women .
+O,So one of the concerns we have is we're going to see more of these .
+O,But I guess I would call very serious and life threatening cases occur in our country because of a different set of risk factors and we saw in China .
+O,"Now , you've mentioned that there's some sort of incubation period before people become sick ."
+O,There's still contagious .
+O,What is this incubation period and how do we know about it when we call something in incubation ?
+O,"We're talking about from the time you and I got exposed , meaning I was in a room breathe in the air that somebody else who was infected with the virus was expelling out ."
+O,I breathed it in .
+O,How long from that time period till the time period that you get sick ?
+O,And what is that ?
+O,It's that's we call the incubation period .
+O,So that's when case numbers can double or triple every so many days .
+O,And this case is about four days .
+O,So and we actually have data there from people who were exposed one time or one time only .
+O,"And we know when they were exposed , they were exposed ."
+O,How soon do they get sick afterwards ?
+O,So the chauffeur in the car or an individual was sick or showing symptoms .
+O,Then the chauffeur gets it four days later .
+O,"You know , they were there one time and one time ."
+O,All of the chauffeur does not show any symptoms .
+O,He's still contagious .
+O,He could he could also be contagious to .
+O,Or he .
+O,"And that's one of the things that's challenging here , is you and I might get exposed to somebody who is totally asymptomatic , no symptoms ."
+O,"That virus would appear well , that's not a very strong virus ."
+O,"But in fact , when it infects us , it could kill us ."
+O,So we've seen cases of fatal disease that were exposed to people that had minor symptoms themselves .
+O,Wow .
+O,And this is what's unfolding here .
+O,"And , you know , and this is where I think it's such an important thing ."
+O,"I said why the timing is so important , because , you know , all we really have got to get information out to the public ."
+O,There is so much mystery information right now .
+O,"And , you know , we're going to be in this for a while ."
+O,This is not going to happen overnight .
+O,I worry .
+O,I keep telling people were handling this like it's a corona blizzard .
+O,"You know , two or three days to normal ."
+O,This is a Koln virus winter .
+O,"And we're going to have the next three months or more , six months or more that are going to be like this ."
+O,"And , you know , so far this thing has been unfolding exactly as we predicted it ."
+O,We .
+O,And our center put out a piece on January 20th and said this is going to spread worldwide .
+O,"The time people said adeno , it's just China ."
+O,"We put out a piece the first week , February said this is going to pop probably the last week , February , first week of March , because what happens is it has what's called an Arnott not or a doubling time of of these every four days or two increases doubling every four days ."
+O,"So if you go from two to four to eight sixteen , it takes awhile to build up ."
+O,"But when you start going from 500 to 1000 to 2000 to 4000 , that's what we're seeing happen in places like Italy ."
+O,We're beginning to see it in some ways up in Seattle .
+O,What happened in China ?
+O,"And , you know , when people are confronted with that , suddenly this low risk phenomena ."
+O,There were talks about isn't so low anymore .
+O,And that's we need to prepare people for now what can be done ?
+O,"Like what in the average person do I see people walking around with masks on , wearing gloves ?"
+O,Is that nonsense ?
+O,"Largely , yes ."
+O,"First of all , let's step back ."
+O,The primary mechanism for transmission is just the respirator .
+O,"It's just breathing in studies in Germany , which just have been published literally in the last 24 hours ."
+O,They actually followed a group of people who had been exposed to some of the automobile manufacturing plant .
+O,"And then they had nine people that with this exposure , you said , if you have any symptom at all , contact us ."
+O,We want to follow up .
+O,And they all agreed .
+O,"Well , they got infected ."
+O,"And so in the very first hours , just feeling bad , sore throat , they went in and sampled ."
+O,"The throats there , their saliva , their nose for virus , they did blood , they did stool , they did urine , and they found that at that very moment when they first got sick , they had incredibly high levels of virus , sometimes 10000 times what we saw with stars in their throats , meaning they were infectious at that point already ."
+O,They hadn't even had symptoms yet of related nature .
+O,They were coughing .
+O,"And and that's where we're concerned , because that's the kind of transmission it's you know , I always have said it trying to stop influenza virus transmission , like try to stop the wind ."
+O,"You know , we we've never had anything successfully do that other than vaccine ."
+O,And we don't have a vaccine here .
+O,So what's happening is that people in public spaces are getting infected .
+O,"And the way you need to address that is , unfortunately , if you're older over 55 , you have some underlying health problems , which unfortunately a lot of Americans do ."
+O,We have obesity .
+O,"Then right now , you don't want to be in large public spaces and trying to potentially get infected ."
+O,So you can take care of that part .
+O,"As far as what can public health do , reckon we can talk about this where I can have a vaccine anytime soon ."
+O,That's happy talk .
+O,"What we you know , we can close schools ."
+O,"One of the big challenges we have right now , if we close schools , what do we accomplish in influenza virus ?"
+O,"When we close schools that are outbreaks , because it turns out kids are get infected in school , they're like little virus reactors ."
+O,"You know , they come home and they transmit it to mom and dad and brothers and sisters ."
+O,And so we close schools .
+O,Sometimes it's Christmas breaks are always great for a kind of putting a dampening effect on flu .
+O,"In this case , kids are not getting sick very often at all , which is one of the really good news features of this disease ."
+O,"In China , only 2.1 percent of the cases were under 18 , 19 years of age ."
+O,Why is that ?
+O,"You know , we don't completely know ."
+O,And I'm going to come back in a second because they're getting infected .
+O,"It turns out one study showed that they still get infected with the virus , but they don't get sick ."
+O,And we have that happen .
+O,"There's a disease called infectious hepatitis , hepatitis C where we have outbreaks in daycares ."
+O,And the way we know we have an outbreak is because it's transmitted through the stool .
+O,Fecal oral is mom and dad and the daycare providers all get sick .
+O,"And the kids , those symptoms , we go to tests ."
+O,Kids are all positive .
+O,"So some diseases will manifest my primero in your adult , but not as a child ."
+O,This one appears to be the same .
+O,So do we close schools or not ?
+O,"If we're not really spreading the disease because it turns out that if we close schools , we a recent study done showed that 38 percent nurses today in this country who are working in the medical carea have kids in school ."
+O,"And if suddenly we're closed schools for two or three months , who's been taking of those kids ?"
+O,One fourth of the American population has no sick leave .
+O,"If we close schools , they don't get paid ."
+O,If they have to stay home .
+O,"So when you ask what can we do , we have to really be thoughtful about what we do ."
+O,"Are we doing more harm than good by closing schools , for example ?"
+O,"Even everybody say , oh , we've got to do everything we can or do ."
+O,We just help people .
+O,"You know , it's going to be limiting your contact as much as you can ."
+O,And that's really about what we can do and limiting the contact .
+O,Is that really going to help ?
+O,"It does , because it's like putting rods in a reaction ."
+O,"If you don't have as much close contact , you can , you know , not transmit as much ."
+O,If I'm if I'm sitting in a room with 100 people and we're kind of sharing air .
+O,"The transmission is remarkable right here off the coast , California ."
+O,You've got your cruise ship .
+O,Cruise ships are notorious for recirculating air inside the inner cabins .
+O,We've had a number of outbreaks .
+O,That's why they're having these outbreaks in Korea .
+O,And then you leave them on there .
+O,"I think the cruelest human experiment we've done in a long time is leave them on these ships , get them off right away ."
+O,Should they get them all ?
+O,Absolutely .
+O,We'll get them to deal with them .
+O,"Well , they can put them in quarantines of some kind ."
+O,If they want and follow up on them .
+O,But you're guaranteed they're all going to keep getting infected day after day .
+O,"It seems like we're not really prepared for something like this , although the CDC has been telling us for a long time that we should be you know , we are not prepared at all in the sense , you know , I wrote the book Deadliest Enemies , that was published in 2017 ."
+O,Thank you .
+O,Thank you .
+O,Go get it now .
+O,And Panic in a Chapter 13 .
+O,The title of the chapter was Saras and Murs A Harbinger of Things to Come .
+O,No one predicted this .
+O,And then I wrote a chapter on there was a flu pandemic would look like if it emerged in China .
+O,"And if you read it , it's exactly what's happened to supply chains went down ."
+O,China locked down the country .
+O,It spread to other countries .
+O,People all pointed fingers .
+O,"And , you know , it's it's the kind of thing where we hear it and hear it , but we don't get prepared ."
+O,"You know , five years ago , I gave a talk at the Mayo Clinic ."
+O,"First time I talked about this , I've talked many times afterwards ."
+O,And I showed a slide of Puerto Rico pictures for a recall .
+O,"And then I showed the map and then I showed a picture of a building in Puerto Rico , a nondescript building ."
+O,"And I said , this is our next big disaster ."
+O,Turns out that 85 percent of all the world's production of I.V. bags was sailing that we need desperately were made in these plants in Puerto Rico .
+O,And all we needed was one one Category 5 hurricane to come through and take it out .
+O,Maria came through a year and a half ago and the world went into a major crisis with a shortage of I.V. bags .
+O,"Now , that was so obvious that was going to happen ."
+O,And yet we don't prepare .
+O,That's so foolish .
+O,"I know , I agree ."
+O,And that's what hopefully this is a wakeup call .
+O,"The business community , I hopefully will wake up ."
+O,"You know , one of the other things we're doing right now , Joe , this is really one of the things that has me most concerned about this whole situation is our group has been studying for the last year and a half with support from the Walton Family Foundation looking at critical drug shortages ."
+O,It turns out that we identified 153 drugs in this country that people need right now or they die .
+O,"I mean , it's on the crash cart ."
+O,It's acute critical drugs .
+O,One hundred percent or more generic .
+O,All of them basically are made offshore .
+O,The United States and large part were made in China and India .
+O,"And at this point , we have shortages anyway every day just before this crisis happened ."
+O,Now these supply chains have gone down .
+O,"Our group is actively helping the United States government try to figure out , you know , where they can get these drugs ."
+O,"Now , just think of this ."
+O,"If I came to you and said the Defense Department was going to outsource all this munitions production to China , you'd look at me and say , come on ."
+O,You know what ?
+O,The U.S. Defense Department has no access to these drugs and anybody else .
+O,They are beholden to China for these drugs .
+O,Six hundred and ninety thousand Americans have in stage renal disease right now .
+O,Most of their primary drugs are coming from China and now with the shutdown .
+O,"And what's happening with this and this is what I talked about in the book , why I was so concerned , because we are at risk ."
+O,"So even as situations unfold , it's not just about what the virus does to you ."
+O,It's about what the entire system is rigged up to be and what this virus does once it gets into it .
+O,"Jesus , you make me nervous ."
+O,"Well , but that's before we get done here to talk about what we can do to get people not nervous because this time it's too late ."
+O,"No , no , no ."
+O,What I mean is right .
+O,"We're going to we're going to bring you around to take you know , it's my job is not scary out here which scare you and your wits ."
+O,And let me do we do about it .
+O,Sorry .
+O,Let me ask you something about sauna use .
+O,"One of the things that I read was that if you are in contact , that 20 minutes in a sauna , in a really hot sauna is very good for killing some of the virus ."
+O,Is that bullshit ?
+O,Yes .
+O,Jesus Christ .
+O,These people .
+O,Yeah .
+O,There was some sun efax thing that was being pushed around that it's great for flu and all sorts of infectious diseases .
+O,"Actually , it's great for it ."
+O,"I mean , it makes you feel good , but we don't have any evidence ."
+O,It makes any difference in infectious disease .
+O,Why is it so it doesn't have any impact at all ?
+O,"The idea was that the breathing in of the very hot air , 180 degree air for 20 minutes would kill some of the virus ."
+O,"See if that temperature of 180 degree air got really into your lungs , your lungs would be fried ."
+O,You'd be dead .
+O,"Well , how's it sells itself ?"
+O,"So what happens is just from the time you breathe it in and what you mix it with the earth there , it's kind of like taking a cup of hot water and putting it into a bathtub of cold water ."
+O,And so what happens by the time you get done ?
+O,It's not that hot .
+O,"And so in this case , your lungs couldn't stand even hundred and ten to twenty degree heat without causing real severe damage ."
+O,And so it doesn't kill the virus at all .
+O,So the virus and I'd be like just in your mouth or something like that even then .
+O,"No , no , no ."
+O,"Oh , Jesus ."
+O,"Michael , that's unfortunate because that was those exciting ."
+O,I was reading that .
+O,Don't stop using ASADA .
+O,It's a good thing for your skin and everything else .
+O,"But yeah , but it's not going to help you with this one ."
+O,So how does it cool the air down ?
+O,What's what's happening in terms of your lungs ?
+O,Right .
+O,"Well , you basically it's a mixture of , you know , when you breathe out , you don't breathe all the air out ."
+O,Okay .
+O,"I mean , that would you'd almost be dead ."
+O,You couldn't do the tidal volume .
+O,So what happens is every breath .
+O,"Well , in other words , you have so much air in your lungs already ."
+O,"When you breathe out , you breathe just a little bit of it out ."
+O,"And each time you bring more in , out , in and out ."
+O,"And so when this mixes in the hot air like that or the very cold air , you know , in Minnesota , when you're forty five below zero , we have the same problem ."
+O,We don't freeze our lungs .
+O,OK .
+O,"You know , when we breathe , the may feel ."
+O,And so it's just there's so much in there that it mixes with the other air and it ultimately doesn't .
+O,The temperature your lungs don't change even if you're doing like some crazy deep breathing exercises .
+O,We slowly exhale all the air out .
+O,There's nothing left and then breathe it all the way in .
+O,My I've given you my best shot at it .
+O,It's not going to make much difference .
+O,Sorry .
+O,I've always wondered that about like people that are in like Alberta and it's like fifty degrees below zero .
+O,How do they do that ?
+O,"Yeah , well we do it all at Doublemint ."
+O,Well we don't anymore .
+O,And Minnesota is getting warmer there every winter .
+O,But the problem .
+O,Yeah we are we surely know coal .
+O,There's like well so much for that myth .
+O,Myth number two .
+O,Well it's a myth .
+O,I should say rumor was that this was something from some sort of a biological weapons thing that was leaked because woo horn is some area .
+O,"Well , part of China that they actually do work on biological weapons ."
+O,And we've heard that loud and clear .
+O,And let me just give a little bit background and more of my career back in the early 1990s .
+O,I got very involved and .
+O,"The whole area of biodefense and bioterrorism biowarfare , it turned out I was involved with helping to interview and get information from some of the Russian bio weapon years after the wall fell and Russia collapsed ."
+O,We had all these experts coming out who'd been spending their whole lives making bio weapons .
+O,And it became very clear to me this is really a serious challenge .
+O,"And as part of my work , I spent a lot of time in this area and I actually threw a series of serendipitous events , became a personal adviser , His Majesty King Hussein of Jordan , before he died on this topic ."
+O,I got really into it .
+O,I wrote a book that was published on 9/11 of 2000 called Living Terrorists What Our Country Needs to Survive the Coming Bioterrorist Catastrophe .
+O,And I think I bought eight of the twelve copies that were sold that year afterwards .
+O,"And then when 9/11 happened , of course , then it became really prominent ."
+O,And then I went on to serve on a group here in United States that was basically the National Science Advisory Board on biosecurity safety issues .
+O,I've had a lot of experience in this area .
+O,And so I bring that to the table .
+O,"And I tell you , there is no evidence whatsoever that this is a bio weapon or that it was accidental release from the lab ."
+O,"Today , with the genetics we have on these viruses , how we can do testing , we can almost date them almost like carbon testing ."
+O,"You know , so radiocarbon near I don't know how low a block is or something like that ."
+O,"This thing clearly jumped from an animal species probably the third week in November to humans and pangolins , you know , these scaly anteater like animals or are very good source because we have coronaviruses just like those in these animals and it got into a human ."
+O,"So , you know , we've truly had a lot of challenges with that ."
+O,"But I don't believe that there's any evidence linking those to one , an intentional release or an accidental release or that it's an engineered bug ."
+O,It's not .
+O,"My friend Dunton and I did a show back in 2012 , Vish , somewhere around there with sci fi where we went to the CDC in Galveston and we talked to them about that very thing ."
+O,"And they said the real concern , the real concern is just the actual diseases ."
+O,It's not manmade disease .
+O,Just naturally occurring disease .
+O,That's exactly it .
+O,"I mean , look at what you know ."
+O,We could not have crafted a virus like this to do .
+O,What is still it ?
+O,"I mean , we don't have the creative imagination or the skill set of somebody said , okay , I want to find a virus that will take out a lot of people , OK ?"
+O,This what Mother Nature does it so much better than we could ever do it .
+O,"And , you know , whether it was Ebola , whether it's this one or it's antibiotic resistance , any of these things ."
+O,"I mean , you know , right now we're talking only about the pinch for chronic wasting disease to be a problem for humans ."
+O,"You know , Mother Nature is doing it pretty well on her own ."
+O,The chronic wasting one really scares me because there's so many people that have a vested interest in dismissing it .
+O,I had our good friend Doug Durin on the podcast with I don't remember the gentleman that he brought with Brian Richards .
+O,"Thank you , Ron Richards , to explain the science behind it ."
+O,And there are so many people that are dismissing this because either they enjoy deer hunting or they they want captive services to be something that are still something that you could be released on private property .
+O,"People grow and breed deer and then sell them to ranchers who want deer in their properties , particularly large deer ."
+O,"And I mean , guys that I have talked to that are dismissing it ."
+O,"I can see the chain of events that they want it to be , not a concern ."
+O,"But if you see what it's doing to deer , it's terrifying ."
+O,It's 100 percent fatal if the DNA exists on plants for years .
+O,They they leak it out of their saliva .
+O,They leave traces of it everywhere .
+O,"And in Doug's area , there's some some near somewhere near there , there's like 50 percent infection rates ."
+O,Right .
+O,"I listen , I think this is really a significant challenge ."
+O,I was involved back in the 1990s and into the 1980s when Mad Cow first emerged in England .
+O,And at the time I was asked to give an assessment when this was all this bovine spongiform encephalopathy and other prion sort of these prions or it causes disease .
+O,"And , you know , people on dismiss it that people weren't going to get sick ."
+O,"Well , then we realized 10 years later , all these human cases started to show up that were from those exposures 10 years before and it took awhile before those prions , although she changed in the cattle to get to the point where they'd infect humans with the same things happening with deer ."
+O,"If you look back on the deer population that were infected 30 years ago and you look at it today , the prions are constantly changing or mutating ."
+O,There are new strains and they're getting more human like all the time .
+O,And one of things our center is doing is we're looking at working on that very issue of trying to help people understand that the studies were done 15 or 20 years ago .
+O,Looking at how infectious these might be for humans were really well done .
+O,"They were good , but they had different strains ."
+O,"And over time , these strains are looking to be more more like they could infect humans or they could even , in fact , cattle , which would be another huge challenge that happened ."
+O,And so I think your points are a really good one .
+O,And we know today that there are probably a .
+O,Least 17000 deer that were consumed in the past year that were actually positive for this Freon and people in had native anyway .
+O,So I worry about that too .
+O,That's terrifying .
+O,"So these people have these prions in their system now , but then currently they're not there and they're not making the jump to cause ."
+O,What does it Yakubu Creutzfeldt-Jakob disease .
+O,"Yakima disease , which is white ."
+O,"Yeah , it's kind of a we don't know that humans are getting infected ."
+O,One of the challenge we don't have a test unless you die .
+O,And then that's a heck of a way to have to get a test result .
+O,"OK , so one of the challenges you don't know this until you actually show up with the signs and symptoms ."
+O,And so one of the things that we're looking at carefully is doing surveillance or disease detection among people that might present with this if it's going to happen .
+O,I suspect the naturally occurring prion related diseases like Creutz all Yankovich disease you just mentioned occurs typically in older people over 70 .
+O,You suddenly start seeing the 40 year old or 50 year old or 6 year olds even with this disease .
+O,And you got to start thinking what else is going on ?
+O,And so that'll help best detect it in cases .
+O,But then we've already failed .
+O,"You know , then we've had 10 years worth of transmission or more potentially before we get the first human cases like we did with mad cow ."
+O,"And so our message has been , right now hunting is really important ."
+O,"It is a very important part of our society , frankly ."
+O,It's the way we manage your herds .
+O,Thank God .
+O,It's a huge economic boon for running the kinds of DNR is as such .
+O,"We have we balanced the back , as you know , from sportsmen on these licenses ."
+O,"And so we don't want to stop hunting , but we've got to make sure that we make sure that people aren't getting infected ."
+O,And one of the things that our group at the university Minnesota's working on is test now that almost like point of detection test .
+O,"So if you shoot an animal , could you know very quickly that it's positive or not ."
+O,And then you'd know not to process that animal .
+O,And that's why we need to get out .
+O,"Well , not only that , the prions ."
+O,"What's terrifying is how Volm , how invulnerable they are , how ridiculously vigorous they are , when exactly you can boil them a thousand degree temperature for hours and hours and they're fine ."
+O,That's right .
+O,"When they're when they're sanitizing medical equipment that they've used on mad cow patients , or whether it's cows or humans with these prions , they've been able to do it three times ."
+O,So try to sterilize these things like the sterilization process .
+O,You wear the what is the temperature that they do it for ?
+O,"Well , they do it both top temperature and pressure , but it's in the hundreds in degrees and it's under high pressure ."
+O,And I've actually been involved with several cases where these very equipment you're talking about were accidentally used on somebody who had Creuzot jockamo disease and they had a landfilling .
+O,They couldn't they couldn't even sterilize it .
+O,That's what's insane .
+O,Like you can't kill these things pretty hard .
+O,"That's why , you know , we we want to make sure that if you're eating dinner service right now , that we have to make sure they're tested ."
+O,And I think the other point you raised is a good one .
+O,We've been very concerned about the movement of this disease by Servet farming .
+O,"You know , we've had far too many examples and Doug has shared that with you ."
+O,"You know , just the extent to which we see , you know , state by state by state solid getting picked off because somebody moved a trophy deer from state to state being infected and got out or others got out of the pens and then infects locals ."
+O,Yeah .
+O,"Now , has that made the jump to bison or elk or any of those other animals yet ?"
+O,Not yet .
+O,"It's several kinds of deer , as you know ."
+O,But not not those deer .
+O,So far there has been some cases in the west .
+O,It's primarily white males .
+O,Right .
+O,Exactly .
+O,Yeah .
+O,"And then there's been a deer in Korea , a type of deer there and one in the Scandinavian countries ."
+O,One .
+O,Yeah .
+O,"I mean , I mean different kinds of deer types that are there ."
+O,Yeah .
+O,Yeah .
+O,So the one we worry about right now is getting into the cariboo in northern Canada .
+O,Right now the range of the deer that are infected in the province as a candidate is right boarding up next to cariboo .
+O,"And of course , if you're not a hunter , you would know this ."
+O,"But cariboo , obviously the herds are remarkable , unlike , you know , white tails with that matter elk ."
+O,"If you got it into cariboo , it would likely spread very quickly ."
+O,"And as you know , the native populations cariboo are key their key to their livelihood ."
+O,Yeah .
+O,So you wouldn't want to see it getting the cariboo .
+O,"Now , I didn't even know that it was in Canada ."
+O,What parts of Canada has it been throughout a number of provinces ?
+O,I think there's four provinces now .
+O,It's in it's it's in its skin spreading .
+O,It's the same phenomena that a combination of deer movement with certain farming .
+O,"And then once it's in an area , it'll keep migrating a bit and a bit as these animals move somewhere ."
+O,But you know it .
+O,We know deer don't fly for thousand miles every season .
+O,OK .
+O,So it's not that kind of movement of humans .
+O,"If we're going to see a big movement as humans are doing it , as our good friend Doug Durin has been doing all this work to try to alert people about it ."
+O,And also they're putting up these testing places where hunters can bring in here and have the deer tested .
+O,"How much of that is available to people around the country , though ?"
+O,Nearly enough .
+O,"And that's what we need to work on , is if you don't make it easy and convenient , as you know , it's not going to get done ."
+O,"And so , you know , it's hard enough to convince people there's really a problem because people don't want to believe it , even if they know that there's no seat of you D-IN deer in the area ."
+O,And we have some like that .
+O,But I think the tide is changing .
+O,More and more people are sensitive to it .
+O,They want to have access to testing quickly .
+O,"But if it's gonna take you a month and have to get the tests back , you know what it is ."
+O,But is it that long ?
+O,"Well , in some cases , they get so busy because , you know , unlike laboratory testing for an entire year or reduce one twelfth in January , one twelfth in February of such a cetra , you know , deer season typically is very concentrated in just a couple of weeks to a month in the fall ."
+O,And so the problem is all the animals come in at that time .
+O,Your lab capacity has to handle that huge surge all at one time .
+O,And so some days it takes a while to get it back .
+O,So these hires just hope they don't take a bite during that time .
+O,Yeah .
+O,And we hope that these prisons don't ultimately infect sample and jump .
+O,And what if they do ?
+O,"You know , I worry what will happen to deer hunting as we know it , because probably a lot of people will not continue ."
+O,And we need that desperately for herd management .
+O,"I mean , it's the way we do it ."
+O,"Well , what they're doing in Doug's area is they're they're actively trying to eliminate a lot of deer and try to lower drastically lower the numbers , particularly of bucks ."
+O,I guess they wander more than they do .
+O,"You know , it's all really scary stuff , because if they do make the jump to humans , I mean , it has made the jump to believe mice thing ."
+O,"Well , what happened was originally it didn't ."
+O,And so that was some of the data that was used to support .
+O,It's not a problem right now .
+O,These what we call humanized mice or mice that are basically much more like a human .
+O,"We're now seeing that jump occurring and these new strains see the strains that , again , were around 20 years ago , not the same ones today , because as these prions continue to pass from animal to animals animal , they go through these little minor mutations and they're getting more , more and more like what a human transmissible prion might look like ."
+O,"So on these mice studies now that are really made to mimic a human , we're starting to see that jump ."
+O,"And folks , if you've never seen a deer with see W.D. , you should go and Google it cause it's terrifying ."
+O,The idea that that could make that jump to human beings and handle pouring saliva out of their mouths and their whole body just wasted away to skin and bones .
+O,Right .
+O,That's what we're looking at .
+O,"And that's why it's called chronic wasting disease , because the animals literally waste away ."
+O,"We actually have a major resource center on our Web site , free of charge ."
+O,"Open , it's all ."
+O,And chronic wasting disease .
+O,People want to go there .
+O,It's wbb out .
+O,"Sitrep , S.I.D ."
+O,"R.I.P you , Amanda , did you and you can go there and all these pictures , all the kinds of ."
+O,What is it again ?
+O,W-w-what said Rep. S.I.D .
+O,R.I.P said wrap up .
+O,"Just Center for Infectious Disease Research and Policy , said Rep. Dot U M in that e._d._u dot U-M and EDTA ."
+O,And we have a lot of information .
+O,There it is .
+O,That's it .
+O,I got it right there .
+O,And that's recenter .
+O,Yep .
+O,And we've got a lot of information on there also .
+O,Coronaviruses .
+O,We have a whole resource center just for the coronaviruses too .
+O,Novel Corona virus .
+O,There you go .
+O,"So for the average person that is sitting around reading these articles that say , don't worry or readings are there is articles that say this is the end of humanity ."
+O,What could these people do ?
+O,Like what ?
+O,What could they do and what did they do if they get infected ?
+O,"Well , first of all , neither of those kind of articles are correct ."
+O,And we have to make sure that we get that message out to people that there .
+O,We need straight talk right now .
+O,You know .
+O,And part of it is it's so hard to hear from people as well as experts .
+O,What's going to happen or not happen ?
+O,"You know , and and let me just give you an example , because we've heard a lot about well , it's going to go away with the chronic of the coronavirus with the seasons ."
+O,OK .
+O,"When it warms up , it'll go away ."
+O,"Well , you know , the other corona viruses that we have that we've had to worry about with SaaS , which appeared in 2003 in China , and when that came out of China in February 2003 , it took us a little while to figure out that these people really aren't that infectious today , five or six of their illness , and then they really crash and burn in minium would-I ."
+O,But what we did was basically by knowing that identify these cases in their context quickly .
+O,"And so if they had symptoms , brought them in , put them in these isolation rooms , they wouldn't infect anybody else ."
+O,And it took until June to bring out under control .
+O,That had nothing to do with the seasons .
+O,"Murs , which is another Corona virus that's in the Middle East , it's in the Arabian Peninsula ."
+O,"The natural reward for that is , is Kamil's in China ."
+O,"And by the way , Saras , it was palm civets and we type of animal food Rowden that we got out of the markets there in the Arabian Peninsula ."
+O,"We're not going to euthanize 1.7 camels , you know , to try to get rid of Murs ."
+O,And there it's 110 degrees out .
+O,And this virus is transmitted fine .
+O,Thank you .
+O,"I mean , it goes from animals to people ."
+O,It goes in the hospitals .
+O,There's no evidence that seasonal there .
+O,So that's a good myth to expose right away .
+O,This is not something that's going to cure up when it gets warm .
+O,"You know , if it does , it won't be because there's a model for it ."
+O,What will it be ?
+O,Because how does a how does something like SaaS run through a population then stop being around anymore ?
+O,"Well , it wouldn't have ."
+O,"But had we had good public health , had we had , you know , the same kind of transmission we're seeing with this corona virus , free , infectious before you ever get sick where you're highly infectious ."
+O,Memory was Saras .
+O,"Now , you didn't really get infectious till your six years , you know , six days of illness and you knew that you were in trouble and then you can isolate you ."
+O,And we didn't understand that first .
+O,And we transmit virus transmitted .
+O,So that's why Saras stopped .
+O,Meurs stops because we don't get rid of the cameras .
+O,So it keeps hitting humans day after day .
+O,"But then when they go to the hospital , we no longer allow those individuals to transmit to others in the hospital because we do what we call good infection control ."
+O,"Soon as they get there during special rooms with special mass , all this kind of thing ."
+O,"And so in that regard , these Crohn virus can be stopped ."
+O,This one's not .
+O,"As I said at the top of the program , this is like trying to stop the wind influenza transmission ."
+O,You never hear anybody saying that .
+O,"A bad flu , seasonal flu year ."
+O,"You know , we're gonna stop this one ."
+O,"If you don't have vaccine that works , you don't ."
+O,It's just breathing .
+O,That's all it is .
+O,So what's best case scenario here ?
+O,"Well , I think as I laid out to you before , you know , this could be ten times worse than a really bad seasonal flu year and grandchild at all ."
+O,"It will hit , you know , primarily the older population and those with underlying health problems ."
+O,"But as I mentioned , also , you know , we have a lot of people who have other risk factors , obesity , high blood pressure and other risk factors ."
+O,We can have a really bad outcome with this .
+O,And so we don't quite know what it's going to do yet .
+O,"I think , you know , we've been right on the mark predicting where it's going to be to this day ."
+O,"I think from here on out , I can tell you it's going to stay around for months ."
+O,It's not going to go away tomorrow .
+O,"We got to stop thinking about if we just get through tomorrow , that's it ."
+O,So we're going to go to schools and tell people not to go on to public run to cancel big events .
+O,How long are we prepared to do that ?
+O,What are we gonna do ?
+O,We have to ask ourselves that .
+O,I think the big thing is eventually enough people get infected .
+O,"It'll be like putting reactors and the rods know rods and the reaction , I should say , and then that stops it by itself ."
+O,"But also because if you're if two of the three of us in this room were immune right now to it because we'd had it and recovered and had protection because natural protection , then I couldn't transmit to anybody ."
+O,So that's what's going to happen .
+O,"If you get enough people get infected ultimately , then it will slow down , stop transmission that way ."
+O,But that's a heck of a price to pay to get there .
+O,Is it safe to say that we're fairly fortunate that this isn't something like the Spanish flu or something that's really ruthlessly deadly ?
+O,"Well , that's where I think we have to be really careful ."
+O,"Just to back up about point one percent of people who get seasonal flu die in Grantchester , mostly older or younger people ."
+O,"Okay , that's one out of a thousand ."
+O,"With this one right now in China , we're seeing between 2 and 3 percent of the people die ."
+O,"And some say , well , that's way too high ."
+O,It's not going to be that high .
+O,It's going to be lower .
+O,But again .
+O,And they say that because we didn't pick up all the milder illnesses .
+O,OK .
+O,"But on the other hand , we have a lot of additional people in countries like ours that have even more risk factors for having bad outcomes in China ."
+O,"And so Spanish Flu , the one you mentioned , 1918 , that was about a three to 3.2 percent case fatality rate ."
+O,"Now , it did preferentially impact 18 to 25 year olds , say they were the hardest hit group ."
+O,And why was that ?
+O,"Well , you know , it has to as your immune response , again , we think that what happened is when this virus got into you , it created we call a cytokine storm , which is an antibody response in your body that's out of control ."
+O,And it basically you destroy yourself and it sets this thing up to trigger it off .
+O,"So the healthier people had , the more adverse reaction to exactly ."
+O,Or the other group that has had a real challenge with that or pregnant women and pregnant women have a very unique issue .
+O,"One is cause they have some constriction of their lungs just by the very physical mass , but also their immune system is really at a heightened state at that point ."
+O,"There's a part of that immune system that woman says , this is not all me ."
+O,Get rid of this .
+O,It's like a rejection of a graft .
+O,And the other part saying this is the most precious cargo ever carry .
+O,"You know , I got to make sure I don't lose it ."
+O,"And when that virus got in between those two , it started again , that same kind of cytokine storm ."
+O,"Now , the thing that concerns us about this ."
+O,"What we saw in in 1918 , I mentioned just three plus percent ."
+O,This one could be as high as 2 percent .
+O,So it's somewhere between a really bad flu year at point 1 percent .
+O,"And it could be as high up here , you know , getting closer to 1918 like ."
+O,"And that's the numbers I just gave you a few minutes ago from the American Hospital Association of , you know , four hundred eighty thousand deaths here in this country over the next six to twelve months ."
+O,What can someone do to shore up their immune system ?
+O,While this is all going on ?
+O,"Well , a couple of things ."
+O,"First of all , just being as healthy as you can be ."
+O,"You know , wait , wait ."
+O,"You know , I'm I'm getting up there right now or , you know , it becomes more and more of a challenge to stay in good shape ."
+O,"You know , the more you can do to do that , something you know all about , you know , keep it in shape is really important ."
+O,"Second thing is , if you're on medications like for blood , high blood pressure ."
+O,"Don't don't Misael take those drugs because they're really important , even though they may not appear so , you know , you don't have any symptoms of high blood pressure or something like that ."
+O,"And then I think just , you know , getting sleep and eating a healthy diet ."
+O,And that's about what we can do today to help get you prepared for this .
+O,"Is there anything else one could do , like maybe I.V. vitamin Drips or anything that's going to really boost your system ?"
+O,No .
+O,"You know , when you look at all the things that might be there and I'm happy and willing to accept any and all that might help , but we don't really have any data that those substantially impact on your your immune system to make it that much better ."
+O,Is that the case ?
+O,"Because not that many people do it , though ?"
+O,"No , actually , there have been studies done ."
+O,It has been studied .
+O,It's been studied .
+O,"I mean , a good example is , you know , and I was one of those people that thought , well , this is a great thing ."
+O,"Probiotics , you know , things turns out that we've studied this ."
+O,"With regard to antibiotic resistance , it does it help ?"
+O,You got a cetera .
+O,And it turns out that the probiotic users were no different than the non probiotic users in terms of recovery from antibiotics .
+O,"Now , the issue of if you're going to kind of compete out the bad bugs ."
+O,"So my getting good , healthy gut flora by you would actually reduce the chance of picking up a bad bug ."
+O,And it turned out there was no difference that people how would they do a study like that ?
+O,The only way I think they would do a study like that accurately is infect someone that is the same person like you have the same person with no probiotics .
+O,And then have them with probiotics .
+O,And the studies that have been done are very close to that .
+O,"But what they do is they use two to four groups , people ."
+O,Those people use probiotics .
+O,This group did not .
+O,Right .
+O,And then they looked at all their illnesses and they got stool samples and everybody and they got the samples as the group .
+O,I don't have the numbers in front of you .
+O,They're pretty sizable because I was just appointed .
+O,"I mean , I was thinking for myself ."
+O,Yeah .
+O,Yeah .
+O,"So , I mean , I think , though ."
+O,"But I think the key message here is , is that , you know , we're going to get through this ."
+O,"But right now , we do have some real challenges before us ."
+O,What we can't tell people is it's all safe .
+O,"You know , I I ."
+O,"Every time I hear people say the risk is low right now , it reminds me of what would happen if the ."
+O,"There was this huge low pressure system , you know , five days off the coast to the Gulf ."
+O,And it was 90 degree water between that system and the beach .
+O,And there was no wind shears in the northern hemisphere .
+O,That's likely going to knock it off .
+O,"But we tell the people standing on the beach that day , we have low risk of anything ."
+O,"Well , we know five days from now it's common ."
+O,Right .
+O,And so what we need to do is helped us .
+O,"American population or the world , for that matter , understand we're gonna be in some hurt for the next few months and we have got to get better prepared ."
+O,"How we're gonna how we're going to work , where we're going to work ."
+O,We we can't stop working .
+O,We need we need the lights on .
+O,We need .
+O,"Health , I need food ."
+O,So a bunch of things people should do .
+O,That's going to boost their immune system that we know of .
+O,Right .
+O,Like get sleep .
+O,Drastically lower your alcohol intake .
+O,Drink a lot of water .
+O,Take vitamins .
+O,Those kind of things .
+O,Things that are going to keep your body healthy .
+O,Yep .
+O,That's your nail .
+O,"So in that sense , sonna will help you a little bit because it does what relaxes you , relaxes you ."
+O,It also boosts up your heat shock proteins .
+O,"Now , if you're in Minnesota , we'd say there's a two part requirement that you had to go from to assign it to the ice water back as a sign you had to do both ."
+O,Yeah .
+O,"People love that , right ?"
+O,We do it all the time .
+O,"Well , the Russians invented that ."
+O,Yeah .
+O,Yeah .
+O,Yeah .
+O,Yeah .
+O,Does that have you ever done that ?
+O,I have .
+O,My son has a daughter have a beautiful lake place up in northern Wisconsin .
+O,They've got a sauna like literally 12 feet from the lake .
+O,And there's a spring right there .
+O,"So in the wintertime , the lake actually stays open ."
+O,So we go right from the sun and the hot tub right to the water and back .
+O,"Oh , wow ."
+O,Even when it's frozen .
+O,Oh yeah .
+O,It's well it's not frozen right through the spring is .
+O,So you literally can go right into it .
+O,So and then you run right back into the hot tub .
+O,"That's when you sleep well , when you're done ."
+O,A couple of those rounds .
+O,You sleep really well .
+O,Yeah .
+O,Yeah .
+O,I would imagine your body's freaking out .
+O,Yeah .
+O,"I love the sauna , but I haven't had the opportunity to jump into a lake right afterwards ."
+O,"OK , well , we'll have to know ."
+O,Just not any like yet .
+O,Have an ice covered .
+O,Yes .
+O,"Yeah , yeah , yeah ."
+O,Then you really .
+O,Yeah .
+O,Then you die .
+O,Yeah .
+O,That's the real feeling .
+O,Yeah .
+O,"Well what else can people do in terms of all this hand sanitizer , jazz and masks ."
+O,Is that all .
+O,Yeah .
+O,The hand sanitizers actually are a great thing for stopping a lot of infectious diseases .
+O,They actually are really good .
+O,They're good for your hands .
+O,"You know , in terms of skin , they kill the bad bugs ."
+O,"But the whole issue of using your hands , touching your face of people concentrate on ."
+O,Yes .
+O,The data is actually very weak at this kind of virus is going to be transmitted that way .
+O,So wouldn't tell you to stop using hand sanitizers .
+O,But don't think it's going to have a big impact on this bug .
+O,Do you see that viral video that's going around ?
+O,That woman who is giving the address at the behest of the White House and you see that she tells people not to touch their face and then immediately licks her finger .
+O,And I did solfege .
+O,"Yeah , I saw that ."
+O,I saw that .
+O,"Well , why is she telling people not to touch their face ?"
+O,"Because , you know ."
+O,"Well , the thought was , is that there are receptors around your eye right here that actually for this virus could get in and then get into your body ."
+O,"And , you know , the data we have on this is so sparse to say that that's the case ."
+O,I think the primary thing about hand-washing is legitimate .
+O,"But one of the things that people want to do something , they want to feel like they're doing something ."
+O,"And so we tell them , wash your hands often and to present this to prevent this disease ."
+O,And I feel like we're not being really honest with the people that the data and we've looked at this very carefully really is about just breathing air .
+O,And that's a hard thing to stop .
+O,"So keep doing the hand-washing , but don't think that that's going to stop this disease ."
+O,You asked about the man to stop other stuff .
+O,Yes .
+O,"Yeah , well ."
+O,There's two kinds .
+O,Right .
+O,"Basically , the surgical mask , which just fits over in ."
+O,The reason is called a surgical mask is because it's loose fitting .
+O,Just fits .
+O,"You know , it ties behind you whose were worn by surgeons so that they don't cough or drip into your wound ."
+O,Right .
+O,And it was never made to protect you from bugs coming in .
+O,"So those little spaces on the sides , that's not a problem if I'm breathing into the cloth right in front of my nose ."
+O,"But in terms of the air coming in on the side , they're not they're not effective at all ."
+O,So people where may look like they're doing something or not .
+O,"Now , if you are sick , they may help a little bit from you transplanting , because if you cough , then you cough right into that cloth in it or some little in bed in there and not get out around ."
+O,"The other one , though , it's called in in 95 ."
+O,Respirator .
+O,"But for all intents , first looks like a mask is just tight face fitting ."
+O,"It has a seal , you know , at the nose , etc. It's an apocalypse mask ."
+O,It could be .
+O,"I don't know what those are , but that's OK ."
+O,I'm just saying that that's how I look at it .
+O,OK .
+O,OK .
+O,"Well , there actually we use them all the time and health care all the time ."
+O,And they use it actually .
+O,But 90 percent of them are used in industry .
+O,"So when they're grinding things or asbestos , etcetera , you know , they don't breathe in all these parts ."
+O,"So if we have one of those that'll do some , they're very effective ."
+O,They're very effective .
+O,The problem is we have a big shortage .
+O,"You know , right now we have hospitals that are down to just a couple of days worth of these masks , respirators ."
+O,And it's because we don't stockpile anything in this country .
+O,"You know , we don't have hospitals don't have the money to do that ."
+O,Those preppers right now are so excited .
+O,"Yeah , all the preppers acrostic ."
+O,I knew it .
+O,I knew the day would come .
+O,Yeah .
+O,Well they are .
+O,They are .
+O,"He and well you know , but well this is really important because how health care workers go is how the country ."
+O,I think we'll see .
+O,"We're going you know , there've been over 4000 health care workers in China who are infected ."
+O,Many of them on their job .
+O,And a number of died .
+O,"And if in this country , we have a real challenge delivering health care because we're overwhelmed and then we have health care ."
+O,Workers picking up the infection like we talked about the group in Milan .
+O,And we don't have the protection for them .
+O,"I really believe that's when the public will say , wait a minute , what's going on here ?"
+O,And and that's where I think the challenge .
+O,So we really have to protect our health care workers .
+O,They are the frontline people .
+O,"And the biggest problem we have is a lot of these cases need intensive care medicine , which we only have a limited number of beds for ."
+O,But this is really sophisticated medicine .
+O,"So when one of those people get infected , a doctor or a nurse work in intensive care ."
+O,It's not like you just took out another soldier .
+O,You took out a special forces person .
+O,You just can't bring somebody in from family practice wherever and put them in there .
+O,And so we've got to protect these workers .
+O,And I'm really concerned that that's one of the areas we've not done .
+O,Nobody stockpiles .
+O,"We have no capacity to make lots of more of a sudden , you know , prior to this event , the hospital purchasing agent would go online , click a button , send me 5000 of these , would be there the next morning ."
+O,Has anyone contacted you before this or since in particular and asked for your advice as to how they can better prepare like terms of like the president or the president has ?
+O,But I know a number of the people are working in the White House and they've worked things out to do .
+O,"Oh , yeah ."
+O,"Well , you know , I've served roles in the last five presidential administrations ."
+O,"I worked for two Republican governors , two Democratic governors , as you appreciate , one to put it , wrestler ."
+O,"I worked for two when he was governor , Jesse ."
+O,And and .
+O,That's right .
+O,Yeah .
+O,"And so , you know , I have never had a partisan you know , I'm just a private in the public health ."
+O,All right .
+O,And so I actually served as a science envoy for this administration in the State Department last year .
+O,"You know , still in my full time job at the university ."
+O,"And so I've never been I mean , I'm there to give the best advice I can ."
+O,"And so I've talked to a lot of these people there at the CDC , at Health Human Services , etc. So , yeah , we've given a lot of advice ."
+O,And do you think there's anything that you could do now that could help them make sure that we don't have these shortages of masks and shortages of medicine and I.V. bags and something that could be done to .
+O,"I mean , you obviously , you've laid out all these problems now and you laid it out in your book here that people buy right now ."
+O,Go pick it up on Amazon .
+O,Right .
+O,Is there an audio version of it as well ?
+O,There is .
+O,All right .
+O,Do you read it ?
+O,I read the book .
+O,Yes .
+O,"Yeah , I know ."
+O,"You know , I have ."
+O,I don't know .
+O,I don't read it myself .
+O,"You know , there's actually a really good voice ."
+O,"Not mine would be you , man ."
+O,Drives me crazy .
+O,Someone else does it .
+O,Yeah .
+O,No .
+O,"You know , this is the challenge we have is today in this environment , everything's just in time delivery ."
+O,"I mean , look at when you mean you go online and you whatever place you're everything from Amazon or wherever you expect it there the next day ."
+O,Yeah .
+O,People forget that we don't have that capacity today to suddenly make lots of things .
+O,"So right now , all the mass manufacturers in North America are working 110 percent time ."
+O,But if they were trying to fill all the orders they've gotten just in the last few weeks would take him years and years with the capacity they have .
+O,And you can't go build these new machines to make mask overnight .
+O,"So this is something that should be set in advance of anything like this , any pandemic happening like long in advance ."
+O,We should be prepared .
+O,"You know , think about the issue with defense ."
+O,"You know , we prepare all the time well in advance ."
+O,We don't build an aircraft carrier at the moment .
+O,I think we're gonna go to battle .
+O,We look at what all do we need .
+O,We don't do that in public health .
+O,We've tried .
+O,"And so , you know , it's stockpiling ."
+O,500 million of these in 95 would have been the difference between night and day .
+O,"And when you look at the price of one of those versus one airplane , not even close , if you look at the things like that , it's like these medications ."
+O,I don't think about our own Defense Department employees are at risk of running out of these critical drugs because they get them from China .
+O,"I mean , what a vulnerability ."
+O,Yeah .
+O,"So what we need to do is take a step back after when we can start now , but we're not going to fix it now is to say what are the key things that we should do , vaccines ."
+O,"You know , if we had been serious about this , we might very well have had a corona virus vaccine that whether it works specifically for this strain , whether it worked for SA's emerge ."
+O,"But right after Saras happened in 2003 , everybody was hot on a new vaccine ."
+O,"And then when it went away , the interest waned ."
+O,"Is it something like the flu where , you know , sometimes when they come up with a flu vaccine , it doesn't necessarily address the current strain ?"
+O,"Yeah , it could be ."
+O,"And that's where a coronavirus family vaccine might not match up right here now , but it could ."
+O,And the flu and you really hit an important point .
+O,"There's one where , you know , we do have an imperfect vaccine , but it still does a lot of good ."
+O,"You know , 50 percent of people are protected ."
+O,That's a lot better than zero .
+O,"You know , if we had a vaccine right now that 50 percent of the people could be protected against this virus ."
+O,"Men think otherwise , we'd say ."
+O,So the bottom line messages .
+O,We can't wait until the crisis to fix these things .
+O,You know what ?
+O,We spend about point 0 0 0 1 percent on public health compared to our Defense Department .
+O,"And yet , look , how vulnerable is the bugs ."
+O,It's not a war .
+O,"Yeah , it's not a missile ."
+O,It's bringing down the world economy right now .
+O,It's a darn virus .
+O,And so this is where I think that's what I tried to say in my book was all about that I went into what we needed to do .
+O,"In fact , I hate it when people come up and say we're screwed ."
+O,"You know , my whole bottom line is , well , what are you gonna do about it then ?"
+O,"And that's what I laid out , a whole plan in here , like these vaccines , like the stockpiles , a mouse ."
+O,"You know , we should have a plan in place already ."
+O,What are we gonna do with our schools when they close ?
+O,Are we gonna really close schools ?
+O,Let's not try to make this on the fly .
+O,"You know , I just mentioned if we close schools , we're going to really hurt some people ."
+O,"And people may die in health care facilities , hospitals , because we don't have enough nurses or health care workers ."
+O,Why ?
+O,You have to make that decision all of a sudden .
+O,We could have planned for that a long time ago .
+O,"And so I think hopefully this is a wakeup call because , you know , nobody , I think , really believe this ."
+O,"I got to tell you , you know , the market today is , you know , on this particular day crashed badly ."
+O,"And , you know , I think that until 10 days ago , the market didn't even think this was a possibility ."
+O,"They just if you look at it flying high on Friday , I did a briefing for over 400 major financial investors around the world ."
+O,"And , you know , I you know who I'm talking to you right now ."
+O,"You know , I'm not trying to be scary ."
+O,I'm just trying to tell the facts and make sure people understand it .
+O,The questions I got from these people almost remind me of a 6 year old who is afraid to have to go through a round of awkward dark hallway .
+O,"Well , you know , and and and I thought I actually said to friends and colleagues Friday night , I said , you know what ?"
+O,Monday's Mark Marcus not gonna look good because I could hear the fear in these people .
+O,"OK , well , we shouldn't be there ."
+O,We should be .
+O,What are we going ?
+O,We have a problem .
+O,"You know , it's like a forest fire , whatever ."
+O,We've got a problem .
+O,What are we gonna do about it financially ?
+O,How are we going to get through this ?
+O,"You know , where are we going to go with it ?"
+O,No plans again .
+O,It's caught everybody's spot by surprise .
+O,"I mean , you are the one of the few people that wanted to deal with this issue ."
+O,"You know , we set this up several weeks ago ."
+O,Yeah .
+O,You guys saw it coming .
+O,"You know , and and I think that's where the country hasn't seen it ."
+O,Now they're getting it .
+O,"Well , I'm paranoid ."
+O,Why do I seek the advice of experts whenever possible ?
+O,"And what what I was seeing was that there was a lot of weird misinformation and I can conflicting information , a lot of people saying don't worry ."
+O,And a lot of people that were terrified .
+O,"I'm like , okay , I got to talk to an expert ."
+O,"And yeah , you were willing to sit down with us and help us out ."
+O,"Well , you know , the other thing I think that , you know , I ."
+O,"Maybe it's a function of age , but , you know , straight talk is so important to us , you know ?"
+O,"You know , I'm so tired of having people say to me , oh , if you tell him this stuff , they're gonna panic ."
+O,"And I say , well , let's panic ."
+O,Have you seen anybody right in the streets yet ?
+O,"Have you seen cars turned over , smashed ?"
+O,Have you seen people hurting themselves over this issue ?
+O,They're concerned .
+O,"You know , they want legitimate information ."
+O,And so what you need to do is just tell the truth .
+O,And we have many experiences like that .
+O,"A few years ago , when I was at the state health law in Minnesota , we had a big outbreak of meningitis , a type of brain infection , bacterial brain infection ."
+O,And a number of high school students were very sick .
+O,All of a sudden one day they were in a hospital .
+O,"In this community of 20 , some thousand people were on edge ."
+O,And so we had a big town meeting .
+O,Several thousand people showed up .
+O,And I addressed them and gave me everything I knew about meningitis .
+O,"What we're going to do about it , etc. And then towards the end of the thought , I said , I just need to let you know about one of every seven cases of this dies and people think , so why did you tell him that ?"
+O,"And I said , because they needed to know it ."
+O,"Two days later , Wynnum died ."
+O,And you know what ?
+O,"Everybody in town was terribly sad , very emotional ."
+O,"But they all said , we knew it ."
+O,We knew it .
+O,"You told it , right ?"
+O,We knew it right .
+O,And then they got on with dealing with it .
+O,"We've actually to the whole town , 20000 people who vaccinated in one weekend for this bacterial meningitis ."
+O,"But it was because they had faith in us , because we told them the truth ."
+O,And we said what we know and we did know .
+O,And so that's why we need to do here .
+O,We need to just have straight talk .
+O,"Don't tell myths , low risk ."
+O,That's like the hurricane .
+O,OK .
+O,"You know , I would be really mad at you if I thought you were a hurricane forecaster and you knew this was common , but you kept telling me , oh , it's low risk , don't worry about it ."
+O,Right .
+O,Yeah .
+O,Once it hit .
+O,Yeah .
+O,So that's what we need to do today is just say this is gonna be challenging and we're gonna get through it .
+O,We are going to get through it .
+O,"I hope this week's people up to the value of vaccines to there's so many wackos out there that think the vaccines are , you know , a scam or they're dangerous or it's ."
+O,There's so many people out there that won't vaccinate their children .
+O,I know .
+O,"And that's one , you know , one of your best shows you're doing ."
+O,Peter Hotels .
+O,"Yeah , he's a dear friend of mine ."
+O,"He's I do , too ."
+O,"He's a dear friend of mine , as you ."
+O,"And , you know , he is one of the champions out there on this very issue ."
+O,I couldn't agree with you more .
+O,I think that's real .
+O,"An important point that , you know , we got to get this idea ."
+O,These vaccines can be lifesaving .
+O,"If we had one right now , think how ."
+O,Different the situation will be in here and right now it would be radically different .
+O,But do you see the measles making a comeback and directly attributed to a lack of vaccines ?
+O,You know what ?
+O,"And it's not only the vaccines themselves , but it's the prioritization of vaccines ."
+O,"I mean , you know , one of the real tragic stories right now in Africa is we are just finally bring into a close ."
+O,"This outbreak of Ebola in the Democratic , probably the Congo , far northeast part of the Congo , you know , 20 somehow or 28 hundred people have died from this ."
+O,OK .
+O,Bad .
+O,Been going on for almost two years .
+O,And everybody talks about that .
+O,And I understand why Ebola is a challenge .
+O,"But you know that during that same time , put over 7000 kids in that same area died from measles because everybody was preoccupied trying to deal with Ebola ."
+O,"And in that , those deaths were totally preventable ."
+O,Totally preventable .
+O,"So , I mean , I think that's you know , I have to say and you know this ."
+O,I'm already on this show .
+O,"So I'm not trying to thank you for what you do say about vaccines , because people listen to you ."
+O,"And we need every positive voice because we have so many crazy voices out there right now , center , so paranoid and delusional ."
+O,And they want it all to be a conspiracy .
+O,"There's been an amazing medical innovation in human culture , and that's vaccines ."
+O,It's amazing what it's done .
+O,And have there been adverse effect effects on people ?
+O,"Of course , everything everything that people do , there's some people are going to react in a bad way ."
+O,It doesn't mean it's on a positive thing .
+O,And there's a reason why the cases of polio are so tiny .
+O,There's a reason why smallpox went away .
+O,It's because of vaccines .
+O,Absolutely .
+O,And you know what ?
+O,"That's one of the challenges , you know , today between the the the anti-science misinformation that's out there ."
+O,But then when they don't see it .
+O,Yes .
+O,And the reason they don't see it is because we did vaccinate until we get enough people not vaccinated .
+O,And then look what happened .
+O,There's a famous photo of two twins from the early 20th century .
+O,One of them has smallpox .
+O,And one of them was vaccinated .
+O,Have you seen that ?
+O,I have .
+O,I have .
+O,I have .
+O,It's a lie .
+O,So I felt very telling .
+O,"Jamie , you'll find it because it's people need to see it that that that is the devil it is ."
+O,"Yep , yep , yep ."
+O,There it is right there .
+O,That's it .
+O,Right there .
+O,That's the one young kid whose body is just devastated by what looks like .
+O,"Is it like pebbles glued to his skin all over his body , his face , his hands , and then his brother right next to him with nothing ?"
+O,"And you know , what's really important to note here is , is that in that body , all those things are very painful ."
+O,But what's going on inside the body is equally bad .
+O,And so you're exactly right .
+O,"I couldn't agree with you more that , you know , this is this is really an important point ."
+O,Diseases are terrifying .
+O,They're really terrifying .
+O,And when something like this can be prevented .
+O,And the reason why people don't do it is because they're paranoid of vaccines .
+O,And they get that information from some wacko Web site or some person who really has no business talking about it .
+O,"You know , whether it's the people out there that think it causes diseases or that it's a government plot or that it's a medical scam is just trying to raise raise money ."
+O,It's just all of it .
+O,"All of it's very , very disturbing ."
+O,But it's a part of people .
+O,"You know , the human beings , for whatever reason , there's a percentage of us that lean towards conspiratorial thinking and they lean towards thinking that there's some sort of a plot against them or the government's against them ."
+O,"And it's just you gotta listen , the medical experts , you know ."
+O,And I hope that if there's any good to come out of this terrible coronavirus situation is that there's a wake up call .
+O,"If we'd had a vaccine for this or one that even worked partially , yeah ."
+O,I think how different we'd be .
+O,And you know what ?
+O,We got new other ones coming like those .
+O,We have to use our creative imagination .
+O,"You know , as I said in the book , the chapter on Rickroll virus is the Titlist , SaaS and Murse a harbinger of things to come ?"
+O,Yeah .
+O,"I mean , we don't we can use our creative imagination to say we should be funding these things almost like we pay for our fire department ."
+O,Magin If we had to go out and buy a fire truck when the 9-1-1 call came in .
+O,"Yes , we need to do it now is kind of disturbing this Chapter 13 ."
+O,I know it was .
+O,"Well , actually ."
+O,Would you do me a favor ?
+O,You're gonna really be like this .
+O,"Okay , open it up ."
+O,Chapter 13 .
+O,OK .
+O,"And when you look at it's towards the end , there went wrong when you reread the quote that goes with it ."
+O,OK .
+O,125 .
+O,"OK , so I every every chapter started not with just a title , but of a quote ."
+O,And and I think you'll find this one quite interesting .
+O,Bio terror opening Pandora's box .
+O,"That's not it , that's not the chapter that's on it is a Chapter 13 , your close ."
+O,There it is .
+O,"Okay , Resolvers and Meurs , a harbinger of things to come ."
+O,Let's look at the quote underneath a glass .
+O,These make me look smarter .
+O,Rudyard Kipling .
+O,And the dawn comes up like thunder water China .
+O,Crossed the bay .
+O,China .
+O,China .
+O,We said you .
+O,Did you put that in there because you really thought that a lot of this stuff was going to come out of China .
+O,Was that explains it ?
+O,Exactly .
+O,No .
+O,It said this is exactly we're talking about .
+O,Why do you why China ?
+O,"Because they have this incredibly large population , 2 billion ."
+O,They've got this food supply that is largely wildlife that comes into these markets where there's this incredible contact between people and these animals and the crowded nature of that society .
+O,"I mean , I think one of the things that surprises people who go to China ."
+O,15 million population cities are common over there .
+O,"I mean , we think of the United States ."
+O,"We think of L.A. and New York , and that's big ."
+O,OK .
+O,Over there .
+O,"I mean , in Wuhan , a city of 15 million , the entire metropolitan area , 60 million ."
+O,And so you have people crowded so closely together that if you add in the bugs coming from these animals and then the potential for this kind of contact where it spreads quickly .
+O,"China has been a a you know , a bacterial viral soup vessel for a long time ."
+O,"That's again , why we have to protect ourselves here , because a bug anywhere in the world today can be a bug everywhere tomorrow ."
+O,"And in particular , when you deal with a massive number like these kind of cities ."
+O,So these what they call wet markets .
+O,Yes .
+O,Markets .
+O,Yep .
+O,So that's what it is .
+O,A lot of it is wildlife .
+O,"Oh , it's incredible ."
+O,"You know , I've hunted my life ."
+O,"You know , I've always loved to fly fish ."
+O,I love the outdoors .
+O,OK .
+O,I could never have imagined the animals .
+O,"You know , I've spent time in these markets ."
+O,"I remember one day spending a day in the Bangkok Tang , Thailand market ."
+O,"And it was about a mile by mile , half wild pig ."
+O,"I mean , in these tight aisles , every animal imaginable to humans ."
+O,"And I swear to God , there were some out of the movies , I think , that were in there ."
+O,And they're all just right on top of each other .
+O,And I actually have a picture that I show in my lectures .
+O,There is a situation .
+O,There's all these chickens in a cage .
+O,15 or 20 .
+O,OK .
+O,And a big wire cage .
+O,And it sat on top of a wire cage full of ferrets .
+O,And ferrets are actually an animal model from flu standpoint that they do really well and getting infected with flu viruses .
+O,"If you wanted to create the perfect experiment that no , no university , no research group would let you do is you'd put birds and ferrets like that together ."
+O,And that's just common .
+O,That's just common .
+O,That's common .
+O,And so birds and ferrets together .
+O,It's something that's infecting the birds could jump to the ferrets or vice areas could breathe it out .
+O,We could get infected .
+O,Right .
+O,And so these markets in India .
+O,"I don't know what's going to happen here , but for the first time , we really saw the Chinese after this outbreak and will really start to put down some markers on what they're going to do to supervise these markets ."
+O,"I mean , they stay off to eat ."
+O,But I think this is a dangerous practice where we see it .
+O,But you know what happens ?
+O,Look at Africa with Ebola .
+O,Right .
+O,"You know , bushmeat is still very important ."
+O,And there's so much of the world that that's their primary food supply .
+O,"And when they say bushmeat , it's basically everything ."
+O,Everything from bats .
+O,We think that was the primary source of this outbreak in West Africa was a human bat that was consumed ETIM all the time to really .
+O,Yeah .
+O,Yeah .
+O,"So , you know , and some are pretty big bats ."
+O,"You know , there are literally three feet wingspans or they're big ."
+O,"And so , you know , that's one of the challenges we have with China ."
+O,We know that this is going to happen .
+O,It's going to occur .
+O,We think the flu viruses the same way .
+O,And that's why we knew doing better flu vaccines .
+O,"You know , this could just as easily be a flu pandemic ."
+O,The same thing like 1918 .
+O,"So these wet markets , they just have all these animals hanging out and some of them are still alive ."
+O,So many of Marra live .
+O,"And then , though , they'll actually be preparing for you right there ."
+O,They basically kill him and got him and so forth .
+O,"You got some pictures up there , Czar Wu Horn West ."
+O,There you go .
+O,Market Menu shows over 100 wild animals sold as food link with virus .
+O,Unclear exactly what it looks like .
+O,I'll say the list .
+O,It's pretty amazing .
+O,Yeah .
+O,"Let's see some images , Lou ."
+O,"Well , look at that , red ."
+O,Look at that list .
+O,I know .
+O,Cox .
+O,Yeah .
+O,People are eating peacock .
+O,"Oh , yeah , absolutely ."
+O,"Deer , crocodiles , turkeys , swans , eat and swans ."
+O,How dare you .
+O,"Kangaroos , squirrels , snails , foxes , foxes and civic cats were the cause of the SARS outbreak ."
+O,It's ostriches .
+O,I've had that pretty delicious .
+O,Yeah .
+O,I'm a hypocrite .
+O,Look at me .
+O,This centipedes .
+O,Geese .
+O,"Hedgehogs , goats ."
+O,Jesus .
+O,"So , yeah , it's pheasant , right ?"
+O,That's normal picture .
+O,So do we have a video of the market ?
+O,I want to see what ?
+O,"Oh , look at that ."
+O,Freaky Helidon salamanders the size of that sucker pig .
+O,It's a huge salamander .
+O,I won't lights for your first pictures .
+O,I was fine and dark .
+O,Yeah .
+O,Yeah .
+O,Come on .
+O,Do you got cages ?
+O,Turtles in cages .
+O,A bunny .
+O,Let somebody else see it .
+O,"While this wet market is very , very scary ."
+O,So and these are enormous markets .
+O,They're huge .
+O,They're here in the number of people in them is incredible .
+O,"I mean , there are many getting the animals from there , getting them from the wider area , from rural areas ."
+O,Yeah .
+O,Yeah .
+O,And are they growing these things and farming them or are they some cancers ?
+O,Both .
+O,"Some cases , both ."
+O,Like a lot of the seafood today is actually being farmed .
+O,So this is really like a giant petri dish .
+O,Yeah .
+O,Yeah .
+O,I mean it's almost power figured looking that fish looks not .
+O,"Yeah , not that fresh ."
+O,Well what's all that stuff .
+O,Rabbits and rabbits .
+O,I can tell you what .
+O,Oh yeah .
+O,Jesus .
+O,But you're getting an idea .
+O,And I'm on the ground .
+O,Why ?
+O,"You know , if we can't stop that , we surely can try ."
+O,"But if we can't stop that , we need to stop the infectious diseases coming from those animals to us ."
+O,We'll get them all wear masks .
+O,That's hilarious .
+O,"That was I think with the outbreak was that that might have been since all those gigantic things , a mollusk ."
+O,What is that ?
+O,One of those things .
+O,Until those giant mollusks fly .
+O,"Yeah , they are ."
+O,Right .
+O,Because look at to let them know because look at the ones behind the .
+O,I think you're right here .
+O,I do think .
+O,Huge muscles .
+O,Wow .
+O,Look at those suckers behind them .
+O,Wow .
+O,Yeah .
+O,There's a lot of people in China .
+O,They got to eat .
+O,"That's where it gets weird , right ?"
+O,This is like how do you tell them that they've been doing ?
+O,They've been doing this for who knows how long .
+O,How do you tell them to stop doing it ?
+O,Or is is that impossible ?
+O,"Is it more possible to just accelerate our vaccine program and try to preemptively create something to to address coronaviruses , to address various various different one ?"
+O,What other viruses are we concerned about other than Corona virus ?
+O,I think I think it's both .
+O,I think the next most and not even next .
+O,It still is a cold virus .
+O,You might cause influenza .
+O,"I mean , you know , there have been 10 influenza pandemics in the last two hundred fifty years , and each one of them was a little different ."
+O,But some have been horribly bad .
+O,"You know , back in the 50s , hundreds even there was a major pandemic that occurred were Spanish cities were described as normally almost totally depopulated ."
+O,And so these viruses pop out and that's why we need new and better flu vaccines .
+O,"And we're actually working at one now , but it's still a ways off ."
+O,But having those would really prevent the big calamities .
+O,"Meaning , you know , some of the things are going to happen ."
+O,"They're not good , but they're not going to bring down supply chains and threaten governments and so forth ."
+O,"And so I think the priority vaccines , we need to get her for those diseases that we know could ."
+O,Is the flu injection the most effective way or as a missed as effective .
+O,I know they did do the mist up the nose .
+O,Turns out that what research we have in our group was involved with some of it .
+O,"The flu mist and the nose works really well in children , mostly because they haven't been infected yet themselves ."
+O,So they don't have any protection .
+O,And so that virus really multiplies in the nose .
+O,"Remember , this virus is adapted not to multiply in your lungs because the nose is colder than the lung ."
+O,And so it grow here a little .
+O,"If you swallow it , it won't grow in your lungs ."
+O,"If you've already been infected once , then you actually have some interference in your nose ."
+O,There's a little bit of protection there .
+O,So it works well in kids who have been infected before .
+O,"Adults not so well for us , the injection works best ."
+O,"And you know , I'm happy to report that , although I'm not happy to report being an old man ."
+O,Now I can you get the high dose vaccine over age 60 .
+O,"So so they are actually , you know , the best we have , the high dose vaccine is better ."
+O,Yeah .
+O,It's better than the regular vaccine in terms of a certain age .
+O,Yeah .
+O,"When you when you get a little older , you need the higher dose because your immune system starts to wane ."
+O,"You know , you naturally have a less ."
+O,But what we need an aware that there was the other the high dose was a high dose .
+O,The there's a higher dose vaccine now .
+O,So where do you get it ?
+O,"Like where if a person is listening this and they like , you know , doctor lives in doctor's office and they will usually say that to you , if you're older , you know , 60 or you can get this vaccine ."
+O,So they'll actually do that for you .
+O,Yeah .
+O,"So run out , get it ."
+O,"Get a vaccine , because now it's pretty much over ."
+O,The flu season's waning .
+O,"I mean , if you hadn't got it , you should have had it a couple of months ago ."
+O,OK .
+O,This one's waning now .
+O,"We've had a bad flu season , a really bad one ."
+O,"But for the last couple of weeks , the numbers are coming way down ."
+O,So what what can a person do other than the vaccine to prevent getting the flu ?
+O,That's primarily it .
+O,"Again , it's a issue of who you're around ."
+O,"You know , you're your body's overall health ."
+O,And just keep healthy as you can .
+O,"And then I think the other key piece , though , is if you do get the flu and you have really bad most weeks ."
+O,One of the things about real influenza is not just sniffles .
+O,You feel like you got hit by a Mack truck .
+O,"If after several days , you still are really feeling bad , really bad and you haven't seen a physician by then , you should because that's when you get the complications occurring ."
+O,The bacterial pneumonia is that occur subsequent .
+O,"And if you get those treated earlier than later , you can actually do a lot to keep somebody from dying ."
+O,"So , you know , if you don't feel a lot better in two days ."
+O,"I mean , if you if you catch it really early , you can get a medication for flu ."
+O,There's actually a medication that will reduce your illness a bit .
+O,"But if you're if you're sick for more than a couple of days , not better ."
+O,You absolu should see a doctor so you don't have these other complications .
+O,And what can a doctor do once you feel .
+O,Any family practitioner would know what to look for and whether or not your lungs are starting to fill up .
+O,"You know , they'll they'll listen to your lungs to make sure you're not developing pneumonia ."
+O,And what would they do for you ?
+O,They would likely give you an antibiotic based on what you had because you are then this .
+O,"The problem with flu is it's not just the flu virus , but then you get secondary bacterial pneumonia from the damage in the lungs ."
+O,And so they can prevent that .
+O,A lot of older people in particular will die from actually what we call secondary pneumonia to having had influenza .
+O,"They wouldn't gotten the pneumonia if they had not had flu , but then they do ."
+O,"Now , we're talking earlier about probiotics ."
+O,Do .
+O,Is there a benefit of probiotics once you've taken antibiotics to re flourish your gut flora ?
+O,"You know , that's where the study is really at this point have demonstrated that it's very temporary ."
+O,"In other words , if you're taking probiotics , you can get a boost initially , but it doesn't sustain itself over time in the natural flora comes back ."
+O,"I mean , the gut microbes will come back as as they've been reduced ."
+O,"But what I'm saying is , is it beneficial to people if they do take a probiotic after antibiotics because antibiotics do have a devastating effect on your ."
+O,Yeah .
+O,"Kills the bad stuff , but it also kills all the good stuff , right ?"
+O,Yeah .
+O,So is it beneficial for people once they have taken an antibiotic to take probiotics or sort of re flourish at least temporary .
+O,Yeah .
+O,Yes .
+O,I'm saying is it .
+O,It doesn't .
+O,The data don't support that .
+O,It stays .
+O,"In other words , you get a short term boost and it gives you some of the new good bacteria ."
+O,But they don't stay or go .
+O,What if you just keep taking it ?
+O,Even then they they just don't stay around .
+O,Your normal gut flora will come back and take over .
+O,So the probiotics in of themselves are not giving you that long term boost .
+O,So you don't think there's any benefit to having even even a short term boost ?
+O,"Well , you know , it's again , I sure I'm not going to profess to be the expert on probiotics ."
+O,"But I tell you , the data we have doesn't show that they have a big boost and that they actually help you long term or short term , meaning that makes any difference ."
+O,"Now , there's one exception to that where I would say and this is a very different thing than probiotics ."
+O,"But we actually have a disease called Clostridium difficile , which is an a bad bacteria that happens when you've taken away too many antibiotics in it colonized your gut because you don't have competing organisms there ."
+O,And then you can die from this .
+O,There are treatments for that called actually fecal transplants .
+O,"Yeah , I've heard of that ."
+O,"And that's where actually there you take it , little capsules ."
+O,But it's actually a drink .
+O,Didn't poop .
+O,"Well , although I'm purified purified bugs from the poop ."
+O,You're right .
+O,But you take that and that's that's that kind of is what you're talking about .
+O,That does have a real benefit .
+O,And there is clear evidence that if you take those those fecal transplants as opposed to just probiotics are such that that can have a major positive impact in your recovery from things like Clostridium difficile infection .
+O,"And so more and more institutions now actually are doing fecal transplants , which you'd never thought that that would be one thing you do one day ."
+O,"But for those who've had this problem there , they're lifesaving ."
+O,Maybe we should change the name that would .
+O,"Although on the other hand , you know , forget it if you're right ."
+O,Did you ?
+O,Yeah .
+O,You don't forget if it's a fecal transplant .
+O,But that's what's going to be .
+O,Yeah .
+O,Nerve wracking to people .
+O,Yeah .
+O,"Yeah , yeah ."
+O,"You know , once you get sick , boy it feels good to take it ."
+O,"It does , you know ."
+O,Have you done it .
+O,I've never done it .
+O,I've never had a problem or I've had to .
+O,"But but for the I've know people who have been desperately sick , who have taken them and have really done much better , much , much better ."
+O,I want to ask you about Lyme disease .
+O,Sure .
+O,Lyme disease is a scary one .
+O,Right .
+O,"And I mean , so many of my friends on the East Coast have it ."
+O,It's really terrifying that that that part of the country in particular seems to be like really badly infected with these these ticks that carry this disease .
+O,What can people do to prevent that ?
+O,And what can we .
+O,There's no vaccine for Lyme disease .
+O,"And I know there was at one point , but people were having an issue with me ."
+O,A good friend of mine .
+O,Her dad actually got Lyme disease from the vaccine before they discontinued it .
+O,What can someone do to sort of protect themselves ?
+O,"Yeah , well , Lyme disease in of itself is a fascinating story ."
+O,I've actually been involved with it since its early discovery in 1980 .
+O,"And Minnesota , Wisconsin was a big focus ."
+O,The upper Midwest .
+O,"And this is a story that I think you'll find interesting is , is that even though it was discovered primarily in the eastern part of United States , named after Lyme , Connecticut , it's a disease that actually probably originated in the upper Midwest ."
+O,"And I tell you that because it turns out that there is a focus in northern Wisconsin and east central Minnesota , where there's Lyme disease , is another disease called Anna PLA's Moses ."
+O,"There's another disease , but Busia , etcetera , that all seem to have a similar kind of tick human dear kind of component ."
+O,"And back in the CCC days of the 1930s , the white tailed deer population had been virtually totally depopulated from the northeast ."
+O,And so they actually trap deer in northern Wisconsin and took them out and deposited in the New York and Connecticut and so forth .
+O,"And most of those deer are actually deer that , you know , today ."
+O,"Their great , great , great , great great grandfather came from Wisconsin ."
+O,Wow .
+O,And guess what ?
+O,When you move dairy and move ticks .
+O,"Fact I was involved with the study that the Wisconsin Division of Health did and a colleague of mine , the late Jeff Davis , where up in northern Wisconsin , there's deer would come into the check station and they would actually measure the number of ticks that were attached to the nape of the neck ."
+O,OK .
+O,And they had a one thing drawn and they asked hunters who were driving back to Madison in Milwaukee if they would be willing to check in at a station down there for just a second .
+O,And then they were going to count the ticks again .
+O,"And it turned out that as the vehicles come rolling down from Highway 51 from northern Wisconsin , get on the interstate 1994 and go to Milwaukee , your Madison , the ticks just kept falling all the time ."
+O,They get to Madison or Milwaukee .
+O,The ticks almost all got well .
+O,Yes .
+O,"Lo and behold , where all the Lyme disease and so forth started to show up right along the interstate quarter ."
+O,Why ?
+O,Because the ticks were coming off and and they were getting into the local deer in that population .
+O,And so it's exactly .
+O,You said the ticks remove .
+O,They're moving .
+O,OK .
+O,They've moved and they're now infected .
+O,So I think that that this Lyme disease issue is a key one .
+O,Lyme disease is really an important disease .
+O,It's real .
+O,No question about it .
+O,"The challenge we have is , is that there's a lot of people that assume that they have chronic Lyme infection and heal the data ."
+O,"And that is just really , really not there to support that ."
+O,"These people are chronically infected , but they do have an immune response likely that occurs where it sets up this trigger ."
+O,And so they're sick .
+O,"They actually have something , but it's not treating it again for the bacteria infection ."
+O,"It's the fact that this body , your own body's immune system , as we've talked about several times today , starts attacking ."
+O,"You say , I think is a similar picture we see with chronic fatigue syndrome , same kind of thing ."
+O,These people really are sick .
+O,"They really do have problems , but it's not something you can treat ."
+O,"So when people I have a challenge because when people take I.V. antibiotics at extended periods of time for Lyme disease , you know , the data show there's four different studies not have been done where people have had what we call a double blind , controlled , placebo controlled trial , where half got the drug , half got a I.V. , but no drug ."
+O,"And it turned out all four of these studies and Lyme disease , the people who got just the placebo did just the same as the people who got the drug ."
+O,And I worry that we're using antibiotics a lot there .
+O,And this is where I just mentioned earlier about colostrum deficit .
+O,We had a patient and a sort of the died from the I.V. treatment for what was chronic Lyme disease and wouldn't have been helpful .
+O,And so we need a lot more research in this area to figure out what are these people getting ?
+O,What is it that we can shut off so that they don't have this chronic Lyme disease picture knowing that it's not actually just you had a treat of more treatments that can help them with the antibiotics anymore .
+O,And so I think that that's an area that we just need a lot more work in .
+O,And the numbers are growing .
+O,As you know .
+O,Yeah .
+O,So we don't we don't know what's happening .
+O,"Well , there's a we have enough data to say your immune system is really cranked up ."
+O,"Her immune system is , you know , reacting to something ."
+O,Yeah .
+O,"Know , it's like rheumatoid arthritis ."
+O,"A lot of things we you know , we , you know , thank God for immune system is what fights off all the bad things we have ."
+O,"But sometimes that immune system gets turned on too much and then it takes on us , OK ?"
+O,And that goes back to the Corona virus .
+O,That's why a lot of these people are dying right now .
+O,Is this over ?
+O,Vigorous immune response and Lyme disease is kind of that insane inciting event where we have evidence now that you could be infected with the bacteria .
+O,"But if we treat you , it's that way ."
+O,It's like every other bacteria .
+O,You can really get rid of it .
+O,But you still have this chronic illness that's occurring .
+O,"And what I think is hard is , is that we see people who have this , who are desperate to have somebody understand what they have ."
+O,"And they end up going to people who take real advantage of clinicians , who charge them an arm and a leg for things that are not going to help them ."
+O,And what we need is a lot more research on what is actually going on and what kind of drugs can we use to reverse this immune system disorder .
+O,"I have a friend of mine who's a UFC fighter , Jim Miller , and he's ."
+O,He's got Lyme disease and it's pretty bad .
+O,He takes a stack of pills .
+O,I don't know what he takes every day .
+O,Yeah .
+O,What do you think someone is taking and what what benefit would they get from that ?
+O,"I couldn't help with I mean , I'm not , you know , without knowing what's there ."
+O,"But again , more often than not , if he's been adequately treated , it's not that the bacteria still growing in him like it might be for a lot of ."
+O,It's an autoimmune .
+O,"It's autoimmune , which is real ."
+O,"I mean , that's the other thing is I think these people just want to be legitimized and said , you know , I'm really sick ."
+O,Right .
+O,And I'm not .
+O,It's not something I'm mentally ill about .
+O,Whatever .
+O,But then we've got to figure out what it is that you have .
+O,And so we really don't know .
+O,We don't know yet .
+O,We don't know .
+O,Wow .
+O,But it's been around for so long .
+O,I know .
+O,But this is where we need a lot more research about this .
+O,So in terms of what is it that's making these people like this ?
+O,And this is really important .
+O,And is there anything they can do to eradicate the text ?
+O,"You know , this is another thing you'll find interesting in Minnesota ."
+O,"Prior to the arrival , the first whiteman , the Native Americans burnt much of our state all the time ."
+O,"The prairies for much of the territory and even in northern Wisconsin , northern Minnesota , we had the classic , you know , pine forest , firewood , white through ."
+O,"And with that , it would open up so much of the forest that you'd have a very different kind of of of mammal's population , deer , etc , etc. and with the suppression of fire ."
+O,"What's happened is we now have instead of having these old growth forests , we have all this younger , you know , non pine or any kind of like the oak trees of the upper Midwest are all disappearing because oak trees need sunlight and fires ."
+O,What kept they were very resistant to fire .
+O,And so the old oak forest and so forth would would survive because of fire .
+O,"Whereas today with no fire , you know , the elms and the maples and everything else comes in and the buckthorn , all that kind of stuff and takes over ."
+O,So so what's happening is in our state of Minnesota is we have a really good example of this is we're losing our moose .
+O,And the big primary reason is brainwork .
+O,It's Limor Brain Worm .
+O,"It's a type of parasite that's common in white tail deer , but causes no problems in moose ."
+O,It actually causes a brain infection that kills them .
+O,And guess why it's happening ?
+O,"Because the deer range has moved farther and farther north in Minnesota , some sort of gap that has moved farther and north ."
+O,"Miller , Minnesota , because of lack of fire , because the force is changing ."
+O,"So now where they're only used to be moose , we're seeing deer and moose and where that intersection is ."
+O,We're starting to see moose develop this brain worm infection because it's from the deer .
+O,"So the tick population has changed , too , and it's largely due to the fire , lack of fire in many places in the northeast ."
+O,Never used to be like it was we had fire all the time .
+O,That would clear out these areas and it was just part of natural everything .
+O,So .
+O,So one of the challenge we have with ticks is they're here .
+O,We're not going to change how we live .
+O,Suburbs and trees and all that .
+O,Controlled burns eliminate a lot of them .
+O,They do because what they do is they just don't eliminate the ticks .
+O,"What they do is they eliminates , for example , the Whitefield mice in all these different species that are important to the ticks and then they bring in different species that will will be there ."
+O,"So , I mean , this is a big debate in Minnesota right now ."
+O,"I mean , we're losing all these moves to brainwork ."
+O,"Ironically , the Mozer population is expanding dramatically ."
+O,I'll Royall .
+O,Why ?
+O,Because there's no deer out there .
+O,And so they're not getting brain worm out there .
+O,"So people have said , you know , we're going to lose our moose well ."
+O,So it's the deer .
+O,So so fire actually has helped the moose in areas in northern Minnesota where there's been a lot of fire .
+O,The moose population is growing because the deer are not there because .
+O,Exactly .
+O,"Those mammals , those rodents and so forth are very different in burnt out areas than they are , in fact , in non burnt-out areas ."
+O,"Well , they do control burns in some states ."
+O,I got a friend who was hunting in Washington state a couple of years ago and he said it was really weird because there these massive fires in the distance .
+O,So we're actually being controlled .
+O,"They do it on purpose , you know , which is a lot better than having the out of control fires where you have so much fuel ."
+O,Yeah .
+O,"And you if you haven't had a forest fire in eighty five hundred years in an area , the fuel in there is huge ."
+O,And so actually they do that in northern Minnesota too .
+O,They're doing controlled burns and the prairies of course we do a controlled burns all the time .
+O,So but the problem with the East Coast is you're dealing with a lot of these sort of almost residential areas that have all these ticks .
+O,You can't get in there .
+O,You can't there .
+O,We have to find ways that that's that's where we really have to have vaccines and treatments for these diseases .
+O,"rUK , get rid of the ticks ."
+O,So we have to do is figure out .
+O,"I mean , wouldn't it be incredible ?"
+O,We have a cocktail vaccine for M. Labissiere for Lyme disease for you .
+O,And that's what we need .
+O,Is there any kind of an animal that eats ticks ?
+O,Birds ?
+O,Yeah .
+O,"Birds will eat them , but not enough ."
+O,Not enough .
+O,"No , no , no ."
+O,They're they're doing very well .
+O,Thank you .
+O,Ticks do very well .
+O,"And that's another issue , you know , for some of the larger mammals , as you know , tick predation can get so heavy , particularly in in in certain times of the year that it really literally takes a lot of blood out of these large animals , even though they're so big ."
+O,She has a lot of in a rabbit hole the other day online .
+O,And I saw this one deer that was covered in these Frisbee sized hatches of text .
+O,That's exactly all swollen also .
+O,And they're full of blood .
+O,"Oh , so ."
+O,And it happens day after day .
+O,So it is a hit on him .
+O,It's a real hit on him to pull up a picture that just freak people up and to watch it online .
+O,It's just they need to see this .
+O,Yeah .
+O,Yeah .
+O,It's maybe a .
+O,"It's one of those things , though , when you talk about ticks and you talk about Lyme disease , most feel their eyes glaze over ."
+O,They don't even care .
+O,It's not affecting me until someone in your family has it .
+O,"How does a guy that I know who was a former UFC fighter , Marcus Davis , who he put , he had his wife got Lyme disease and he's spent hundreds of thousands of dollars trying to trying to help burn and do something about and treatments and all these different things for it ."
+O,"Yeah , it's it's a real challenge ."
+O,It's a challenge .
+O,And this is another area again .
+O,"You know , when you think of the amount of money we lose in just lost time , let alone pain and suffering ."
+O,Yeah .
+O,What an investment to make in this .
+O,"I mean , this this is the kind of thing this is where infectious diseases really need a renaissance ."
+O,I mean .
+O,"Well , we do a lot here ."
+O,We pulled up a chart of the United States where they showed the areas that are affected by these ticks .
+O,And what what percentage of ticks carry Lyme disease they've tested .
+O,"And some places in the northeast , it's in the 60 Purcell ."
+O,Exactly .
+O,"Yeah , it is ."
+O,It's huge .
+O,And it's growing and it's going on .
+O,"I mean , you know , you can understand how wildlife has changed ."
+O,"I mean , look at to think that we have all these wild coyote populations in New York City ."
+O,Yes .
+O,"I mean , it's amazing how animals city in the country ."
+O,Yeah .
+O,You know what the rats aren't doing ?
+O,The coyotes are taken out .
+O,And it's it's it's a challenge .
+O,"I mean , these are fact infectious disease issues , too ."
+O,They're they're very real .
+O,Yeah .
+O,They have coyotes in Central Park .
+O,They do ?
+O,"Yeah , absolutely ."
+O,And in the Bronx they have them .
+O,And it's weird .
+O,It's weird to see because this is something that just didn't exist before .
+O,Look at that .
+O,"I mean , that's good ."
+O,That's OK .
+O,That's OK .
+O,That's not not that's not the best I've seen .
+O,But is gross enough .
+O,"Yeah , it is ."
+O,"It it gives you a good sense of it , though ."
+O,Yeah .
+O,"Dan Flores , who has been a guest on the podcast before , has a great book called Coyote America that sort of details how this came to be and how these coyotes have ."
+O,"Oh , that over that poor deer that look at the eye ."
+O,Look at the eye and the fun .
+O,Yeah .
+O,"Yeah , they're disgusting ."
+O,"But the Toyotas about how when they got rid of the wolves and they tried to do the same to the coyote , they just actually expanded their territory ."
+O,"They're sneaky , very clever little animals adaption ."
+O,"You know , they're just like microbes adaption ."
+O,Yeah .
+O,Is there anything else that we should cover ?
+O,No .
+O,"I mean , I think I've I thank you for covering this issue ."
+O,Thanks to you .
+O,He says we we can use all the help we can to get people to be aware of what's out there and what's coming .
+O,And just keeping the message straight .
+O,And we're gonna get through this .
+O,"But at the same time , it's gonna be a challenge ."
+O,"You know , today you have an underlying health problem and you're particularly over age 50 , 55 ."
+O,I'd say avoid big crowds if you can .
+O,And that's gonna be really important .
+O,And I know that we're gonna work on the critical drug supply to make sure that people aren't without drugs that save their lives every day .
+O,That's gonna be a big challenge .
+O,One more question .
+O,How long does it take to develop a vaccine for this ?
+O,"Rhinovirus Well , you know , when I'm asked a question , I I don't mean to sound glib again , but I'd make a vaccine for overnight ."
+O,"The question is , is it safe and effective ?"
+O,Mm hmm .
+O,And that's the challenge we have right now .
+O,Questions about how do you make community do coronavirus ?
+O,And what kind of vaccine you have to have that brings in all the different parts of the immune system .
+O,So we don't know that yet .
+O,So some of this research is going to have to be basic to that .
+O,"The second thing we have to know about safety , there's a condition in humans called antibody dependent enhancement 80C ."
+O,"And it turns out that if you have no antibody or an immune response , you'll get the disease ."
+O,"If you have a lot , you're protected ."
+O,"But if you had this in-between level and then you get the disease , it actually enhances the disease ."
+O,Immune response is really destructive .
+O,"And in fact , there was just a couple of years ago a major recall of dinky vaccine type of vaccine were used for mosquito infection in the Philippines , where kids who got the vaccine actually made just a little bit of antibody ."
+O,"And when they got the real disease , it made him a lot sicker ."
+O,And so we found with the 2003 Saras vaccine that there was an 80 component to it .
+O,When we made it in animals .
+O,And so we're gonna have to really study this to be sure it's safe .
+O,"And as you said earlier , you know , we can we make mistakes ."
+O,"We don't you know , we need to worry ."
+O,"We can not , too ."
+O,And so I think between getting the effectiveness and the safety data together were years out .
+O,"I mean , maybe years ."
+O,Yeah .
+O,This is not going to happen soon .
+O,"You know , it's wishful thinking , you know , every time ."
+O,"I mean , I go back to Saras in 2003 and look at every event , Zeca two thousand fifteen ."
+O,"We said , oh , we'll have a vaccine for no time ."
+O,Here we are .
+O,"Five years later , we have no vaccine ."
+O,And so this is one of the challenges we have .
+O,We have to complete the job .
+O,"You know , it's like we start on something and then we forget that it's important because it kind of goes away for a while , but only to come back ."
+O,And so this is part of that picture we talked about in this book .
+O,"Peter Hotez talks a lot about , you know , we gotta finish the job on these things ."
+O,"You know , I worry that we'll get through this situation and then people say all we're done and then we'll forget until the next one comes along ."
+O,And so so this is where vaccine research and development is really important .
+O,How do they test for safety ?
+O,"So once they can come up with a potential vaccine , how do they make sure that it's safe ?"
+O,"Well , you do it gradually first while you put it into animals to see and you know , enough about them how their immune response is , what do they do ?"
+O,"Then you put it into a few humans , 30 humans ."
+O,"You know , they volunteer willingly knowing to see what kind of reactions they have ."
+O,"Well , we just take really bad people that are in jail and practice on them ."
+O,"Well , I don't know if that's doable here in this country without their informed consent ."
+O,So I guess I'll just frump could fix that for anybody .
+O,"If we have a shot at doing that with any president , it's ."
+O,Just start with rapists .
+O,Yeah .
+O,"So anyway , the bottom line , though , is , is that then they gradually work their way up to larger studies where , you know , if something happens , one every thousand people , you have to study a lot of people before you know the chance you might find that right ."
+O,Can't do it .
+O,30 people .
+O,So that's why it's gonna take a while .
+O,"And , you know , they'll tested on more and more people and they're going as fast as they can ."
+O,It's not like there is anybody dragging their feet .
+O,"It's just that , you know , I jokingly say it's like if the Iowa farmer wanted a harvest of corn in half the time , it doesn't mean by planting twice as many acres ."
+O,He can do that plant .
+O,"In April , you still can't harvest October ."
+O,That's a good thing .
+O,That's what this is .
+O,It's gonna take us this long to get this vaccine .
+O,"Well , Michael , I appreciate you and appreciate your time and your book , Deadliest Enemy People Go Out and Buy It ."
+O,And thank you for informing us .
+O,Thanks for being here .
+O,Means a lot to us .
+O,Thank you very much .
+O,Thanks .
+O,Take care .
+O,Thank you .
+O,Bye .
+B-AD,"Thank you , everyone , for tuning in to the show ."
+I-AD,And thank you to our sponsors .
+I-AD,Thank you to policy genius .
+I-AD,Policy genius will always get the future wrong .
+I-AD,So better get life insurance right .
+I-AD,"If you haven't found a play by play breakdown of your future inside a crystal ball or a cookie , it's OK ."
+I-AD,Be prepared for anything with life insurance .
+E-AD,Just a few minutes you can find your best price and apply at policy genius dot com .
+B-AD,Thank you .
+I-AD,Also to zoom video communications .
+I-AD,Zoom did not invent video conferencing .
+I-AD,They just made it better .
+I-AD,And now Zoom is how business gets done .
+I-AD,Zoom is used by millions to connect around the world .
+I-AD,Why wait any longer ?
+I-AD,Visit .
+I-AD,Zoom online and set up your free account today .
+E-AD,Meet happy with Zoom .
+B-AD,We're also brought to you by the motherfucking cash app .
+I-AD,The cash app .
+I-AD,Download the cash out from the app store or the Google Play store today and use the promo code .
+I-AD,Joe Rogan .
+I-AD,All one word .
+E-AD,You will receive ten dollars and the cash app will send ten dollars to our good friend Justin Ren's fight for the forgotten charity building wells for the pigmies in the Congo .
+B-AD,"And we're also brought to you by Squarespace , the host of Joe Rogan dot com and a fantastic resource ."
+I-AD,"If you need a Web site , you can build it yourself ."
+I-AD,You build it yourself with Squarespace .
+I-AD,"And their gorgeous designer templates and simple , easy to use , drag and drop user interface ."
+I-AD,"And best of all , they'll let you try it for free ."
+I-AD,Go to square Space.com slash Joe for a free trial .
+I-AD,"Then when you are ready to launch , use the offer Cojo to save 10 percent off your first purchase of a Web site or domain ."
+I-AD,"All right , friends , thank you so much for tuning in ."
+I-AD,Much love to you all .
+I-AD,Stay safe .
+E-AD,And big kiss .

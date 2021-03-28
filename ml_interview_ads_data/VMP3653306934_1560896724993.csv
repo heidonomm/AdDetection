@@ -1,0 +1,465 @@
+B-AD,This subsidy virtue has brought to you by Capital One
+I-AD,Capital One knows life doesn't alert you about your credit card .
+I-AD,That's why they created you know
+I-AD,the Capital One assistant and catch us things that might look wrong with your credit card . Like over tipping duplicate charges or potential fraud then sends a alert to your phone it helps you fix it .
+I-AD,It's not a capital one is watching out for your money when you're not Capital One .
+I-AD,What's in your wallet .
+E-AD,C Capital One dot com for details .
+B-AD,This episode is sponsored by IBM .
+I-AD,The world needs a technology company that applies smart technologies at scale with purpose and expertise not just for some but for all .
+I-AD,Let's Expect More From Technology .
+I-AD,Let's put smart to work .
+E-AD,Visit IBM dot com slash smart to learn more .
+O,Everybody it's Neela from The Verge cast .
+O,This week's interview says a little bit different .
+O,We're trying to experiment .
+O,I think it's going to go really well .
+O,But let me know if you think about James Vincent with me .
+O,Hey James .
+O,Hey Nina .
+O,How's it going .
+O,It's going great .
+O,James is our excellent A.I. reporter and he interviewed Jeff Dean who is head of Google I head of Google's A.I. research .
+O,You might have seen Jeff on stage at Google I O talking to you actually ended the keynote was a big presentation at the end to
+O,James interview Jeff a while ago but I moved so fast that there's been a bunch of things that have happened since that interview .
+O,So I've asked James to join us .
+O,We're gonna run a bunch of clips from James interview with Jeff Dean head of Google .
+O,But because so many things have happened since they talked .
+O,I've asked James to sort of walk us in and out of the conversation and provide the newest information .
+O,So James let's start with the basics .
+O,Tell me a little bit more about Jeff Dean who is why is important .
+O,Jeff Dean is a really big deal for numerous reasons .
+O,He's like an engineer's engineer .
+O,He has been with Google for a very long time and he helped develop some of the technologies that help them scale in the very early days .
+O,And he sort of essential to that growth basically and to their success .
+O,And recently he was made head of a .
+O,So he oversees all of Google's AI products and services and their research as well .
+O,And you know as Sanders always saying that Google is an AI first company now .
+O,So he's basically in charge of Google's entire future at this point .
+O,You know he's the guy who is going to point Google in the direction that's going to continue you know securing its dominance in all these various fields for the next 20 30 40 years however long that planning .
+O,Yeah I didn't think it was interesting that at IO literally the entire keynote ended with Justin just explaining what he's doing .
+O,So there are some big issues of A.I. .
+O,However I think you report on them every day .
+O,We talk about them all the time .
+O,They're they're quite obvious now .
+O,I think they've become sort of common knowledge and the first big one is that when you train these models they tend to reflect a lot of biases and you have to counteract them in some way .
+O,Yeah yeah .
+O,So I I'd bias has been like you know one of the big worries and talking points about AI as it's getting integrated into all these real life applications .
+O,And I think it's like it's a really complicated topic and it's it is even difficult to define what A.I. bias means neatly because there are lots of different ways to use the term bias and you can use it in a statistical sense where it doesn't necessarily mean anything other than a sort of error in results that tend to skew towards a certain sort of error but also bias has human meaning it has sort of meanings in society .
+O,And I like to think of one took my bias .
+O,We're talking about an intersection of these two things we're talking about a technical error that reflects a societal prejudice or that embodies a societal prejudice .
+O,So give me give me an example .
+O,Yes .
+O,So if you think about the ways that algorithms are being used in the real world that they're doing criminal sentencing that judging credit worthiness they're recommending medical treatment .
+O,So it's at these points where an algorithm which has been trained on data is making a decision that affects someone's life .
+O,You know a fantastic example of this is within algorithms used to screen rat's maze or to judge applicants for a job .
+O,So there was this great story a while ago from Reuters he reported first from Amazon who had developed a tool algorithmic tool that they use to screen resumes .
+O,And this tool had been trained on data about you know the sort of people that Amazon likes to employ and who does well at the company and what their engineers are like already .
+O,It looks all that data .
+O,It was like Great .
+O,We're going to use these things to learn what is a good fit for Amazon .
+O,And then when it came to actually analyzing these and resonate it turns out that it penalized women if applicant's CV said that they had attended an all women's college or if their résumé even contained the word women's as it might appear in women's chess club or women's badminton team or something like that their CV their application would be like we'd be down ranked because of that .
+O,And that was because the algorithm you know had just looked at the data that had been presented with which was a male dominated world of computer science and engineering .
+O,And it reflected that data back .
+O,I should qualify that Amazon never launched this tool .
+O,They saw these problems during the development process and they shut it down .
+O,However that is exactly the sort of bias that does make its way into life systems that are making decisions about everyone's life .
+O,So you talked to Jeff Dean who runs all of a journal .
+O,What did he tell you .
+O,So Jeff had a lot to say about this and it's a subject that you know that pretty forward thinking when they talk about it a lot .
+O,And he told me that I should expect .
+O,Bias is a big deal for Google .
+O,They do not want to have it in their systems and they are developing all sorts of things to try and counteract it .
+O,They have their principles which they kind of set out how they want to implement these systems in the real world .
+O,And they also do some very good cutting edge research in terms of developing practical tools for engineers you know the counterbalance to all this or that in response to this is is that really enough just to give a sort of . I a really telling of how these systems are working at the moment is that yes Google has its high principles but Google published those principles after it came to light that the company was building to spur the Department of Defense using algorithms to help build systems that could analyze drone footage .
+O,And there was this huge outcry .
+O,This was the project Marvin's stuff .
+O,And as a response to that Google was like OK you know we need to quote unquote do better .
+O,And when you come out with these principles .
+O,So I think that this dynamic where these companies are doing stuff but are they doing enough and are they only doing it when they get called out for it .
+O,Issues of bias and fairness and machine learning and I are are front and center because often what you do to solve a machine learning problem is you take data from the world and you can collect some training data set for your problem and you train a model .
+O,And then you can maybe do that thing faster or more efficiently or hundreds of times per day instead of five .
+O,And the issue is that often the data you're training on reflects the world as it is not the world as you would like it to be right .
+O,So for example let's say you're training a model to predict who should get a home loan .
+O,And we all know that there's lots of kinds of biases in the home loan process .
+O,And even if you don't include things like someone's race or gender in the input data machine learning models are very good at learning you know . Picking up on patterns and so you can pick up on patterns of certain zip codes .
+O,I mean I should say no alone or whatever because that's what the data you're training on actually showed .
+O,And so there's a whole sequence of research work that's a whole line of research by the entire community really .
+O,And how do you actually take machine learning models and remove certain kinds of . Of bias but keep other kinds of bias because you can't rob the models of all bias because that's sort of . How a lot of their power is you know
+O,in a language model . You want to learn that the word surgeon is associated with scalpel and Carpenter is associated with hammer right
+O,but you unfortunately learn that the word doctor is associated with he beat and the near word nurse is associated with she in many cases because of the nature of the textual data that you're training on . Doctors are more often referred to as .
+O,I think Dean makes a really important point here .
+O,This kid pious and that's bad bias in a way .
+O,Right .
+O,Like the problem is or a problem is that algorithms are reflecting disparities in the data .
+O,And to a certain degree or you know that's what an algorithm is supposed to do it's supposed to look at the data look for patterns in it and then replicate those patterns .
+O,That's just math doing what math does .
+O,However the really tricky thing and why I biases such a huge messy convoluted topic is like it all those biases things you want things you don't want .
+O,So we'll end up being sort of what stops the technical solution i.e. how do we make these down with these what ends up being a huge question about how do we want society to work .
+O,What judgments do we think these machines should be making
+O,every time . This conversation I was up arrives at that point right which is what you're really talking use on and reflection of society
+O,right is Facebook evil because it reflects society at large like so many conversations in tech . And at this point well we are just building a mirror to society .
+O,But there are some solutions to these problems are there .
+O,There are ways to move forward without having to wholly re architect society right .
+O,Yeah yeah .
+O,We are not without recourse in this situation .
+O,As with Facebook you know that there is stuff we can do in this stuff that is being done .
+O,So like a big problem and an obvious problem to take on is data .
+O,So if you are training an algorithm for facial recognition system for example and if you train it purely on white faces if it has to identify or analyze the person's color then it's not going to recognize that data you know just on a pure training level it just hasn't seen that before . So we don't know what to do .
+O,So that's a relatively easy problem because you just have to make sure that the data you will training the algorithm on is representative of the talks you're taking .
+O,But they're much more difficult problems that I could do with the sort of basic technical structure of algorithms .
+O,And one of those is that these black box problem it's often called which is that we can't get out of hand to explain why they make certain decisions .
+O,So if you have an algorithm that is expected to be detecting lung cancer how do you know what it is using to identify cancerous nodules in your lungs .
+O,And so that's a really tricky thing .
+O,And that's something that engineers at places like Google universities as well trying to deal with .
+O,So this is what I asked Jeff .
+O,I said Jack you know what are you doing about this .
+O,Here's what he said .
+O,Recognizing the bias can occur as a really important first step .
+O,There are algorithmic techniques you can do to say I would not .
+O,I would like everyone in these two different groups to have the same chance of achieving a certain outcome .
+O,All other things being equal and that can help there .
+O,Then there's algorithmic ways you can adjust the output of the model to make that the case .
+O,There's some nice work by Moritz Hart and others in this phase .
+O,So we build tools that help you visualize your data your training data understand what kinds of predictions your model is making .
+O,But this is not a solved problem .
+O,This is a ongoing thing where we when we use a I am machine learning thay we apply the best known techniques to remove bias .
+O,But we're also continually developing better techniques that enable us to do that .
+O,We definitely heard Sundar talk about this this year .
+O,This seems to be on everyone's mind
+O,yeah .
+O,Yeah .
+O,Yes .
+O,And I was talking about a specific tool that Google's been developing copycats or testing with concept activation vectors which is the lovely rose right off the tongue .
+O,And this is all about approaching this black box problem which I mentioned .
+O,So it's like saying when you have a neural network which is analyzing a piece of data which bits of the neural network are firing when it makes a decision and then you can kind of dig into that like you would like a physical circuit board and you'd kind of trace where the activation juice was going through and sort of picking apart .
+O,So you know Google is building tools that help deal with this sort of problem but the huge the big question is make is that really enough .
+O,You know just because you have a tool that can work out how an algorithm made a certain decision it's not really going to change how companies behave how governments behave .
+O,Just explain this to me like I'm really dumb .
+O,Why can't the algorithm tell you why it made a decision .
+O,Why can't it say here are the factors I weighed in I weighed these ones highly and this is the result
+O,Oh man I read .
+O,That's a tricky one to answer and I would first of say that there are ways that algorithms can say that a little bit .
+O,There are tools like cars and some other ones being developed in other places that do help with this problem .
+O,So the basics of machine learning is that you don't want to tell a computer explicitly what to do you want it to work out what to do itself .
+O,So you feed it the data you may put some labels on that data and it will try and make connections between the data and the labels in order to make these decisions .
+O,So you might be an example you feed a bunch of pictures of cats and dogs it learns what a cat and a dog looks like .
+O,So in an old age system or in sort of traditional software you might write those rules by hand that you might say if it's got whiskers and a nice cute tail or it's a little it's a little floppy .
+O,Love it .
+O,Right .
+O,You know if it's got poison and it goes well for it's probably a dog fine .
+O,And what obviously scientists learned that this sort of thing which is sometimes referred to is an expert system . Is that writing down all these rules is exhausting and time consuming and often doesn't work anyway .
+O,So instead of doing that you have these systems these architectures neural networks that look at the data and make those connections themselves .
+O,However this is where the big problems start coming in
+O,because they are teaching themselves they are making me share actually complex labyrinth connections these mathematical connections deep within their structures they're forming by themselves and digging into that is really really difficult .
+O,There's just there's no built in mechanism for them to explain why they did that .
+O,That was never part of the brief when these systems were created .
+O,All the people wanted is for it to be good at making these decisions .
+O,You can kind of think of it like it is it's incredibly complex .
+O,It's be because this was not part of the design brief .
+O,We just wanted decisions being made .
+O,We didn't need to know why they were being made .
+O,And now people are saying well it would be really useful if we found out you know
+O,great if you could tell us why you're going to jail
+O,100 percent like you know me doesn't want to know that
+O,I mean that does seem to be the end state right .
+O,The computer decides that you're a criminal and sends you to jail and you maybe want to know why .
+O,Can you re architect the systems to make them more transparent .
+O,Yeah and this is exactly what this stuff like decaf and other systems like doing that sort of you know finding new ways to work out where the algorithm or the network is focusing its attention .
+O,So a lot of these approaches are like the with concept activation banks as
+O,they're saying . OK . So where is the machine looking . In the case of visual data .
+O,So you know like have you ever use one of those sorts of eye tracking software where you're showing a picture and it shows where your gaze .
+O,Yeah .
+O,Yeah .
+O,So there are computer versions of that for machine vision systems where they look to see where the algorithm is looking .
+O,And we go back to the cat dog picture stuff that your algorithm is looking at parts of the face looking at whiskers and it's looking at the tail you go . OK . So it's looking at the stuff that a human would look at .
+O,But if it's like looking at maybe you fed it pictures where all the cats were wearing bow ties and your algorithm is looking around the neck of each animal to see whether it's wearing a bow tie or not and that's how it decides what the cat and dog .
+O,Well you then you know you've made a mistake and you really need to get a better data set which isn't full of pictures of cats on both sides which is a shame you're gonna have to delete all these pictures
+O,just do the best possible dataset .
+O,Quick break for now .
+O,We'll be right back .
+B-AD,Subsidy versus Apache by zip recruiter
+I-AD,people used to stay with the same job for decades but today we like to change it up every once in a while .
+I-AD,Maybe you'd like to work from home .
+I-AD,Are you looking to relocate to a different city .
+I-AD,Whatever the reason the zip recruiter job search app makes finding a new job even easier than it's ever been .
+I-AD,Here's how it works .
+I-AD,You download the app and tell it the kinds of jobs you interested in then super recruiter goes to work looking for roles you're going to like and getting your profile in front of employers who might be looking for someone just like you .
+I-AD,The Apple alert you if an employer likes your profile so you can apply for the gig .
+I-AD,It's basically your own personal recruiter helping you find a better job and you can apply from any device with one simple click .
+I-AD,It's no wonder zip recruiter is the number one rated job search app .
+I-AD,Go download the free zip recruiter job search app today and let the power of technology work for you .
+I-AD,Don't wait .
+E-AD,The sooner you download the free zip recruiter job search app the sooner it can help you find a better job .
+B-AD,When a billionaire like Mark Zuckerberg announces he's going to give a huge gift to public schools 1 400 million dollar .
+I-AD,Normally we celebrate .
+I-AD,But this season on Fox is future perfect .
+I-AD,I'm the skunk in the room always .
+I-AD,I'm the guy who says I don't think this is a good idea .
+I-AD,It's an anti-democratic force .
+I-AD,We're looking at all the different ways that philanthropy clashes with democracy .
+I-AD,We'll tell you stories about big donors .
+I-AD,One day she was looking over her trust and she thought and she crossed out the word indigent and so just left that money for dogs .
+I-AD,We'll tell you about the power that those big donors wield . It was almost like seeing can were playing Sim City in the ways that their philanthropy shapes our lives .
+I-AD,Lower wages for everybody to children and no more .
+I-AD,Well we know what's happened to the Federalist Society over the last 35 years
+I-AD,philanthropy versus democracy .
+I-AD,This season on future perfect
+E-AD,subscribe for free on Apple podcasts or in your favorite podcast at .
+O,We're back with Jim Stinson .
+O,We talked a lot about recognizing pictures of cats and bow ties but it seems like the scariest most controversial use of A.I. right now is facial recognition .
+O,Right San Francisco's just bandit .
+O,You can get through an airport in China . He's just a face like the sort of scale of how it's being deployed is radically different depending where you are .
+O,There's all kinds of different norms around it .
+O,Is that coming up at the research level with the people that you're talking to .
+O,Yeah I mean so I think facial recognition is a really good example of all this stuff as well .
+O,It's a something where there have been multiple studies showing how these systems have exactly these sorts of biases in them .
+O,And this is something where these companies are still pushing them forward all the same .
+O,So a lot of stuff has been done with my keys to shades project which is that by joy but I'm winning .
+O,And she and a lot of people who've been working with her have been doing really fantastic stuff testing these algorithms for example Amazon's recognition algorithm which is one that is being sold to police officers and showing how the systems that these companies have built . Just do two words if you're not a white male .
+O,You know it's really quite like excuse the horrible pun black and white stuff you know like the systems that do have biases in them and yet is still being sold that is still being used .
+O,Still being incorrectly deployed .
+O,You know Amazon's response to this is always well you've tested the systems wrong and they shouldn't work like that in the wild .
+O,We get these very specific instructions .
+O,But you know with this big story out the other day by Clark Garvey from Georgetown showing that actually police have no rules with how they stuff that they had a suspect and the CCTV image of them was too blurry to feed into the facial recognition system .
+O,But one of the cops was like You know what the guy kind of looks like Woody Harrelson .
+O,So they just got a picture of Woody Harrelson from google images drop that and instead in search for Woody Harrelson like you know it's real like Wild Wild West stuff in terms of how the system is being implemented .
+O,Did they capture Woody Harrelson .
+O,Yes they did . The thing that really kind of undermines this story is an example of a case of using this technology was apparently they did . Not see how often Woody Harrelson
+O,it did lead to an arrest but a history could not have done . And that just a huge amount . The problem with taking that approach is that logic
+O,anyway that this is one example where we know that technology has biases in it and it is still being used it's still being deployed and there's no laws about it .
+O,You do have these on occasions you know you boot up San Francisco where the attack is being banned and you know such a great example of you know the home of this technology where it's being developed and the people who know it back and they're like you don't want to use it .
+O,So these will be sexy saying well I don't want my kids on Facebook .
+O,And the interesting thing is this back and forth is happening within tech companies .
+O,So Amazon files space with facial recognition but Google doesn't .
+O,And I guess I said Well what led to this decision not to sell facial recognition
+O,like a lot of technologies . Facial recognition has a bunch of really good uses and some uses that are maybe . A bit undesirable depending on how how you use them .
+O,So for example we do have facial recognition algorithms that we use in something like Google Photos .
+O,Yeah .
+O,So we can identify that you know these seven pictures of the same person in them and then you as a user of the system can say oh yeah that's my my daughter please you know continue to find pictures of my daughter and then when I search for my daughter photos of my daughter I can actually see all the pictures of her .
+O,That seems like a really useful user benefiting you some face recognition .
+O,At the same time we don't offer a general purpose facial recognition API because we think there are real . Some real downsides in terms of surveillance applications that could be built by third parties if we did offer that and that to me is the difference
+O,if you offer a general API . You know you really don't have very much control over how that it gives you .
+O,Yes .
+O,And so for facial recognition in particular because it's a sensitive area you know we've chosen not to offer them .
+O,And really if you look at RTI principles one of them that says we will operate as man is is surveillance related .
+O,So Jeff is saying hey you don't need to worry about this potentially dangerous technology because we at Google know what's best and we won't to sell it to anyone .
+O,Even though a lot of other companies do
+O,so . But there's just an explosion in self finance inside of the companies right .
+O,Microsoft has an A.I. ethics board .
+O,Facebook has some grand vision of it .
+O,Google has one .
+O,Yes .
+O,Lay them out and then tell me if they're in sectors .
+O,Yes .
+O,So the response to this the current AI boom took off in 2012 . Let's say
+O,in the years that followed . You know obviously the experts and researchers knew about the spy problems much earlier . But as it became more mainstream knowledge and you know people like ourselves started talking about them companies reacted by going all right . We're going to do something about it .
+O,They set up ethics committees .
+O,They set up ethics boards .
+O,They published our principles and pretty much any big tech company you want to name you know Google whether it's Microsoft Facebook Amazon IBM whoever they have done something like this .
+O,They've got an ethics code or they've got a set of principles
+O,on one side . This is good .
+O,I think that these companies are thinking about these problems and they are sort of you know hiring people to analyze them .
+O,But there's also been a little bit of a backlash within the ethics community saying that you know the term one academic I spoke to called Ben Wagner . He called it ethics washing which is that the company set up these boards .
+O,They set up these committees they publish these principles .
+O,So whenever whenever someone says sets them .
+O,Like why why are you doing this .
+O,They go Oh well you know we're really thinking about it .
+O,We are we've got top men on this panel looking into it .
+O,It allows them to deflect this criticism and appear to be doing something while doing very little .
+O,The problem with these boards is they have no power .
+O,They can't veto a decision as the company is making and they have no transparency .
+O,You know there was this Microsoft set up this board called by ethics oversight committee or a CEO or something like that it sounds like it came out the Marvel Cinematic Universe and they said in an interview that significant sales quote had been cut off because of the group's recommendations but they never said who the sales were to or what the applications were .
+O,So all we have is Microsoft's Word that it saw a bad thing and it stopped it happening .
+O,But we don't know anything more than that .
+O,And as we've seen with Facebook do we really trust these companies to govern themselves .
+O,Right .
+O,Especially without any transparency into what they're doing or not doing .
+O,Do you see now Amazon employees and shareholders are begging the company to not use recognition which is their facial recognition system in certain ways .
+O,They don't seem to be getting anywhere with that protest .
+O,Yeah I mean so that's exactly the case .
+O,And it's sort of this is where the the problem or the challenge the topic of being biased ties into all these other trends we're seeing in Silicon Valley .
+O,It has gone right to the heart of what employees can protest and whether they can change their companies their employers actions and you know you mentioned Amazon but there's been similar agitation in different companies .
+O,And you know within Google that project map an example as well .
+O,So this is something where employees are definitely agitating from within companies whether or not companies are actually going to listen to their employees . It's an open question and I think as we've seen so far it's not really going . The employees way .
+O,So this brings up an obvious question if we don't trust companies to regulate themselves . Do governments need to do the regulation .
+O,You know if we were we were talking about facial recognition earlier this is a really interesting one .
+O,So Amazon sells it and it's being criticized for it .
+O,Microsoft has called for regulation .
+O,And Google is refusing to sell it altogether because they think it has too many adverse uses .
+O,So Google is saying that here is a really dangerous technology that we could develop and we could say we're not going to .
+O,So they're saying you got to trust us to regulate this stuff .
+O,So I asked I asked Dean I said Is it enough for us to trust companies or do we need governments as well because in their example if they think that facial recognition is too dangerous for them to sell why should they be happy to Amazon selling it .
+O,I mean we last year came out with a set of A.I. principles that we think is a pretty good list of things people should be thinking about as they apply think about applying machine learning to different problems in the world as well as a list of things we will not pursue because we don't think they're compatible with the values that we stand for .
+O,And I think it was really important for us to come together as a company and have our crystallized list of these things rather than sort of vague notions of this because it really helped our thinking .
+O,As we look at new applications of a machine learning we can then look at how they they sort of are compatible with our principles or not .
+O,So I think . You know the reason we made those principles public is also because we think other companies and organizations who are starting to apply machine learning and AI to their own problems more can look at those principles and decide you know those look good or we like some of those . But our business is not necessarily such that we can adopt all of them or whatever .
+O,But I think it does start a good conversation and I think the question around regulation of some of these things there is already regulatory frameworks in place for many things like medical devices and drugs have a fairly strong regulatory regimen in most countries already and . You know the use of A.I. and health care and medicine and . The current regulatory frameworks is is sort of a good starting point .
+O,They might want to be adjusted a bit for things that are more algorithmic rather than a sort of . You know pharmacy will . Tell you . And so on .
+O,But I think you know that that probably makes sense .
+O,Yeah .
+O,In other places I think you you want to interact with governments and policymakers to help them understand you know what is the technology what are the risks of one .
+O,What can it do .
+O,What can it do .
+O,What should they be thinking about
+O,that super interesting right in the market . This company says this is too dangerous .
+O,We don't sell it .
+O,Another company says We think it should be regulated by the government .
+O,And then the third company says we're just selling it .
+O,Then anything can happen .
+O,And there is no overarching regulation for this stuff outside of a few person exemptions going on at certain agencies can't deploy it .
+O,But there is that also the challenges even the regulation that we have which is this self-regulation of an A.I. ethics board has been mired in controversy particularly at Google .
+O,So this is the big thing that happens since you talked to Jeff Dean was Google attempted to set up an A.I. Advisory Board an ethics board .
+O,It quickly fell apart .
+O,Walk us through that .
+O,Yeah I mean so this was something I would have left off just about in person and then didn't get the chance to and it sparked a lot of the backlash that I kind of discussed earlier where academics are saying that companies just aren't doing enough to regulate themselves .
+O,At the end of March Google said you know we want to keep ethical .
+O,We want to do the whole above board .
+O,We're going to have a new advisory board new advisory committee .
+O,They announced this group called the Advanced Technology External Advisory Council .
+O,So again sounds very grand though they were really taking this seriously and it combusted in less than two weeks I think they announced it big fanfare nice little blog post .
+O,It's all going very well .
+O,And then they shut it down .
+O,So the reason for this was they assembled a group of experts and some of these sort of academics some of these were from private companies .
+O,And one of the individuals was the president of the Heritage Foundation Kay Coles James .
+O,So the Heritage Foundation is a conservative think tank .
+O,And you know a lot of it's a lot of its policy positions are exactly the sort of stuff that Google is not happy with .
+O,This includes stuff like climate change denial and anti trans rhetoric from Kay Coles James herself .
+O,So when Google announced this boat it was a huge outcry and very soon there was a petition circulated inside Google for games to be removed .
+O,I think it got signed by just over two and a half thousand people in the end . And also one of the academics who had been going to the board resigned as part of this because they said you know I don't want to be a part of this initiative .
+O,Google kept very quiet about this .
+O,This backlash sort of doubled over .
+O,I'm sure they were just sort of waiting to see where it would go whether it would go away .
+O,It really wasn't going away .
+O,So they shut it down and would have liked to have seen about it but had no chance .
+O,But since Google the question about it and they sent me this statement came clear that in the current environment APAC which is the board can't function as he wanted .
+O,So we're ending the council and going back to the drawing board .
+O,We'll be we'll continue to be responsible in our work on the important issues that A.I. raises . And we and we'll find different ways of getting outside opinion on these topics .
+O,So it'll come at told in that basically
+O,there's nothing more reassuring the promise of one of the world's largest companies that they will continue to be responsible .
+O,Because we know we know these companies are incredibly responsible .
+O,I mean I just can't fathom why they didn't see that this was going to be objective .
+O,I can not to be overly charitable . But if you're running the earlier board that is supposed to generate some policy by which your work will be regulated that might turn into some actual government regulation down the line .
+O,It is not entirely surprising that you would go seek a conservative viewpoint for that .
+O,I think that they saw the specific viewpoint that they arrived at .
+O,They should've seen that coming but that this sort of broader idea that this needs to be across the spectrum of viewpoints before we build a law that governs what seems to be just a tidal wave of technological progress
+O,I see it . And I don't want to be too charitable but you certainly see why they were like well we need someone from the left and someone from the right .
+O,You know like you see how you would build that to sort of insulate yourself from criticism and then the actual specific of choosing the people opened them up to a wellspring of criticism that they clearly did not anticipate .
+O,Yeah yeah .
+O,I just think it's such a good example of when these different interests within companies because no one of Google's principles is like the respect that science .
+O,We make fun of day I think .
+O,Yeah .
+O,And they would be happy to have someone advising them who doesn't respect good science because they downplay the threat from climate change .
+O,I just think you know obviously sometimes you need to take a stand .
+O,You need to say that you know this is this .
+O,This is really happening .
+O,But see what you mean about trying to curry favor in certain sectors of society .
+O,Yeah there's no doubt in my mind at least that part of the reason you sent these boards is say Oh we've already done the work .
+O,Now just pass a law that we've proposed .
+O,We've already we've already done the work it's a bipartisan group that we've assembled take our recommendations and turn them into the light .
+O,That'll be fine you don't have to think about this too hard .
+O,Is that the right move .
+O,Certainly not .
+O,Is there even consensus .
+O,I think it's something that you talked about with with Jeff where some of Google's own researchers were working on outside boards developing proposals that he doesn't agree with .
+O,So one of the interesting sort of troubling fallout from this was a report that was originally lowered that was connected but also to the Google walk out in which ended in Google ending the policy of forced arbitration for sexual harassment claims .
+O,One of the leads that was Meredith Whitaker and the other was Jeff Stapleton and that was a story in Wired about how they had been penalized for their work and actually
+O,it's not clear exactly what has happened since
+O,Google obviously denied that there was any internal retaliation .
+O,But at the time Whitaker for example was told that she would have to quote abandon and quote her work on AI ethics including her work with an institution called AI now which is attached to NYU and does absolutely fantastic research on all the problems we've been talking about .
+O,And this for me is very very very troubling that Google . These reports were entirely true .
+O,I think she denied that there was any retaliation . So whatever
+O,that Google would try and retaliate against someone who is doing exactly the foundational work in mitigating these harms that they say they catch that much
+O,sir James it seems very very complicated to me .
+O,I have to be honest with you the number of competing interests problems solutions and people offering those solutions does not seem in any way simple at this point .
+O,No it's not .
+O,It's hideously complicated and I'm going to say something that's going to make me sound like a complete idiot but like been working as a technology journalist for a while and it is a little politics it's just it always comes about the politics .
+O,If you want this stuff to work correctly it can never just be a technical solution .
+O,It has to be a wider conversation with the with the public about what what they want to happen and that has to be political involvement .
+O,How do you see that conversation taking place right now as it isn't happening in a way that is productive or does that need to change .
+O,It's happening but it's happening slowly .
+O,I think the thing that is often missing is that when the systems and algorithmic system is integrated into a certain decision making process you need to have experts within that original domain not who are not people who are experts in Ai but people who are experts in criminal sentencing and whatever whatever situation it is and they need to be getting feedback about these algorithms .
+O,So for that to happen you need broader education and you need to have money in place to make sure that these checks are being made and we're not just handing the stuff over to the people who design the algorithm because they can't do it by themselves .
+O,So if your average gas listener and you are interested in this stuff and you're very interested in how technology and society and culture interplay with each other and its use A.I. is the center of that what should you be watching .
+O,How do you pay closer attention to this
+O,I mean I would look at how the fallout to the San Francisco facial recognition plays out over the next couple years . Be honest
+O,and look at how politicians are trying to formulate tactics to deal with this .
+O,Yeah I don't know .
+O,You know they read good news sites .
+O,Yeah .
+O,Yeah .
+O,There's so much interesting and fantastic conversation and discussion happening about these topics that you know interest and you want to find out what you can really type night .
+O,Well James where can they follow you .
+O,Because I know you are constantly reporting on these things .
+O,Yeah .
+O,Do you wanna bother me .
+O,You can follow me at JJ Vincent on twitter or just you know head to WWE merge .
+O,That's good .
+O,There's good plug .
+O,Thanks .
+O,I appreciate it .
+O,James thank you .
+O,Thank you so much for talk to you soon .
+O,Thanks to senior reporter James Vincent .
+O,You can check out all of his reporting on A.I. and more virtual com .
+O,Also his Twitter just at JJ Vincent .
+B-AD,Won't let you know that when you push a button as often running a big series called death online . Starting next week
+I-AD,it's a three part series about death and the Internet .
+I-AD,We're really excited about it .
+I-AD,This week have an episode about whether quitting Instagram can make you happier .
+I-AD,Caitlin quit Instagram for a few weeks to see for herself .
+I-AD,You said to listen to find out you must have some drive to the church ask for free and fair podcast Abby use tap to link the show notes get new episodes .
+I-AD,You know so so proud of the first for free and fair podcast app and tap the link in the show notes to get new episodes and please leave a rating interview on Apple podcast .
+I-AD,The producers are asking me to say Apple podcast that's where they want you to go so please go there .
+I-AD,Me up on Twitter I'm at reckless let me know who you want me to interview next .
+I-AD,I love hearing your suggestions were pulling as many people as you can .
+I-AD,We're back on Friday with Peter and Paul .
+E-AD,The regular church in .
+B-AD,Hey everyone this is Kara Swisher editor at large of Recode .
+I-AD,And I'm Scott Galloway NYU Stern professor of marketing Kara
+I-AD,and really I don't know how they let you into that .
+I-AD,Tell me about that
+I-AD,you guys you snuck into that school .
+I-AD,I'm cheap .
+I-AD,I work cheap .
+I-AD,I think I think that woman from Full House got you in .
+I-AD,Right .
+I-AD,That's right .
+I-AD,Varsity Blues .
+I-AD,I can be bribed by the way anyone who wants me to get their kid and certainly 40 bucks and I'll do my best .
+I-AD,Scott .
+I-AD,I'm not above that .
+I-AD,I'm not only a whore Kara I'm a cheap whore .
+I-AD,Scott I want to tell you about our pivot podcast you just got a little taste of it .
+I-AD,He's completely a trashy person I'm trying to class up the joint .
+I-AD,Anyway Scott explain it for the people .
+I-AD,So every week we break down the Turks biggest stories and we taxonomy ize it and learning and how it impacts our larger economy taxonomy housing is my way of saying I'm trying to pretend I'm smarter than I am yeah a Texan and I don't know what that means .
+I-AD,It's gotten I spend all week in the trenches holding business leaders feet to the fire fearlessly tweeting at the Zucker bergs Bezos endorses and we come into the studio and argue about which one of us knows more about what happened this week which is typically me but it doesn't stop him from talking .
+I-AD,Anyway Scott how do you see it .
+I-AD,We have winners and losers .
+I-AD,We make predictions and we try to look at stuff through an unfiltered and unpolished lens .
+I-AD,The journalistic rigour leader in our community of Kara Swisher .
+I-AD,And then there's the other guy
+I-AD,would you care to join us .
+I-AD,Download now .
+I-AD,Write us a nice review .
+I-AD,All right .
+I-AD,Every Friday morning we drop a new episode for the biggest stories of the week and we give context affects your life .
+I-AD,And let me just be clear Scott is a prediction machine .
+I-AD,He's gazed into his crystal ball where he keeps it to tell you about where things are headed .
+I-AD,He's been right on Amazon Tesla Facebook all kinds of things .
+I-AD,How many how many are you keeping a tally Scott .
+I-AD,You know I just stopped to you said prediction machine .
+I-AD,I'm just a machine .
+I-AD,I'm a sassy little means
+I-AD,I'm a machine .
+I-AD,I don't know where we're going with this is looking for all cards .
+I-AD,The other day I was like he doesn't seriously Bromo .
+I-AD,All right .
+I-AD,Okay .
+I-AD,That's right .
+I-AD,Show up with the big dog one word one word every week .
+I-AD,Well Wolf
+I-AD,so that's good too I doubt it does at this point
+I-AD,subscribe to pivot with Kara Swisher and Scott Galloway for free on Apple podcasts or in your favorite podcast
+E-AD,almost worth it almost worth it .

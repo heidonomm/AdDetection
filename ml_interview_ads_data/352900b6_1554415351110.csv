@@ -1,0 +1,600 @@
+O,Hilary Kevin Rose here welcome back to the episode of The Kevin Rose Show .
+O,I'm really excited for today's show .
+O,I have Jake Knapp on the show and Jake is a former colleague of mine .
+O,We worked together at Google Ventures
+O,before we get into his background though just a quick little plug .
+O,Follow me up on Instagram .
+O,I'm at Kevin Rose .
+O,If you have a free hand right now you're not driving .
+O,Switch on over to the Instagram app and just give me a quick follow there and you'll see all the fun stuff that I'm up to and get notifications of new podcasts and all kinds of crazy little experiments I'm doing week to week .
+O,All right so let's talk about Jake .
+O,Jake is probably best known I would say internally for his work on Gmail and also for his work in creating the design sprint
+O,one of the issues that so many people face that are creating products they don't really have an efficient way for people to come together brainstorm new ideas and then actually test these ideas and ship product .
+O,And so Jake realized this and really deconstructed and figured out where all these different roadblocks were and came up with a very efficient five day process . He called the sprint
+O,went off to write a book about how to run your own sprints and then also deployed the sprint process into a bunch of companies that I'm sure you've heard of slack uses this process Uber 23 and Me Lego the New York Times they've all used his method
+O,his book called Sprint has been a New York Times and Wall Street Journal best seller .
+O,It's now available over 20 different languages so you as you can imagine in time Jake does anything new . I always pay attention
+O,and he has a new book out now and this one is how to make time .
+O,It's actually called Make time how to focus on what matters every day .
+O,And Jake is a minimalist to his core .
+O,He doesn't have email apps or browsers on his smartphone even though he's like an ex Google designer .
+O,We get into really a lot of the different methods that he uses to find and reclaim some of this quality time before we do that though I want to talk about some of the press that he's received around the book .
+O,One of the quotes that I love is from Ev Williams is someone that I really respect is the founder of medium and also Twitter and he has to see what he has to say about make time .
+O,He said is someone obsessed with time and how to spend it wisely . I loved this fun and useful book not your normal productivity fare .
+O,So that's a really strong quote coming from someone as brilliant as Ev .
+O,I love the book .
+O,There was a lot of different tools and tricks that I pulled out and have and now incorporate it into my daily life .
+O,So I hope you enjoy this .
+O,This is Jake Knapp and we're talking about make time .
+O,Well Jake thank you so much for being on the show .
+O,It's awesome to have you on because obviously we were co-workers over Google Ventures and I've been following your career . Post us kind of splitting and not being around each other so it's awesome to see you launch a new book .
+O,Oh well it is an honor to be here .
+O,And of course I've been following your career as well before and after we did we worked together .
+O,And so I'm always thrilled to have a chance to chat .
+O,Yeah .
+O,And I really want to jump in today and talk about productivity .
+O,Talk about your new book and also going to just you know your years at Google
+O,Talk about how you started your career there and how you tackle problems and how Google has tackled problems and break them down .
+O,Maybe we start off there .
+O,Do you want to tell us a little bit about your background .
+O,Yeah sure .
+O,So I'm a designer kind of by trade and I had worked for several years at Microsoft before I came to work at Google .
+O,So I came in as someone who was pretty familiar with building software and maybe a more traditional way .
+O,But also I was really obsessed with this idea of productivity and time management .
+O,That's just something that as a parent since I had I've been a parent for 15 years now .
+O,And so my my days at Microsoft were the days when I had a baby and a toddler for the first time and I was able to manage everything and you know how that goes .
+O,I mean yeah I'm in the thick of it right .
+O,Yeah it's it's a lot .
+O,I mean it's also really positive I think for me it was like just to I mean obviously it's positive to have kids but it was positive for my work because I I developed a new level of focus and a new I think a level of attention to the mechanics of how I spent my time .
+O,What were you working on at Microsoft . I'm just curious .
+O,Yeah .
+O,I just think it makes me sound so old .
+O,I was working .
+O,I mean but I guess I am .
+O,I was working on the Encarta Encyclopedia .
+O,That's the one that came on city roms .
+O,Yes yes I remember that .
+O,Well thank you for your product .
+O,That was awesome .
+O,It was great .
+O,It was it was actually great .
+O,I mean honestly like I kind of miss like having kids now .
+O,I kind of miss seeing card encyclopedia because Wikipedia as awesome as it is that there's so much stuff in there like it often that you know the accuracy is a little questionable and like that I mean it's like there's a lot of like quality of content that I miss .
+O,Was this like Windows 95 days .
+O,This was I'm a bit I'm a tiny bit younger than that .
+O,So when I was actually working there my first year was like it would've been like Windows 2000 .
+O,So it's like yes like a little little later than that .
+O,In fact after a kind of peak in Carta which was a great opportunity for me because I was just coming out of school and I got to be in charge of the design of that whole product .
+O,So it was a great way to get it and repetitions and like learn from some people who really knew what they were doing but kind of at a time when Wikipedia was eating our lunch .
+O,So yeah it was it was a good tough time yeah .
+O,So then you made the jump to Google .
+O,Was that a few years later .
+O,Yeah .
+O,So I had been I'd been at Microsoft for a few years I had gone on for .
+O,I worked on another project there and that was this sort of internal .
+O,I mean we were the kind of crazy but we were trying to build a touchscreen hardware device with an app store in my two thousand six two thousand five and six and then that product like we did it I'm dying being killed inside Microsoft .
+O,And if it's not as though we were ever going to execute the way the iPhone would end up being executed like one year later . But it is it is kind of funny how they were they were close .
+O,They were thinking about it
+O,anyway I left Microsoft after that and I went to work at Google and I found myself right away working on Gmail which is super cool for me as a productivity like time management person .
+O,So G.M. had been out for quite a few years at this point .
+O,Yeah I think email came out in I want to say two thousand four and I joined in 2007 like January 2007 .
+O,So yeah it had been around and I mean in many ways the core of how GPL works hasn't changed so much over the years .
+O,Right .
+O,So we were really trying to figure out at that time how to make it how to make G.M. a product that really actually saved you time .
+O,So I think the first sort of wave of G.M. was being able to search your email .
+O,I mean that was like revolutionary .
+O,And of course just having like a lot of storage space was revolutionary .
+O,But one of the things we were really working on at that time when I joined was how do we how do we make it as effective as possible for your time when you go in there .
+O,And so one of the projects I worked on was this thing called Priority Inbox where we would try to figure out which of your mail sort of through machine learning was important to you and what was less important and sort it for you and help you move through your inbox more quickly .
+O,And so that was a super fun project .
+O,It really informed by a lot of the thinking I had been doing and the experiments I'd been doing on myself in terms of like productivity and organizing how I had spent my own days .
+O,Now I've seen those Priority Inbox little nodules that you kind of have on or off .
+O,I've never used that stuff like how does that . I mean I know that you can say this is priority this isn't but is it get better as you train it .
+O,It does yeah .
+O,And that's actually I think one of the real sort of shortcomings of that that tool is that it needs you to tell it what's important for it to work the best so it can kind of intuit from what you what you read and reply to you know watch which things are might be important to you but to really train at the best you have to say like you have to for a while and be like turning those little yellow flags on and off to teach it .
+O,And if you do that and you know I've I've been doing that I love penalty and box I still use it as my main inbox but it does get pretty smart about organizing the emails for you .
+O,What does it look like in terms of what are the data points on the back end that you look at to say this product was successful or not .
+O,Like what are you measuring .
+O,Is it just number of emails read .
+O,Is it because you're sorting this stuff and presenting it back to the user .
+O,I take it that you're looking at how they clicking on the first one and opening up .
+O,How do you quantify that .
+O,This is an interesting thing because there is such a narrative today in the press about how the tech companies are evil .
+O,And I I get why people say that and I think it's important that because of the you know so these large tech companies so much money it's important that people push back on them .
+O,And I should say I don't work at Google anymore and neither do you .
+O,So we're free to we're free to criticize them and I I do have many criticisms but when we were working on Gmail like our measure for success for that product was can we measurably decrease that length of time people spend using their email like we'll know we're doing a good job . If you're using the product less
+O,and that was like the spirit of the folks I saw inside the Google working on those products was like let's make something that's as useful for people as possible so they can get on with their lives and to other things like that was that was sort of the mindset and it's part of the reason why in my life since then and trying to think about how to help people and myself manage smartphones and social media and all these things like my first principle is always I assume like actually good intent by the creators and I think like how can I use this tool that they've made in that way that's best for me and get the best of what they've made but not just blame them or like shake my fists if I if I'm out of control .
+O,Yeah we should mentioned you don't have a dog dying in the background .
+O,That is there's there's some construction going on right .
+O,Yeah there are there are some pretty crazy noises just specially for for you this morning Kevin it's normally pretty quiet around here I was like out 9 a.m.
+O,This is gonna be perfect .
+O,I love it .
+O,It is insanity out here .
+O,So yeah we'll try and get those up in post but good .
+O,Going back to the product stuff .
+O,It's interesting to think about Google and G.M. saying OK less is more .
+O,And then you have social apps that say OK we're Facebook we want to add more as more winners and losers more .
+O,But it's there's a fine line right because in some sense I can see if you're on the product team and you're like listen we are building a feed and constructing a feed that is using algorithms that is presenting you data that you want to see in that you're enjoying .
+O,So if you go from spending two minutes in our app to spending 15 minutes in our app that means in theory you know quote unquote theory like you are actually getting more quality time in our app and enjoying more friends and family and posts and things like that and they assume that to be a good thing .
+O,The upside is for them is more ad views and more revenue .
+O,But you know where do we draw the line that that's kind of the thing that I'm trying to figure out is so many people talk about you know they're using their we all know we're using our smartphones too much but is trying to figure out what is the right balance of different apps and time on device which I think is a is a tough thing to try and figure out .
+O,Yeah .
+O,You know let's let's take a second to just think about like the the thing about Gmail is it is sort of easy to say yeah like we were trying to do the right thing and have people spend less time in their e-mail as well sort of know that people don't like being in their inbox like we do it and I think we we do sort of have this kind of like it's the slot machine .
+O,But yeah but nobody like nobody nobody loves it .
+O,Nobody ever has as Lady except for me I like really think truly love being in my inbox .
+O,But the problem is an app I'm looking at my apps right now my desktop I'm trying to think of an app that I dislike more than real .
+O,Yeah .
+O,Yeah .
+O,Maybe Microsoft Word .
+O,I don't know .
+O,Like I don't think there's anything I think email is just feels like this .
+O,You know what it is this email feels like it's this drip Little Knife jab in the side that never goes away .
+O,It's like this little annoying thing that just keeps coming over and over and over again .
+O,If it becomes a runaway train that's when it feels just overwhelming because you're like OK I just can't get down .
+O,There's this expectation of inbox zero we should all be inbox zero .
+O,We should all get down to nothing and you can never win that game
+O,totally .
+O,And it's like it's like this .
+O,I mean if you imagine like signing up for somebody said like oh hey like we'd like to have this to do us it's a digital to do list .
+O,But the two dudes are gonna come in at random times or other people's to do is not yours but you have to do them and they're not even like clearly labeled like you have to figure out what to do .
+O,That's what it is .
+O,It's like that's what it is like and we're all like OK I guess I'll sign up for that because when we sort of have to .
+O,But it's it's like that I have lost on your watch the show Lost .
+O,We had to enter the code every single day at a certain time and if you didn't get the whole island would blow up or we thought it would .
+O,That's exactly what's going on .
+O,So yeah so .
+O,So OK so .
+O,So granted like I do believe in the good intentions of at least like 99 percent of the folks who work and I think that I do think there was tension and want to make things that are delightful to us like stuff like social media apps like YouTube .
+O,They're most obvious performance standard that's going to be like the signal that the product is it's liked and it's doing well is people are spending more time and there are financial rewards for people spending more time in those products .
+O,So it's part of the also the problem with blaming the tech companies .
+O,Like again like I think people absolutely should put pressure on the tech companies and blame the tech companies all of that negative press is largely warranted and good .
+O,But the challenges if we if all we do is say like they're just like screwing us out of our time like they're just trying to like make us addicted to their products .
+O,The challenges that they're not the best ones to solve it for us .
+O,Right .
+O,So like if we feel like I'm spending too much time on my phone or whatever like the tech companies are not well positioned to fix it for us because it's against their interests like they they might want to .
+O,They might want to make it that way but they actually will make more money if we spend more time on the product and where
+O,they're really good at just those like you know what what folks who work in tech are like really good at doing is making products that people love to use .
+O,It's like getting the people who make Disneyland like the park to you know make like something that once you want to stay away from like they're not good at that they want to make it great they want to make it delightful for you .
+O,Well least Disneyland close though .
+O,There is a time when you can have to go home .
+O,Yeah I feel like that .
+O,Well I mean the split tech has done in the last three to six months has been pretty awesome .
+O,They've gone and said OK well here's some controls both on Iaw and Android and of course it's never going to be part of the onboarding .
+O,It's not like you're ever going to go out and buy an iPhone .
+O,And as part of your new setup process when you're going through the phone it's going to say hey now is some time to enable restrictions and time restriction on the apps that you love and like .
+O,I can't imagine them ever trying to really force that on you .
+O,But the good news is that those settings are there .
+O,So you know you can go in and say Turn my my screen into a gray screen after a certain amount of time on Android or limit me to X number of minutes or hours and these certain apps or at least simian notification .
+O,So I think it's a step in the right direction it's cool that they're doing that but yet it's kind of like you have to go in and hunt for it .
+O,You know yeah here's where I kind of flip from being like really I want to be generous to their motives but I'm skeptical of what they can do .
+O,And I actually do you use any of those .
+O,Are you on Android or I was using both for testing you know so for app development but I would say well gosh this is a whole nother can of worms literally .
+O,Here's the here's the 10 seconds answer potentially an answer is the polish on the iPhone is awesome we know that yeah .
+O,And then I message I can't leave that message on I'm total passage Android the camera is amazing on the pixel 3 the new pixel 3 interesting .
+O,Oh my God .
+O,Like when you're talking about doing especially you have kids and you're like trying to catch them in a certain moment and you wanna do portrait mode .
+O,The fact that they can do portrait mode without having to sit there and say move closer or move backwards move closer .
+O,That's a trick I never use at all .
+O,Yes .
+O,Yes .
+O,They just let you take the picture then they use machine learning to draw the outline and do all the fades and blurs and all of that and it works flawlessly .
+O,It's awesome .
+O,So anyway I this long of that is I would love to be on Android but I have to wait until they fix messaging .
+O,Yeah yeah totally .
+O,Well OK .
+O,So on on I was .
+O,Are you using screen time do you think it's had a big effect .
+O,Yeah I use screen time in I put it all the way on that would you swipe all the way to the right like you get that that screen with all of your different data on there I clean that up a lot so I don't put like news and all that stuff .
+O,I just have like a couple different things like I have a one lunch one tap launched Google assistant and I also show on there the amount of time I'm using my phone and I like those push notifications saying like yesterday you were down 30 minutes from your normal average .
+O,Like things like that .
+O,So it is not a forceful like get out of this app configuration because you can do that .
+O,It's more just like a heads up of where I am . So I know I'm generally mindful about how I'm spending my time on my device .
+O,Yeah .
+O,So I think that's that's great .
+O,And I think I would guess that you're probably on if there was a spectrum of what people are getting out at screen time .
+O,My guess is that your like towards the end of getting the most out of it I feel like for a lot of people maybe myself included it feels mostly like a guilt trip like you know like it's just kind of nagging me and I kind of want to turn it off .
+O,And I think that in my opinion they are not going to whether it's Apple or Google whoever those folks are not going to be able to give us a tool that gives us as much of our attention back for the things that we want it for as we need .
+O,And the reason is that I mean they've they've done this .
+O,They've taken this step but this takes a tremendous amount of pressure off of them like the narrative now is like well they're trying something and to me this is a half measure .
+O,Like if I want my attention back to focus on you know for me you might be like a writing project or if I'm facilitating a design spend with a startup and I need to really be it like working out or spending whatever I'll be Gabby to have one .
+O,If I don't have a meaningful buy time just on the floor doing train tracks with my kid or whatever like I am going to need to shut it all the way off .
+O,And that's not going to be in a tight company's interest so they're going to give us I think like kind of a a half measure because what they're good at doing is making things more compelling .
+O,It's not really in their interests or in their wheelhouse to make things like shut down .
+O,And so everything is like oh do you want to set a time limit on the injury .
+O,I think the default time limit for per app is like 60 Minutes .
+O,You know you can go down to like 15 minutes but 15 minutes throughout the day spread out little distractions is still a time .
+O,And so part of the thing in the new book Make Time which is I think we'll talk about eventually is this idea that you've got to have times of the day .
+O,I feel I have ten times in the day when I'm absolutely like totally the distractions are totally shut off .
+O,And to do that it actually requires me making the decision that I'm gonna I'm going to shut things down I'm going to delete apps either permanently or temporarily I'm going to maybe shut off the Internet in a way that it's not easy to just turn it right back on again .
+O,It has to be more than guilt .
+O,And I feel like the tech companies approach to this has been we can offer you some tools to make you feel a bit more guilty about what you're doing .
+O,Maybe make you aware of it you know and I think for folks who are self-aware like you it's it's providing some benefit but for most of us like me it's just like it's a guilt trip .
+O,And that's not enough .
+O,I think we need a way to create a barrier .
+O,And there are ways to do that .
+O,It's just not the obvious path
+O,but let's let's take one step before we go into ways I would love to hear . Yeah but the individual ways that you do this .
+O,But why do you think this is a bad behavior .
+O,I mean I would say that like you talked to my niece and granted she's younger but I like to use her as an example .
+O,She's addicted to her phone and she's on youtube and she's like doing all these things that she's a teenager right now like prime teens and like for her she's like Why would I want to use this less .
+O,This is my life .
+O,This is what I do this and engage and interact with my friends .
+O,Like how do you convince someone like that or even like you know most of my my friends that my age are like I love my phone I love the things that do you think it's like eventually you feel enough weight and pressure where you're like gosh like I'm just I get some anxiety or or I haven't figured a way to disconnect you think that it has to be this build that eventually emotionally weighs on you enough to where you say OK enough is enough I know that this is bad because I don't feel like you can tell someone I mean everyone everyone kind of knows .
+O,You know we all kind of yeah
+O,yeah I think it's the decision folks have to make for themselves right .
+O,I want to give you like a short answer and then like a super long answer to that the short answer is like it's not intrinsically bad but I think it's it's not as good as what it displaces in our lives .
+O,And so the really the long answer to that is if I you know we were talking about I'm working in Jamelle This is like two thousand eight seven eight nine and I start doing these design sprints at Google
+O,I came up with this process for teams to start when they were starting big projects and I started doing that at Google and then in 2012 I had this moment when I was home with my kids and I was still feeling like I'm really into it like efficiency and how do I be as efficient as possible with my time it just kind of cram everything in and get to inbox zero every day .
+O,And I'm at home with my playing with my sons my two boys and I I find like my son is like Hey Dad why are you looking at your phone like in the middle of nowhere on the floor playing .
+O,And I like I am holding the phone in my hand and I didn't even realize it took it out you know .
+O,Yeah
+O,and I was checking my work e-mail because I want to be totally on top of my work e-mail .
+O,So I'm like at first he asked me and I'm like I gotta check this out you know I'm making excuses but then I like really I look at his face that he wasn't like criticizing me .
+O,He was I mean this was several years ago .
+O,He's 15 now but he was like he was like seven or eight .
+O,He's just like oh like we're playing we're playing Breo trains on the floor .
+O,This is super fun .
+O,So whenever you're doing like it must be really cool if it's cool right .
+O,And so I like had you know I was like ah like I got that low I don't know why . Like there were other maybe moments I think we all have moments and I still have moments all the time and I'm like I'm distracted by this thing you know and I feel bad about it but at that moment I was like yeah like I have been on the wrong path for years because I've been thinking that what I wanted to do is be as productive as possible .
+O,I want to get as much done as possible as fast as possible .
+O,It's responsive .
+O,I want to be up to speed on what was going on on social media all the time and I'm like you know all the time and I was like I was progressing in sort of like a like a linear way in my career .
+O,And but I wasn't I felt like I was just like I realize I can there's all this stuff I feel like I can do or could do or want to do and it's kind of blocked by this noise and I've let it I've let this stuff in you know I just I've given my attention away I just have given it away on time and so that moment was a turning point for me .
+O,I deleted all the social media apps and even like the news apps and YouTube and I even deleted e-mail and even safari .
+O,You can disable Safari on your iPhone I did all of that and that's six years ago I almost seven now and I've kept it off actually .
+O,How do you not have Safari on your iPhone .
+O,You must have you have chrome .
+O,No just a web browser .
+O,Yeah I mean I if there's a moment when I I actually like has to use it for something you can switch it back on .
+O,Like go into settings and switch it back on but I've found that it did the Times and I really need it are actually few and far between .
+O,There's a lot of times when it's like oh god what was the name of that one actor you know and like it's of course we can look that up but actually the conversation goes just fine if you don't you know and there's like a lot of stuff that's in that category where it's actually fine to not know and there's still plenty of things on the phone that I was like you talked about the camera having an amazing camera in your pocket .
+O,Is this a sentence wonderful .
+O,That's wonderful .
+O,That message is amazing .
+O,Google Maps is that amazing amazing tool
+O,podcasts where you know we're doing a podcast great stuff . Even if you take away that other stuff . So .
+O,So what are the things that you would recommend .
+O,Well first of all I have to say I agree with you and that
+O,for me it's funny how many little things that you have that are these dreams that you say to yourself I just don't have time for that .
+O,You know it's like you want to get to it like I didn't have time for it .
+O,But if you cut these things out people don't realize and this is no apply to just mobile devices but like people watch two hours of Netflix a night and they don't realize hey if I just gave up one of those hours or an hour and a half I could do so much more .
+O,It's funny when I talk about you know I build meditation off on the side and I talked to a lot of people that will say well you know I've tried to meditate .
+O,I just I just can't find time .
+O,And the difference is with a lot of these things it's not about finding time .
+O,Finding time has to go out the window .
+O,Forget finding time .
+O,You have to truly make time for these things .
+O,You know it's just a slight change in wording but it means a world of difference when you actually make time for something .
+O,You're setting up and saying I'm going to block off this chunk .
+O,And for me with meditation was a big one because I was doing 10 or 15 minutes a day .
+O,I was like Well that's the time I have an hour every single day . It was it was trying to find time .
+O,So I let go ahead of time this morning I got a meeting and run out .
+O,Okay I'll do it this afternoon after I workout .
+O,I didn't have time to workout and then they would slip and you just like well tomorrow for sure or you know what I'm laying in bed I'm going to do it .
+O,Then you lay in bed you fall asleep like five minutes .
+O,Right .
+O,So it's like I finally figured out that if I just say OK no 30 minutes a day locked in no matter what I'm going to make time for this to happen and it's crazy what happens when you can do that in a big chunk of that especially for people that have kids or people that just work long hours is actually setting aside the time and no matter what . I don't care if I have to like miss a shower or something . I mean that's not gonna be the case but like you know I'm this is this is a priority and this comes before a lot of other things that that I want to do .
+O,So it's like what I do these days is I make time and then stack rank them and say I make sure I'm when I hit these first and then crank them out every single day .
+O,Is that similar to what you're kind of doing as well .
+O,So yes that idea of making time rather than sort of waiting for the time to appear is a it's a it's a really key thing and I mean it's I guess that's it sort of should be obvious but it certainly was not obvious to me for four years and years and years
+O,and the the thing is I guess that the the phone we talked about like the you know all the distractions or the wonderful things that are on our phones and all of the wonderful things like Netflix and like there are wonderful entertainments and things they're all like quite easy like
+O,they're there right there and people like you and I have spent years and years and years making those all these products like as compelling and trying to find product market fit for new ones and you know trying to make them as easy to use as possible and once you get in like make you want to stay as much as possible
+O,I believe with good intent but it means that if you at any given time like you're being cold towards towards those things right .
+O,Like it's a very easy way to feel good to get like a small good feeling by going to your phone watching something on TV whatever and you kind of have to shut that stuff down .
+O,For me I think it has to be shut off for there to become the space and then the time appears like the time often is there .
+O,It's just that it's just like we're fragmenting our attention with distraction or we're burning time on these these really compelling entertainments .
+O,And when you get rid of that then there is space for for those those someday projects .
+O,And for me like back in 2012 it's like I want to be a better parent .
+O,Like I want to be more in the moment with my kids and I want to know I'd wanted to write books for ages and I had I just was like oh I don't have time for it you know and I was like I have time .
+O,So I created it .
+O,You know if I if I just made some choices about what I'm doing .
+O,How do you collect time like I think that it's really easy when I think about OK I can yes I can go without Instagram for until noon or I can do these certain things but like those are little the social media and the different various little news things that I check on my phone and those are little chunks of you know five and ten minute bursts spread throughout the day .
+O,And so it's like yes if I turn those off I would have that time back .
+O,But I feel like I would fill them up with something else is equally as is you know silly or just not really the things I really want to be doing like learning a new language or something like that .
+O,So do you find that it's useful to actually go in and say my calendar I'm drop a half hour chunk for language learning or an hour chunk for the gym .
+O,Do you still use a calendar in that way .
+O,Yeah .
+O,My practice is every morning to start off the day and say what's the highlight of my day gonna be .
+O,And this doesn't mean it's like the only thing I want to do all day but like if I can think forward to the end of the day I imagine it's the end of the day and I was looking back and what would I if somebody said like hey Jake what was the highlight of your day .
+O,What do I want that to be .
+O,So if I choose that thing and I say this is the thing that's going to be the highlight of my day then I could go look at my calendar and say OK when is that thing going to happen .
+O,And I want this highlight to be something that's more than just a task you know .
+O,Like probably something that's a bit significant ideally like 30 60 90 minutes like something you know might be language learning .
+O,Like I feel like language learning is something that I'm struggling to make time for like .
+O,Like for you it's probably already a habit .
+O,But if you think back to when you were starting like you wanted to make time for it the first time and that would have been a highlight of your day that like you started doing it right like so .
+O,So then I would go and look at the calendar and say OK we're like maybe the calendar is packed all the way through but maybe I can say no to a couple of things you know or like maybe I can shift something a little later earlier
+O,there are a lot of ways to maybe there's a time in the evening when I know I'll probably be watching Netflix and maybe I can I can just you know either get rid of that or limit it to a half an hour .
+O,And that's kind of the way I start this by designing the day like looking at the day and saying how do I how do I create the time for that thing knowing that it comes from a place of being excited .
+O,I think that for that word highlight is really important for me because it's like I'm not doing this because I feel like obligated or guilty about doing it
+O,I'm doing it because I want to like I want to have that feeling at the end of the day that that was so cool I got to do that thing
+O,and now if I if I make the tough decisions to not be distracted during that time or throughout the day or whenever it's it's like an investment in the reward that comes from from doing the thing I care about .
+O,How do you decide when there's a highlight .
+O,I love this because I we're actually going into some things that you mentioned in your in your new book .
+O,This is this is a piece of it but I'm curious like you know for me like today for example like language learning definitely want to do it at some point today .
+O,I also want to go to the gym today .
+O,Like those are two things .
+O,And I also want to spend time with my daughter at some point today .
+O,Those are three really important things to me .
+O,And those are kind of like you know I'd like to do those almost every day .
+O,So do you find that a does a highlight have to change from day to day .
+O,Which one of those would you pick .
+O,For me the highlight changes most days .
+O,You know it'll be something different every day .
+O,I want to make a decision each day about where I need that attention .
+O,And it doesn't mean the other things aren't important and don't happen right .
+O,So like it's going to do all three of those things every day and like you like that makes perfect sense .
+O,But it's kind of like where where do I need the attention today .
+O,And again it's often like Gosh I'm starting something new .
+O,So I really need to put my my focus on that when I think about the calendar when I think about making like how I'm going to change things around .
+O,Choosing one thing I think is really helpful .
+O,Like I'm going to prioritize that above everything else
+O,doesn't mean the other stuff won't happen but it's going to be where I focus
+O,or if it's like God I really feel like I really want to have like peak energy for that time when I'm playing with my child .
+O,Like today it's especially important because maybe I've been up and traveling or maybe like you know maybe she's sick or having a hard time at school whatever then I might choose to put the highlight on that and then I'm also going to be thinking you know maybe the time is already there it's already on the calendar but I'm also thinking like throughout the day I want to make sure I'm not distracted when that time comes .
+O,So get done with anything else that has to get done beforehand or I want to have peak energy so I'm not going to like the burnout ahead of time .
+O,Like one thing that I've found I had to make a change for myself is like really mind waiting when I drink caffeine . So I wouldn't be totally like bombed out in the evening crashed because I had too much caffeine earlier in the day
+O,I would just destroy the time I had with my family because I'd be exhausted if I was I was like running at a million miles an hour in the morning .
+O,What do you limit yourself to do you just do .
+O,One cup of coffee a day .
+O,I do .
+O,The key thing for me is like so it's I can do like two to three cups of coffee about I think everybody I think every person is different in terms of what you know just how their metabolism works and everything it varies .
+O,I find it even varies from a day on what else is going on in my life .
+O,You can look in your twenty three and me by the way and if you're a fast metabolize or of caffeine Oh yeah yeah .
+O,And everybody has to also figure out what they're what their cutoff time is and that was kind of the key for me as I I really shouldn't have it before nine ideally unlike or after four .
+O,And like if I have it after four then I can't sleep well and that has residual effects .
+O,Man I'm jealous .
+O,Day over day yeah .
+O,If I remember talking to you another time you're saying you're pretty sensitive to caffeine and sleep .
+O,Is that right .
+O,Yeah .
+O,I mean if I like this morning and how did it 8:00 a.m. And if I go past like 10 A.M. I'm screwed .
+O,So yeah I go really early .
+O,I just have one cup of coffee .
+O,Slowly starting to kind of like dial back the grams of of beans I use everyday down .
+O,I want to get down about 15 or 13 and I've been like a blue bottle cup of coffee from a strong places around twenty three grams .
+O,Okay .
+O,Yeah .
+O,Yeah .
+O,Well you know the cool thing . I mean then you can savor that cup right .
+O,Only one cup like a lot of times if I'm drinking three cups of coffee I'll pay that much attention to that right . I'm dislike cruisin through .
+O,And that's kind of the spirit of the highlight too is that I found . Okay . So part of this goes back it goes back to my my work history and what I was stealing from when you and I were together for several years I was working at Google Ventures when I was doing there was this design sprint .
+O,So this is the process that I had created at Google and it was the cool thing is I'd work with one of our companies for a week and during that week we would run this this checklist of activities that I had come up with for kind of the optimal way for a team to start some big project
+O,and what was cool about that is you'd have the folks in the room you know you'd have like the founders and like but you'd also have like engineers marketers signers stuff like 5 7 people .
+O,And like totally clearing their calendar of everything that was on there I'd make them put away their laptops and phones and every day we would have like we do with a bunch of different tasks but we would have one focal point one like kind of kind of highlight one and that's where this idea sort of comes from because I'd seen so many people go through this process and go through those structured days and I saw people have like one kind of peak of energy and if you if you can say in advance here's what we're focusing on and then you get rid of of those distractions the phones and laptops the quality of work people that are able to do is so much higher .
+O,And that's the potential I think harm in those little checks that are sprinkled throughout the day is that they create what Cal Newport calls it attention . What does it do .
+O,It's like there's there's just a little nag in the back of my brain because I like maybe I check my email before coming into this this meeting or this club whatever I know there's something that I have to get to .
+O,And I wasn't quite able to deal with it yet or even if I was able to deal with it it's still like kind of stays in my brain a little bit you know
+O,and if you like to think of like the human brain it's just like a computer that has fantastic processing power like data center you know like amazing processing power and that's true the human brain is like amazing .
+O,Like we don't have we don't have machinery that can match that .
+O,But our short term memory is like it's like an apple too or something .
+O,It's just like it's like very little Ram .
+O,And so you've got to be really careful about what's in RAM .
+O,And every time we take out our phone every time where we're distracted by the news or whatever we're we're just taking up a bunch of our ram with stuff that might not be the most important thing to us .
+O,It's such a geeky way .
+O,I totally get it though .
+O,I yeah of course that makes sense .
+O,Like we have like four megabytes of RAM that can hold anything like that .
+O,Yeah .
+O,That's funny .
+O,So yeah in your book you talk about obviously the highlight being like the main thing and then you know that makes a lot of sense to me because if I think about I think about what gives me satisfaction like typically what I do the days where I feel the best about my day is when I've accomplished something that I can point to and say like that was a big chunk that I got done and if I have right now I have like a task list right .
+O,So I go in there and I check off a couple of things and I add a few things and I check off a couple of things and it never feels like I set an intention for that day .
+O,And so I just I feel like it just like oh yeah I did a little bit and a little bit and it's always this kind of like well hopefully I do a little more than I add and that's a good day .
+O,But on the days where I say OK today I'm going to accomplish this like I'm going to write this particular piece or you know send out these five investor updates or whatever it may be like and I get that chunk done . I'm like wow today was a good day .
+O,So that that's kind of like what you're saying with the highlight like make find that thing that makes today a good day is that . Is that accurate .
+O,Totally it totally is .
+O,And it's it's so often the case I think that we can end the day or end the week or whatever it can in the year and be like what happened .
+O,Like I can't even remember what happened I know it was on like I was on my computer or I was on my phone or I was in meetings or whatever but I don't even know like what happened .
+O,And and so this is partly it's a way to do the things that matter and like make progress on them right . That's important
+O,but it's also it's just about life like it's also almost about mindfulness .
+O,Like if you if you're intentional about what is going to be the focal point of the day and then and then it happens like you . I find I'm unable to pay more attention to that moment .
+O,I get more out of it and it feels like time slows down a bit
+O,whereas right I'm constantly reacting to the calendar reacting even to my to do list but certainly reacting to email reacting social media reacting to that news .
+O,If I'm constantly reacting then time goes by in a blur and I'm not mindful I'm not aware of what's happening and that is incredibly costly because it's our life like that's what we lose every time that happens like we lose part of our lives .
+O,Yeah no doubt .
+O,I want to get on the cover of the other points the book you also mentioned when we talked about this earlier about trying a distraction free iPhone .
+O,So that's a huge one going in there .
+O,You just recommend just like a full on like purge and deleting above the apps that you've mentioned before is like actually removing them
+O,I know a lot of people like myself I put Instagram on like swipe screen too and I like to think that works but it really doesn't exist yet .
+O,Yeah yeah yeah .
+O,So I mean I think everybody who I feel like this idea like a habit loop is a very well understood idea but let's just talk about how that looked like really quick .
+O,Like you you there's some kind of a trigger we have and then we like to like a little routine and we get a reward and that's kind of how habits form and so we can pretty quickly form a new like routine to swipe to another screen to get to our apps we want to get to it as long as we're still getting a reward at the end .
+O,And so I like to break the loop by actually just getting rid of the app and it happened for me originally . Like I said like back in 2012
+O,I had that that night when I was like You know when my son was like What do you do 100 phone and I just like I deleted everything because I was angry at myself and angry at the phone .
+O,And when I found which was shocking because when I did it I was like Okay I'll try to do this for like a day .
+O,I was shocked by how good it felt .
+O,And the thing that happens when you delete all of the distractions off of the phone when you go all the way to zero it unlocks that attention it gives you your ran back
+O,like even one or two things or even having them like a screen or two away or even having the phone set to gray or whatever like they're still there .
+O,And so again it's back to that county report idea like that attention Reza .
+O,Or like I think of it like you've got some you've got some processes running in your and your RAM and this is like it's just like you get you know it's not it's not going to feel the same if
+O,it's interesting it's interesting to think about the fact that the app actually has to be gone because if if the app is there you always know you can go into it .
+O,And so it is an active little nag because you know it's it's just you know five seconds away if you just unlock your phone and tap it right .
+O,It's like in the Lord of the Rings like when the ring calls right elbow or whoever from the pocket .
+O,It's like it's like Sauron is your brain Yeah you're like 50 rings calling it youth all the same time .
+O,Yeah yeah yeah true .
+O,And this is why . Like I think that we can't wait for the tech companies to solve it because they're never going to just say like oh yeah delete my app it devalues the phone like the phone is not as worth as much money to you if you only use half of the features .
+O,I mean to me it's still worth having the new phone for the best camera .
+O,Like I want to have the best screen and everything . The battery life but but it does devalue the phone if you're not on it for you know six hours every day .
+O,Cash and you have to try this .
+O,You're killing me .
+O,I mean it's high .
+O,So here's the thing .
+O,OK here's the thing .
+O,What I suggest people try .
+O,I just try it for like even just like two hours and if you just like delete delete delete like anything that is not a tool basically .
+O,And I think if anything it has infinite content or like you put it really nicely like anything that where you know that like it could if I went and opened it like there could be something in there like just delete all those things and try it for two hours do it at a time when you know it's not going to be stressful for you when you know that you're not expecting it .
+O,It's interesting you mentioned that was one of things I really enjoyed about your book this idea of infinite content like these these products that just they can't end right .
+O,Like they just like you can keep scrolling you can keep going deeper and deeper and deeper .
+O,Yeah .
+O,And those are like the real dangerous ones right .
+O,Because like there's there's there's certain things like you know a Fitbit app or something where you like you launch it like I got my stats up came out right .
+O,Like that in there .
+O,But but Instagram never ends and it just keeps getting better and better .
+O,Yeah yeah .
+O,Can I put . Can I put these apps on a different phone .
+O,I have like a backup phone .
+O,Can I just like that is not take that one with me everywhere .
+O,Absolutely I think people should experiment with what makes sense to them and that's a big I think another big theme with the book is that like a lot of these systems they're really complex and set for productivity or whatever .
+O,There is no one size fits all solution .
+O,So I have like really poor self-control and for me that I have to have all the apps off of there to get that clarity in my head
+O,I'm not going to assume that that's true for everyone .
+O,Some people may find that something else works for them .
+O,For me it's helpful to have the apps off of the phone but I also frequently have access to my laptop so I can you know I can do a lot of that same stuff on the laptop instead .
+O,And I have people using like second phone or maybe they're using like an iPad or some other things like a different purpose .
+O,We got into a situation where we are on call 24/7 .
+O,We have hooks into us for e-mail and the news media can can hit us 24/7 .
+O,Facebook YouTube Instagram they can hit us 24/7 on Twitter like everybody can hit us 24/7 and we just we never negotiated that .
+O,We just all kind of like slid into it .
+O,The world sort of evolved into that and we never were like Yeah I want that .
+O,I definitely like I want to sign away my attention and give it to you .
+O,And we just need to renegotiate like where we spend our attention and how often we're available .
+O,And so for me like I don't want to be available on email 24/7 .
+O,I want to get it out of my pocket .
+O,E-mail would be the easiest one for me I'm just kind of like mentally going through the checklist here and everybody else do this at home like think about if you were to move Instagram Facebook Safari or whatever browser you're using in news .
+O,It will an email if you want to but I just couldn't .
+O,I don't think I could .
+O,I mean that just shows you how addicted I am to these things because I don't think I could do it .
+O,I just don't .
+O,I like Instagram .
+O,I like Instagram a lot . Actually
+O,it's like it lets me see what my friends are up to .
+O,There's no I don't know it's just .
+O,Yeah .
+O,They're great .
+O,I mean that's the thing that they really are great
+O,but I'm not going to go in uninstalled and reinstalled every day .
+O,Right .
+O,Like so I'm going to have to use an older phone if I'm going to try this .
+O,But even then man it's going to be tough .
+O,Just trying for two hours .
+O,One of the things to I think is we've also been conditioned that it's hard to uninstall and reinstall .
+O,Like if you actually do like delete it and then reinstall it .
+O,It's pretty easy to reinstall it and sign back in .
+O,It's not like it's like oh god like 45 minutes later I'm waiting for .
+O,Yeah but I know I'm going to do that .
+O,I'm going to reinstall it and then I'm not going to uninstall it again like that's it . As a lot of work
+O,maybe .
+O,But if I'm right you will really you'll find the feeling of being off for two hours . Like that kind of interesting like that the phone without that stuff . It's pretty interesting because
+O,it's like this it's like this futuristic tool without the without all the hooks into our brains .
+O,And I find I've just found it to be kind of magical .
+O,But again like for some people getting rid of all that stuff like they don't maybe they don't need to because maybe unlike me you're not like just have such poor self-control that you would be distracted by it all the time but it might just be one thing .
+O,So maybe there's a kryptonite for you like maybe like you said like maybe email you like you hate email like take it off the phone no e-mail is easy for me .
+O,I don't that's I could take that off the phone for sure that my Kryptonite is 100 percent Instagram like that .
+O,That's the one that I just can't give up .
+O,Yes .
+O,What happens delete it .
+O,You've got two phones already anyway so keep it on .
+O,I just write it out .
+O,So what if I want to share something .
+O,Do you have to share it that second like take the photo and share it later .
+O,Yeah I guess I could do that .
+O,You can do that can I . Come on .
+O,It's just an experiment .
+O,Yeah .
+O,You know what .
+O,I'm always down to do an experiment .
+O,So I will I will go in and give that a shot .
+O,So this is kind of an interesting thing because I think of you as someone who is really like very experimental minded .
+O,Yeah but I'm sharing my experiments .
+O,I'm like going into Instagram and like . So it's like it's my tool to share my experiments
+O,so you can think of this as an experiment on your attention so that you can isolate like a scientist .
+O,What effect does Instagram on your phone all the time have on your attention and you have a great way to sort of backstop this because you can you can bring another phone even you know you can if you have another phone in your bag or whatever . Another pocket that has Instagram in it but you'll take the photo you won't have it on your iPhone
+O,if something happens in the moment you'll take the photo and then when you get back home or when you you know you're just going to just going to see what happens to your attention .
+O,Block off some period of time but just in the same way that you would try to experiment to have your body to make it like give yourself a little bit more energy or longevity or health or strength or whatever .
+O,Think about hacking your attention in this way doing something that sounds nuts .
+O,The other thing too that it's important to do in these cases is when you have the feeling of wanting to use that particular thing again rather than go in and reinstall it just sit with that feeling and really explore that feeling .
+O,Just what does that feel like .
+O,Where's it coming from .
+O,What's the what's the weight that you're feeling .
+O,What's the anxiety that you're feeling like .
+O,Just just look at it for a few minutes and I think I feel like when you do that that can really help soften those types of feelings .
+O,You know this is I didn't invent this as a meditation practice where when certain things come up I was actually reading this book that I just finished called mindful drinking .
+O,It's not about stopping drinking .
+O,It's about just like when these types of urges come up especially in social situations cause I'm I'm the person that I don't have any problem not drinking but if I'm with like out with a crowd of unknown people then I'm like I should have a couple of drinks I'll just like loosen you up and I'll get a little bit more comfortable you don't have a little anxiety around that type of stuff
+O,and so you know if you could just sit with those feelings and just like explore and look into them it's really fascinating actually because you never do that like the feeling comes and then you solve the problem .
+O,Right .
+O,Like oh I need any to go on Instagram is going in this game or oh I need to have a drink let me grab a beer like you never really sit with that feeling and see what's behind it and what where does it originate from and it's kind of a fun practice to do as well .
+O,Well our lines are so powerful and surprising when they're given some quiet and I think one of the dangers of being constantly online or constantly having access to these is a way to satisfy those urges is that we don't have quiet and we don't have the chance to let our mind either . And in a very intentional way as you just described or even in an accidental way as when you're bored and a thought or solution to a problem kind of comes into your mind something that's for me often something that's much more sophisticated than what I could kind of consciously push my mind to come up with will appear when there's quiet when I'm forced to just sit at the table and wait for my friend to come back from the restroom and find that you know having a meal together or something .
+O,Those spaces that we're inclined to fill when they're left unfilled . I think good things happen .
+O,Yeah I agree with that a hundred percent .
+O,And for me that's been a good reminder for that is is putting a red rubber band around my phone .
+O,And so when a friend does leave to go use the bathroom it's a great because there's so many like it .
+O,One of the things I do like about screen time on IAW is it shows you the number of pickups that you do with your day .
+O,And I was looking at mine and mine was like one hundred and fifty pickups a day .
+O,It means I'm looking at the device my gosh check checked out and they pick it up one hundred and fifty times as it has .
+O,It's like an addict for sure .
+O,And so that's all of us .
+O,I mean that's not just you .
+O,That's all it .
+O,That's right .
+O,Like that's
+O,Yeah .
+O,But the thing about having a rubber band on your phone is that it's just a quick little do stop stop .
+O,Do I . Do I have to pick up the phone right now .
+O,Do I really have to do it .
+O,And the answer is no .
+O,Like your friends using the restroom you could just like leave the phone and leave device B in the security line .
+O,Simple .
+O,It's so simple and it actually works and it will it will .
+O,You could see it .
+O,You look at your data a couple days later you'll see the pickups go go down .
+O,But yet before we run I just want to get into a little bit more about your book .
+O,Can you give me . I mean we got into a couple of the awesome things that you bring up in the book but give people just a general overview of what they can expect and where they go after having these couple tips should they go and pick up a copy .
+O,Yes .
+O,So make time is kind of the book that I wish I had had back when I was you know when get Microsoft everyone is starting off my career starting off this sort of search for productivity because I think now having had the experiences I've had whether it's designing products or especially working with teams and being able to structure other people's days in the process of doing all these design sprints I feel like productivity is actually a dirty word .
+O,Like we shouldn't say productivity is our goal because being productive just means doing us as much as possible cranking out as many widgets as possible in the factory .
+O,And what we really want I think is to be purposeful like to move with purpose to act with purpose to spend our attention and our day is of purpose .
+O,And so make time is kind of a it's like a cookbook for purposefulness .
+O,And the idea with the book is there are sort of it's meant to be as easy to use and as non and guilt inducing as possible .
+O,It's a sort of framework of four steps that I do every day .
+O,My co-author John's are asked . He does every day .
+O,And one of the thousands of readers who started picking us up would have started to do the ideas you set highlight at the beginning of the day as we talked about earlier .
+O,So highlights the first step and then the next step .
+O,We talk about is laser .
+O,So when you're doing that highlight what are the things you can do to eliminate distraction so that you can actually enjoy and be fully into the task that you're that you're working on or or even if it's just that moment when you're when you're with your family whatever it is that you're fully present and you're engaged in it .
+O,And I will say and I think it is important .
+O,There are like 44 different tactics in the book for this laser mode and you're not expected to do all 44 .
+O,Some people might choose to do three .
+O,Some people might choose to try one whatever but none of them are as extreme as a distraction free .
+O,I think well maybe a couple .
+O,But they're mostly there . They're all all kinds of different techniques that you might try .
+O,I would love to have added Kevin's rubber band .
+O,It's a great one for the second edition and so that's laser mode so highlight laser .
+O,Then we also talk about energized .
+O,So just some very simple things that people can do to build a little bit of physical and mental energy for that cause that's an important part of attention is actually having the physical energy to be present .
+O,And then finally just a simple practice of reflecting which isn't like a big complicated journal it's just an idea of sort of looking back at the day and treating it as an experiment just like we were talking about . Could the Instagram thing be an experiment .
+O,So if Kevin tries that one day at any site that's sort of like actually I didn't have more attention like it was . It was unpleasant
+O,then he might look back on the day and say that had maybe that had a negative effect on my ability to do a highlight or to have a joyful day .
+O,I'm not going to stop doing that experiment or maybe he'll say actually that worked well I'll use that sometimes when I when I really need extra attention or maybe I'll use it all the time whatever
+O,but it's just this idea I feel like so much of my approach to productivity was always beating myself up you know because there's an endless stream of e-mails an endless stream of requests or so much to keep up on .
+O,And I always thought I've got to be perfect I gotta keep my inbox empty and now I feel that I was wrong .
+O,What I really need to do is to be a bit gentler and forgive myself when I make a mistake when a day doesn't go well and then try again the next day .
+O,So that's that's kind of the idea behind my make time .
+O,Just some ways to get more control over our attention on a day to day basis in a way that's not guilt inducing or super stressful .
+O,M.J. thank you so much for your time .
+O,I known that when our time together Google Ventures watching you it just advise all these different startups .
+O,A lot of awesome companies you worked with like Slack and Uber and medium and I know the list goes on and on but helping them figure out their own products .
+O,It's been cool to see how your mind operates and how you deconstruct this stuff and make it really simple and focused and I think this book is a great example of that figuring out how we can go in and really fix these problems that we all kind of feel when we know we could be getting more out of our day and
+O,I love this idea of that one thing per day that highlight per day to kind of win the day .
+O,I always feel good when I accomplish something like that .
+O,So it's certainly something I want to try to implement into my daily routine .
+O,So definitely check out the book it's on Amazon and you have .
+O,Did you happen to have an app or anything coming along with it .
+O,Yeah we do have an app coming out and in fact I worked with some of the same designers that you worked on for one . I know one of the versions of OK so that one's coming out very soon in fact people can get it to make time book dot com and it may by the time you listen this podcast already be available in stores in the app stores .
+O,I'll be enjoying and ISIS .
+O,So yeah just as simple does another does another app for you .
+O,But hopefully this one will give you attention rather than taking it
+O,nice .
+O,I'm glad you worked .
+O,So you're talking to A.J. and smart obviously the designers Yeah you got to give them a little plug they're phenomenal designers and I know you do a lot of work with them .
+O,Great .
+O,Great crew over there .
+O,So awesome Well Jake thank you so much and I hope you hope to have you back on the show soon .
+O,Yeah .
+O,Thanks so much for having me Kevin .
+O,Really fun talking to you .
+O,All right .
+O,That is it for this episode .
+O,If you enjoyed this episode the number one thing you can do is head on over to the I iTunes store where the podcast live .
+O,Do search for the Kevin Rose show and give us a five star review that helps our podcast get recommended to more people and where more people see it . I get even better guests for the show .
+O,Thank you so much and we'll see next time .

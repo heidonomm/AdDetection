@@ -1,0 +1,493 @@
+B-AD,Support for how I built this and the following message come from Ally .
+I-AD,You wouldn't settle for a two star restaurant .
+I-AD,So why do you settle for a two star bank .
+I-AD,Don't be satisfied .
+I-AD,Ally makes it their mission to be better
+I-AD,ally .
+I-AD,Do it right .
+E-AD,Ally a bank Member FDIC .
+O,Hey .
+O,Happy New Year everyone .
+O,If you're listening to this podcast on December 30 First it is the last day of the annual public radio fundraiser so please pitch in right now .
+O,When you give to your local public radio station you are showing your support for our show .
+O,So go to donate dot npr dot org slash built to get your contribution counted for 2018 .
+O,And thanks .
+O,Okay .
+O,Now onto today's show .
+O,If you happen to be planning a brand new project or launching a new idea in the New Year we thought you might get some inspiration from my interview with Perry Chen .
+O,He launched Kickstarter in 2009 and a year later Time named it one of the best inventions of the year .
+O,This episode first ran in July of last year and hope you enjoy .
+O,Weren't you getting stretched out that somebody somebody else is going to beat you to the punch and do the same thing .
+O,I think that certainly comes to mind but I think there's also luck we couldn't have tried to go any faster .
+O,There was just not that much was in our control .
+O,We didn't have a lot of money we didn't have a lot of influence we didn't have a lot of connections .
+O,So we're moving as fast as we could and that's kind of his that's as much as you can do .
+O,From NPR it's how I built this show about innovators entrepreneurs idealists and the stories behind the movements . They built .
+O,I'm Guy Raz and on Today show how Carrie Chen built Kickstarter and with it . The culture of crowdfunding ideas that might have never gotten off the ground .
+O,You know there's a kind of mythical narrative around startups especially if we're talking about tech startups and it goes something like this .
+O,Founder has an idea then founder recruit some friends then friends sit in a room and start writing code and then they try to get the app or the Web site out to the world as fast as possible and then it just explodes it blows up millions of customers sign up and investors start beating down the door .
+O,But today we have a somewhat different story .
+O,This is the story of Kickstarter and it did of course start with an idea but it took eight years before that idea became a reality .
+O,The three co-founders did build a Web site but none of them knew how to code .
+O,And they spent years refining the concept before anything even went live .
+O,And they were working with a very small amount of money .
+O,It's a path less traveled .
+O,It is much less likely to succeed .
+O,It's not how I would recommend anybody attempt to do this .
+O,This is Perry Chen one of the co-founders of Kickstarter .
+O,Perry grew up in New York City .
+O,He went to college in New Orleans where he was really into the local music and art scene .
+O,And after he graduated he came back home to New York .
+O,And like a lot of college graduates he really didn't know what he wanted to do but he knew one thing he needed to find work .
+O,I came back to New York and at the time I'd been deejaying a bunch of New Orleans and I had started to work on my music .
+O,I applied some record labels like you know send my resumé to whatever the worst job they have is where you like you're just stacking C.D. on a shelf Yeah like you're opening boxes and you're stacking cities .
+O,And you know of course I never heard back .
+O,And so that that just didn't happen .
+O,I don't think had any idea .
+O,And then I heard from somebody that they said that a guy we knew at school was looking for warm bodies
+O,to do what
+O,two of all things day trade .
+O,Did you know anything about not like
+O,nothing
+O,nothing .
+O,He just needed people to want to show up and to like click buttons .
+O,Yeah .
+O,You know I think at this time in early 99 it was kind of wild times .
+O,The stock market .
+O,Yeah .
+O,And so I went down I talked to him for 10 minutes
+O,he'd like and he'd like an office in Manhattan .
+O,It was like a large room you know it was like a open floor before dressed in like jeans and t shirts .
+O,You know mostly guys mostly under 40 .
+O,And you know he talked to me and he's like Okay fine .
+O,You know he's like you come in .
+O,You know we'll trade you for five days .
+O,Then you just go trade will put a small amount of money on your account you just trade .
+O,You know there's no clients not selling anybody anything it's just this guy's money .
+O,Wow .
+O,He's like if you do well you know you'll get some of it .
+O,And if you don't just don't worry about it .
+O,And then you know that's a
+O,yeah .
+O,You know they were like You got it was something quite modest like twenty five hundred dollars a month .
+O,You know I mean listen it was you know beggars can't be choosers I was like Sure .
+O,And what happens .
+O,Well literally you just get set down in front of a computer and you're just sitting there by yourself and you can buy or sell stuff
+O,and you were basing your decisions on like what I'm reading The Wall Street Journal or
+O,no not at all .
+O,I mean it's you're buying and selling something in a minute or allow or five minutes you're holding it .
+O,You don't you might not necessarily know the name of the company .
+O,It was like a combination of Mario Brothers and surfing which I've never done .
+O,But you're kind of looking out in the ocean I assume and I see a way of coming so you're like OK it's simple .
+O,It's a little instinctual .
+O,And I did it for maybe a little less than two years or so .
+O,And did you walk away from it with some with some cash .
+O,Yeah with a little bit I mean nothing crazy but definitely decent for somebody in their 20s .
+O,But you know after a while I mean I was kind of like what am I doing .
+O,You know I'm not doing anything I'm not helping anything .
+O,I mean at best what I'm doing is neutral .
+O,I mean I'm not selling somebody on anything . So the traders like to think that they're providing liquidity . Yes some great service but you know it's it's you're doing nothing .
+O,You're shuffling some numbers from one computer to another .
+O,So yeah it's hard to go back to New Orleans .
+O,It's much cheaper than New York .
+O,My intent was to just kind of really focus on working on music to get better as a as a producer as a composer and kind of pickup jobs here and there if I need to
+O,get the idea of Kickstarter come to you at that time .
+O,I think so I think it was .
+O,I always say late 2001 or early 2002 because to be honest you know I can't remember but you know in New Orleans there's jazz festival it's kind of one of the two big right . The year that . You know other than Mardi Gras .
+O,So I wanted to throw a show where I was going to bring in these these two electronic artists from Austria cruder and Dorf Meister .
+O,You thought you'd fly them from Vienna to New Orleans and have them do a gig .
+O,Sure .
+O,I mean you know the hope is that though they would just happen to be in Mississippi .
+O,But yes I mean I was not an event promoter .
+O,So this is all just kind of on the fly .
+O,But it didn't happen and it just kind of bothered me .
+O,You know why is it that I would need to come up with the money and make this decision that this thing would have enough people come .
+O,I thought what if the people that would want to come to the show could have a say in that .
+O,And if enough people could do that before a certain point then the show could happen and if not then it doesn't .
+O,So that that was it .
+O,That was the beginning and what I remember most is that like I would get ideas all the time . And you know but within a little thinking you can find the fatal flaw .
+O,Yeah right .
+O,And so what struck me most about it was like that I couldn't find that .
+O,So at its so it stuck with me .
+O,And so I kind of had this feeling I was like this is this may be something
+O,now . After that feeling I was like OK cool .
+O,And back to regular life music and being in New Orleans and you know riding my bike .
+O,And you know it's a good life .
+O,Jimmer likes your friends from high school or college .
+O,Get off and start careers and whatever like law or finance and think . Yeah . Yeah . Maybe I should I should go into a career .
+O,No .
+O,I mean you know what I felt was I'm living in New Orleans .
+O,I'm working on music .
+O,This is why people work for 35 years and retire so they can move to New Orleans and work on music .
+O,So my jealous of my friend who works . 70 hours a week .
+O,No .
+O,All right .
+O,So you are .
+O,So you're in New Orleans .
+O,You're doing different things .
+O,You had this idea that sort of comes and goes .
+O,And I guess around 2005 you move back to New York right .
+O,Yes exactly and in May of 2005 .
+O,What was the reason why you moved back .
+O,I think it was a lot of things I mean I think that partially because I was moving away from music a little bit .
+O,I was kind of fighting with it .
+O,You know I think a lot of times when you have an idea right and you kind of put it on the shelf of your brain somebody will say something at certain points and I'll remind you .
+O,Yes I think that's kind of what happened
+O,as I was getting close to probably in the final year of New Orleans as I was getting close to coming back to New York maybe even a year and a half .
+O,I think it kind of came back in a more practical way .
+O,I knew that I was going to pursue kickstarter .
+O,You knew that you were going to pursue this idea that a kid had come back to you .
+O,Yeah .
+O,Part of the reason being two is that in New Orleans it would have been pointless at the time .
+O,You know I don't know of any tech community that was there in the early 2000s .
+O,It might have been but certainly I wasn't connected any of it .
+O,So yeah it was my plan . Hey when I went back to New York
+O,how did you meet the guy who would eventually become one of your co-founders . Yancey Strickler .
+O,Well I got a job working at a restaurant in Brooklyn that I actually you know used to love .
+O,You were a waiter there .
+O,I was a waiter there .
+O,Yeah .
+O,And you know I met Yancey after I'd been at the restaurant for a little bit .
+O,He was working at eMusic at the time .
+O,He would come in .
+O,We chatted a bit and we were like talk about music and baseball and then we just hung out a few times and probably pretty early on we hung out maybe the second time or third time I kind of shared with him that I was working on this idea .
+O,Well what was his his reaction when he told him .
+O,He said this is a brilliant idea .
+O,Well it's funny that that was not the reaction .
+O,I mean it wasn't there wasn't the extreme opposite .
+O,But he he was you know it's like I'm not sure .
+O,So I don't know if my thought at the time was that we would be working together but I thought it'd be worthwhile to talk to him .
+O,And you know as we started talking more and more about it and simultaneously becoming better and better friends I think we just kind of naturally came together and started to work together .
+O,Did either of you guys know anything about coding or about how to build a website or or anything like that .
+O,Well I certainly didn't from any technical sense .
+O,I cannot code and I couldn't code but I think I had a sense of what it should feel like .
+O,I know what I like .
+O,I know what I think feels good when I'm on a site .
+O,But from the deep technical stuff . No that was not my background at all .
+O,Yancey probably had been closer but he's not a coder at all either .
+O,So what did you start to do at that point I mean you drove in headfirst into this idea and and what were you doing during the day .
+O,Yeah it was head first .
+O,I mean I was reading blogs on the Internet by people who had started internet companies .
+O,I was reading about it .
+O,And maybe finding a friend or a friend of a friend and you know playing a game of telephone to talk to somebody .
+O,And I did a ton of that and it was slow going but you know you can learn a lot by just kind of googling stuff .
+O,How did you get connected to you have a third co-founder Charles Adler Charles Adler .
+O,Yeah our other co-founder .
+O,We need somebody who a designer user experience person to help kind of mock up the site and an old college roommate of mine from it from freshman year .
+O,He's like oh my friend Charles move to New York and he's doing freelance work put us in touch .
+O,Charles Knight emailed .
+O,He came over to my house and bedside the next day and we worked together kind of like almost every day or every weekday for a couple of months .
+O,You were hand drawing like what would lose some hand drawing or Charles would go into photoshop or illustrator and kind of like you know just rough mockups of stuff and getting into detail like here's the button here's a video here's this is what happens when you click this .
+O,So you know real in-depth I think at the end reproduced a document over a hundred pages about how the site would function with zero coverage and mind you .
+O,And what was it what were you do who are you making this for .
+O,Were you making this for potential investors or we just it was just something that you guys would have .
+O,This was to make it .
+O,This was not for investors .
+O,Yeah this was just you know what we would use when we had the money to hire developers to build it .
+O,But this is critical .
+O,You know you've got to know what you know this is the blueprint .
+O,So when did you guys get investors for money .
+O,It was in 2006 .
+O,I had a friend of mine and her cousin is David Cross the comedian from Arrested Development and many of the Mr. Show and great stuff and so she connected us and we went and had a drink at a bar and I and I talked about the idea and a few months later he invested a little bit of money and that was our first investor and you know it was only two and a half more years for three of the laws the website
+O,and how much money did you have from him and from your other early investors in 2006 .
+O,It took us a year and a half .
+O,So from that point probably from there to early 2008 we raised maybe one hundred and twenty thousand dollars in a year and a half .
+O,So that was all of the money you had to basically pay for server space or whatever you needed to do to find a developer a coder .
+O,All these people
+O,those . Was it
+O,already called Kickstarter . At that point
+O,I think you know at first like the working title for years and my mind was critical mass because it was very much of the mechanism of like you know when you reach a critical mass of support then the thing could happen .
+O,Yeah
+O,but you know I think obviously there's critical mass used in a lot of things as there's the bicycle organization and just it's really mechanical in a way .
+O,So I think I spent that that grueling process which honestly what domain you can get .
+O,And yeah .
+O,And came out with this and was able to get the domain for pretty cheap .
+O,So tell me what the business model was from the outset .
+O,The idea was exactly as you see it today which is to charge a small fee if and only if the project was funded .
+O,So you know if product didn't get funded you know there's no listening fee .
+O,So we would get nothing .
+O,See you See you have this platform .
+O,People would put their projects up
+O,if it's funded . You guys get a cut
+O,what's a percentage cut
+O,5 percent .
+O,So . So Kickstarter at 5 percent .
+O,If it's not funded you would get nothing .
+O,We've got nothing .
+O,Yeah .
+O,So what's interesting about your story which is very different from a lot of other tech companies is you didn't just like get to a minimally viable product like in six months and have it up and running like this was like at least three years .
+O,Yeah .
+O,I mean yeah two and half three years but very different from more classical stores where it's like a couple of friends have worked in the industry who may have connections or they can build it themselves .
+O,I don't think any of us had a sense of where the end of the road was or where the goal was .
+O,But when the three of you like when Yancey and Charles and you would would sort of talk to other people in this NG what's gone on your life and you would say work on this and I'm trying to do this Web site and then you would see them again six months later he said I have a Web has Web site go and book that's coming along .
+O,Do you think people were skeptical or whatever .
+O,Yeah you learn what you learn what it feels like to be a documentary filmmaker or a writer .
+O,You know it's like you so working on the book I'm sure of it .
+O,And I wouldn't blame them .
+O,I mean it was long in the tooth for us certainly to
+O,what weren't . Weren't you getting stressed out that somebody else is going to beat you to the punch and do the same thing .
+O,I think that certainly comes to mind .
+O,But I think there's also like we couldn't have tried to go any faster .
+O,There was just not that much was in our control .
+O,We didn't have a lot of money we didn't have a lot of influence we didn't have a lot of connections .
+O,So we're moving as fast as we could .
+O,And that's kind of his that's as much as you can do .
+O,So I mean why do you think you guys stuck with it .
+O,I think you know people would normally lose patients right .
+O,So was it just a connection between the three of you guys liked each other was it the idea or was just luck that you just stuck it out .
+O,I think it was the idea .
+O,You know so many things don't have access to funds .
+O,There aren't industries or investors or whatever set up around to fund things that cause the market might not be sizable enough .
+O,And then even the things the market might be sizable enough that the deal you have to make to do that you might have to contort your idea into something that starts to not feel like your idea anymore .
+O,Yeah
+O,or you just happen to have money like those can't be the only way that ideas can get off the ground .
+O,I think we saw it .
+O,You know sometimes you just see it .
+O,I guess you're not always right but just seeing it is really a critical .
+O,And so .
+O,And the Web was changing over these years you know these were huge years for the web you know talking about doesn't five doesn't six thousand seven to those eight .
+O,It only made us see that what we're building made more sense not less sense that it was more needed not less that people would engage with it more easily . With the rise of social media with the rise of YouTube not less .
+O,And so .
+O,And of course there's luck involved that that was rising as we were taking our sweet time getting it going .
+O,When we come back the opportunity is Kickstarter had to grow into a much bigger company and why Perry Chan decided not to pursue any of them .
+O,I'm Guy Raz and you're listening to how I built this . From NPR .
+B-AD,Hey everyone just a quick thanks to two of our sponsors who helped make this podcast possible .
+I-AD,First to E why longstanding global advocates of entrepreneurship .
+I-AD,If you are or know an unstoppable entrepreneur running a successful company such as so many of the business leaders featured on how I built this .
+I-AD,Check out the entrepreneur of the year award
+I-AD,U.S. program . Nominations are open through March 8 2019 .
+E-AD,Find out more at e y dot com slash U.S. slash e o y .
+B-AD,Support also comes from Capital One when designer Bev Yang and her team were creating new features for the credit wise app .
+I-AD,They started by researching how people interact with their credit reports .
+I-AD,We realized that most people only wanted to know what's changed so we'll send you an alert anytime we see that anything meaningful changes on your channel union or Experian credit report
+I-AD,credit wise sends credit alerts from two credit bureaus for free whether you're a Capital One customer or not .
+E-AD,You can find credit wise in your app or Play Store . Now .
+B-AD,And before we get back to the show I want to tell you about another podcast that I happen to host .
+I-AD,It's called the TED Radio Hour .
+I-AD,And every week we go on a journey through the biggest ideas emotions and discoveries that fill our world with wonder you should check it out .
+E-AD,You can find it on NPR One or wherever you get your podcasts .
+O,Hey welcome back to how I built this from NPR .
+O,I'm Guy Raz .
+O,So as Perry and his co-founders continue to make slow progress on Kickstarter competitors began to appear
+O,in fact 18 months before Kickstarter went live Indiegogo . Another crowdfunding site was launched
+O,I'm wondering how you were able to kind of withstand the uncertainty of it all .
+O,I mean do you your recollection makes it sound like you were just sort of like yeah you know whatever will this is my thing and I have a plan B and I want to do this .
+O,But I mean most people I think wouldn't feel that way .
+O,They would feel anxiety about the uncertainty .
+O,I mean do you do you think that you're just wired differently .
+O,I mean I felt a tremendous amount of anxiety but it wasn't that anxiety was driving me to give up .
+O,And I think it normalized a little bit over time .
+O,One of the things I noticed not just as we're trying to launch but after we had launch is that those years were so trying that I kind of had to learn to adjust to kind of like stay in the middle you know not to get too high or too low because I think that both happened like somebody might invest a small amount of money and we'd be like super sized you know or Hey we found a developer wants to work with us or whatever these little things that get super excited and you're like OK it's all going to happen with the bar and then something happens where that doesn't come and you're falling down .
+O,Yeah .
+O,And I think that happens so many times the ups and the downs that I think it just I just thought maybe my defense mechanisms kicked in and forced me to stay a bit more in the middle either way right .
+O,When something that seemed amazing happened Darwin maybe saying that same Dyer was about to occur .
+O,So what was a thing I mean it was almost three years from the time that you formed the company to the time that the Web site actually launched what was that was a turning point What enabled you to actually make this thing go live and become a reality .
+O,Well I think that in some ways we made every mistake in the book .
+O,So kind of did that we did one lap that way classic stuff like people with experience telling us you know you shouldn't do something this way .
+O,And us being like Well we appreciate that but like you know it'll be different for us .
+O,And then of course it's like exactly what they said happened we're like duh .
+O,And so I think we had got a little experience after a few years but then there was just people you know we found amazing people .
+O,One of the people we met was Adebayo who really helped us kind of figure out what kind of technology we should be using and helped us interview the developers that we would hire .
+O,And he eventually became our first CTO .
+O,That was tremendously helpful because none of us could review the code that we were that developers were on the right track .
+O,So that was that was really critical .
+O,Those things kind of coming together
+O,yeah .
+O,So when you launch today you launched .
+O,How did you get the word out how did people even find out about Kickstarter .
+O,Well I think you know leading up to when we actually knew we were going to launch or believed we had been talking to people about it telling people you know try to honestly we had to try to build up projects to launch on the site as well .
+O,So there was that outreach leading up to the launch to try to get people to fund their album to fund their whatever their projects were .
+O,And I think we launched with maybe five or 10 projects that first week .
+O,Do you remember what way those projects were .
+O,Well I think the first one might have been drawing four dollars which maybe raised ten or fifteen dollars .
+O,You would just contribute to that Kickstarter campaign and personally draw whatever
+O,you know . I can't recall whether it was that they were making a specific drawing but as part of a reward maybe if you gave five or ten dollars they would also make one for you .
+O,But it was great .
+O,I mean it's amazing to see anything .
+O,I backed that project .
+O,I mean Yancey launched one with our friend Claudia that first day as well which was called New York makes a book which was trying to get people to give 30 dollars .
+O,And everybody who did would get a book and a page in the book to submit whatever material they wanted put another page in .
+O,Did Kickstarter make money right away like with the fees from these projects
+O,for the first six months I think we was free .
+O,You know people don't even know what this is you know how much can you ask them to pay money for it .
+O,Well it was it did people will notice it right away did you guys right away realize that it was successful or was it still kind of underground and in the shadows the beginning
+O,it was a very close part of the wrong word steady and I say that in the sense of that with things on the Internet I think we sometimes have this feeling of Oh my God one day just 10 million people start to .
+O,It wasn't like that .
+O,You know it was like the first week there was 10 projects in second week there was 20 in the third week there was 30 .
+O,You know it wasn't this exponential thing but it was really nice and steady and people got it .
+O,We don't have to go through a long period where like nobody gets this we have to like change a whole bunch of things but it wasn't also like Oh my God we have to hire 20 people tomorrow .
+O,I think we're very fortunate in that you know we were able to hire like one person a month maybe maybe even less than that .
+O,So we could kind of build a culture because it's not one day you come in and the company is triple the size .
+O,Yeah .
+O,Which is it's hard it's hard to make something in those cases .
+O,So as you guys in that first year as you started to kind of open up and allow anybody to to raise money for their projects what kind of projects were you getting .
+O,I mean it's you know it's amazing depth of the human imagination .
+O,You know like tattooing is as well you know anything you can think of films school plays albums concerts people who wanting to fund their residencies . Books a lot of people doing projects who probably weren't doing projects but had ideas and this was an outlet for them like a format for them .
+O,A lot of really whimsical stuff podcasts you know all kinds of things .
+O,So it was amazing to see .
+O,It was really heartwarming .
+O,I just loved it .
+O,I loved it in every way .
+O,You guys . I guess after the launch went out and sought money from big names in the venture capital world like Chris Sacca and others .
+O,How did you what were the terms that you gave them which was Ernie . I mean because once you do that you start to lose control and those investors they want you know they want an exit strategy they want to know how quickly they're going to make money off this thing .
+O,So how were you able to attract investors and avoid . That trap .
+O,I think going into it we knew that we weren't building this to sell this and we weren't trying to create a public company .
+O,And when we went out for investment this was one of the first things we discussed with people .
+O,And first of all with Chris Rock it was angel money .
+O,It was their personal money right .
+O,And that was kind of a purposeful .
+O,You know I think that they can say hey cool you guys want to do your thing and you're not going to try to eat the world and we're done with that .
+O,And it's our own money and it's not that much .
+O,So it's very different I think than a lot of venture funding .
+O,We did have one actual venture capital investor .
+O,Again not that much money .
+O,You need to raise money to presumably hire people and to expand Kickstarter right .
+O,Yeah and to actually get us to help her .
+O,Hey hey you're in a modest even a tiny modest one .
+O,Up until that point you were not getting a salary at all .
+O,No .
+O,You know I think that there was you know some sort of irregular you know 30000 bucks a month here or there for me and maybe Mia Charles but you know again we weren't even charging money at this point so there was no guarantee of that continuing for very long .
+O,In your first year after launch what what was your salary .
+O,It was either 60 or 65 .
+O,Thousand dollars .
+O,Yeah .
+O,So at what point did Kickstarter become profitable .
+O,I think you know the first six months not at all no revenue .
+O,I think within a year after that spread within the first 18 months we got in the black .
+O,And you were the CEO
+O,I was the CEO .
+O,And how did you I guess you know as Kickstarter became more and more popular . A lot of companies that were making sort of gadgets and tech things were using Kickstarter as a way to kind of prototype their their thing that was out there .
+O,Some the companies raised millions of dollars .
+O,I guess that at a certain point you guys just said enough we're not doing this anymore and you think the quote that I read that you gave was we're not a store you kind of stopped allowing Kickstarter to be used as a platform for for these kinds of things right .
+O,Well it's it's not that's not entirely accurate .
+O,I mean basically what happened was that we created kind of additional process for product design projects and they had more of a review process and other projects maybe a more classical creative areas like an album didn't .
+O,And that was really because you know we saw that there was a danger of people kind of approaching Kickstarter and things that were being put up there like a new product as I'm buying this like I'm buying something on Amazon like oh it's going to come exactly in the date that they're saying and we felt that that needed to be understood that Kickstarter is not a store .
+O,Listen if you support a short film you don't expect this short film to be the best short film you ever saw .
+O,Right .
+O,But when people buy like a gadget people can have more of a consumer expectation .
+O,So we said hey you need to show where your prototype is .
+O,You need to add the risks and challenges of this project as you see them
+O,in the checkout process . We had Kickstarter in our store and we linked to some of our policies to let people know what did a product need to do to get here what we might know and what we might not know .
+O,And we want to let people be able to then make the judgment on their own but with a little bit of context from us .
+O,Let's say a company came to Kickstarter and said hey you know we've got this cool new product like like headphones or something and we want to partner with Kickstarter to raise money
+O,kickstarter . We'll do some promotion for us feature the headphones on the home page drive traffic to it and then in exchange you know we'll give Kickstarter a bigger cut like like 10 percent
+O,could could you imagine doing something like that .
+O,Yeah .
+O,Now I don't think so and I've probably had . A request like that in the past .
+O,I guess .
+O,Listen the site is open .
+O,You log on you create a password you know you post your project .
+O,I think it's a lot of times big companies that want to do a partnership they want to sign a contract that's you know we're like listen if you want to go do it go log on the site but if you want like some special stuff from us or whatever I mean that's just not we do it .
+O,It's a relatively open door but you're not any better than some young creator who's working on their first idea .
+O,This platform is built to do what you say you want to do . So you know go for it
+O,how much money has in total . Do you think that Kickstarter projects raised .
+O,Recently we passed the 3 billion dollar pledge Mark .
+O,Wow .
+O,So yeah it's a huge milestone .
+O,Yeah .
+O,I'm again I'm most excited about the money that's gone to projects that really had very little funding sources are really constrained funding sources are funding sources that would really force the creator to contort their project in a way that they might not recognize it anymore and force them to kind of make compromises that a lot of credit people have to do but that are really hard .
+O,That's definitely what I'm most proud of and continue to be excited about .
+O,I've seen Kickstarter described as like the People's National Endowment for the Arts some people have even described as likely a modern day House of Medici which is pretty complimentary .
+O,I mean that's a pretty incredible thing to say about about the site that you created to you .
+O,Do you identify with those descriptions .
+O,Not really .
+O,I mean I listen I'm I'm proud .
+O,But you know the Medicis were giving out large amounts of money and it was a small group in a way we're trying to provide a clear alternative to that .
+O,We know that Whitman had funded some first editions by having subscribers that he wrote their names in the first edition who gave smaller amounts and Mozart funded a concerto in the same way .
+O,Statue of Liberty .
+O,The base was funded they actually they would sell miniatures for a dollar or larger ones for five dollars of the statue that funded the base .
+O,So a lot of stuff that you see on the web is has maybe existed in another form
+O,nothing new under the sun .
+O,Pretty much you know with Kickstarter I think if I was telling a friend that I was working on an album and it was gonna cost me some money to go into a studio to mix down they're not going to hand me five dollars right in a coffee shop but if I put it up on Kickstarter and I'm trying to raise two grand to go to my mixed off my album that same friend may give me five dollars .
+O,There was just this friction there was this social friction before that existed and the model has been able to eliminate that or even put in a way that's socially positive .
+O,So it's the sentiment if you will have people want to help each other bring good and interesting ideas to life .
+O,We have nothing to do with that .
+O,We are enabling that what we think is a good way to do that .
+O,The idea of the model of Kickstarter is just seems like a no brainer now right .
+O,We think about companies like Uber or Airbnb B or companies that connect people with other people and in some ways Kickstarter does the same thing .
+O,And you guys only take 5 percent which is a pretty small amount of money .
+O,I mean you could take lots more money .
+O,Did you ever think about going down that path .
+O,I mean if you're going to try to make a lot of money you know that's almost change the fee is probably not where people would talk about they would talk about raising hundreds of millions dollars in venture capital quadrupling the size of the company and the international footprint doing major marketing campaigns or selling the company and making a ton of money in one shot .
+O,But I think there's also like there's got to be a way that it doesn't have to become this kind of vehicle only for maximizing profit .
+O,You know there was a quote I wish I could find the attribution but it was basically that if a corporation was a person it would be a sociopath .
+O,And when you create something you wanted to share your values .
+O,That's kind of why . Ever since the beginning we we wanted to make sure to hold onto it controls that our forces couldn't drive it that way .
+O,And then two years ago we became a public benefit corporation which is still a for profit company but it means that the obligations of the board and the executives .
+O,In the company is to balance the shareholder interests with . Greater stakeholders including the environment and and your various communities .
+O,And that's it .
+O,That makes it again something more a representation of people .
+O,But really if underneath the mandate is at the end of the day and make the most money for shareholders .
+O,It's a really it's not really a good fit for humans .
+O,And I don't think it's it portends very well for society if this is what we accept as the only way to do it .
+O,You . You are no longer the CEO right .
+O,No no I'm chair .
+O,And what was the story behind that did you just feel like a guy . You know it's it's gotten to a place where I don't kind of need to run it on a day to day basis anymore .
+O,Yeah I mean I think that once we were out there and things were working I started to see that especially since we don't want to sell . Where's this go . If things continue to succeed then it just continues .
+O,That's what we wanted .
+O,We wanted to just continue .
+O,But does that mean I do this till I can't do this and do this for 30 years and then I write a book on leadership that gives us the speaking circuit it's like you know .
+O,So I was like and I also didn't have time to work on other ideas I had in the arts not new companies and so I think we reached a certain point you start to see a window I start to see hey you know a gust of wind isn't going to blow us down .
+O,We've got a great team here .
+O,And so this might be a good moment .
+O,Did you ever get to see courier drift off maestro after all .
+O,No I have not .
+O,I've never seen those guys .
+O,I haven't heard much .
+O,I'm sure they're still out there making music .
+O,I haven't caught up on much of it .
+O,But you could do it now you could kickstart that show .
+O,Now it could kick start the show .
+O,Yeah it's true .
+O,Carrie Chen he's the co-founder of Kickstarter .
+O,When we interviewed Perry back in May of 2017 he was spending most of his time at a studio in Brooklyn working on his own projects .
+O,But later that year after his fellow co-founder and then CEO Yancey Strickler announced he was stepping down Perry actually returned to Kickstarter where today he is once again running the company as CEO
+O,by the way . If you've listened to the segment at the end of our show how you built that . You've probably noticed that more than a few of those companies got off the ground with money raised on Kickstarter .
+O,And please do stick around because in just a moment we're going to hear from you about the things you are building .
+B-AD,But first a quick thanks to one of our sponsors our table .
+I-AD,Whether you're building a product or finding your very first customers or scaling your business air table is powerful enough to keep your team on track .
+E-AD,Get 50 dollars in credits today by signing up at air table dot com slash built .
+O,Hey thanks so much for sticking around because it's time now for how you built that .
+O,And today we're updating a story we ran about a year ago .
+O,My name is Dustin Hoffman .
+O,We live here in Seabrook Texas it's southeast Houston Texas .
+O,Dustin grew up on a ranch and so he spent a lot of time outdoors and around the age of ten or eleven . His parents started to let him hike in the woods by himself .
+O,And since I was a little kid I was obsessed with survival kits when I would go to any store anywhere I would always go immediately to the survival kit section .
+O,And as he got older he started to design some of his own survival gear .
+O,And eventually he got a job with the Texas State Guard .
+O,In this story that you hear all the time when you do these case studies of people who are in survival or emergency accidents is that they were never expecting to get into it .
+O,So you need some tools on you just in case something happens whether it be a natural disaster or an emergency that happens while you're out doing an outdoor activity you need to have those things on you at all times .
+O,But most people just don't have those things on them at all times .
+O,I mean most people do not want to carry a bulky survival kit around on a daily basis .
+O,They don't in the morning go when they're going to work put on their survival kit it's awkward it's weird .
+O,And people don't like to think about that .
+O,So Dustin started to design a survival belt that you could wear every day whether you were heading into the woods or you know just going out to walk the dog .
+O,So when you think about a belt you think it has to be comfortable and it has to still be fashionably appealing .
+O,So the number one goal is to make sure that everything fits comfortably and does not way too much or doesn't look weird .
+O,So as Dustin started to research how to make this belt he found out that someone else was working on virtually the same thing and that person lived about 15 minutes away .
+O,So Dustin contacted him and he said hey you know let's work together and it turns out that other guy was a former engineer at NASA .
+O,So they decided to partner up .
+O,They called a bunch of mills .
+O,They found a military grade webbing for the belt and then they had to figure out how to make survival tools small enough to fit into it .
+O,We had to invent every single small part almost so the foil is a custom foil the duct tape is a custom duct tape .
+O,The water container is a custom water container .
+O,All of the parts and pieces required us to go out and test the heck out of it .
+O,Dustin and his partner worked with almost 30 manufacturers to custom design every miniature gadget that goes into the belt .
+O,We also have a ceramic knife a high quality button compass purification tablets and even with all of this gear on the belt it doesn't weigh a ton .
+O,It's really hard to believe but if you put it on you wouldn't know you're wearing a bunch of survival stuff .
+O,When we last heard from Dustin he and his partner were trying to fulfill orders from a Kickstarter campaign that had raised over a quarter of a million dollars .
+O,And that turned out to be kind of a nightmare .
+O,They had one problem after another in the manufacturing process and had to answer to thousands of angry customers who thought they were getting scammed .
+O,But finally this past May they managed to get all the preorders filled .
+O,And Dustin says he feels relieved when people who had to wait 17 months for a survival belt leave a review that says worth the wait .
+O,If you want to learn more about Dustin and his company why zoo survival gear or hear previous episodes .
+O,Head to our podcast page .
+O,How I built this at NPR dot ORG .
+O,And of course if you want to tell us your story .
+O,Build that NPR dot ORG and thanks so much for listening to the show this week .
+O,You can subscribe wherever you get your podcasts and while you're there please do give us a review .
+O,You can also write to us at H . IBT at NPR Borg .
+O,And if you to send a tweet it's at how I built this .
+O,Our show was produced this week by Casey Herman whose music composed by REM team Edgar Bluey thanks also to J.C. Howard could see Nova Grand Central American poor and Jeff Rogers Our intern is me event cat .
+O,I'm Guy Raz and you've been listening to how I built this .
+O,From NPR .
