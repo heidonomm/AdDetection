@@ -1,12 +1,15 @@
 # Ad Detection from Podcast transcripts
 
 Ad Detection model that takes builds a context of previous **K** sentences, where each sentence is represented with the mean of each of its word embeddings. The context and the sentence being classified are concatenated to form a 50-dimensional sample.
+
 The problem is treated as a binary classification problem, IOB-encoding is changed to just (0/1)).
 
 ### Requirements to run
 
 Necessary packages: `numpy`, `sklearn`  
 Glove 25-dimensinonal embeddings. Run in project root - `wget http://nlp.stanford.edu/data/glove.twitter.27B.zip && unzip glove.twitter.27B.zip && mv ./glove.twitter.27B/glove.twitter.27B.25d.txt .`
+
+To run on custom test data, create a `test_data` folder and place the IOB encoded CSV files there.
 
 ## Metrics
 
