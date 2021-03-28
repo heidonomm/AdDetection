@@ -13,7 +13,7 @@ To run on custom test data, create a `test_data` folder and place the IOB encode
 
 ## Metrics
 
-Ad detection's purpose should be to keep the amount False Positives down, as a high number of the latter would mean filtering out actual podcast content. Thus precision is a key metric to follow. A Linear Regression model achieves a precision score of ~ 63%. Recall on the otherhand is ~17%.
+Ad detection's purpose should be to keep the amount False Positives down, as a high number of the latter would mean filtering out actual podcast content. Thus precision is a key metric to follow. A Linear Regression model achieves a precision score of ~ 63%, with recall score of ~17%, a Naive Bayes classifier achieves the opposite results in terms of recall and precision.
 
 In addition the confidence with which the model labels the data should be taken into account. An additional metric to implement would be the models ability to correctly label full chunks of ads.
 
