@@ -1,6 +1,6 @@
 # Ad Detection from Podcast transcripts
 
-Ad Detection model that takes builds a context of previous **K** sentences, where each sentence is represented with the mean of each of its word embeddings. The context and the sentence being classified are concatenated to form a 50-dimensional sample.
+Ad Detection model that builds a context of previous **K** sentences, where each sentence is represented with the mean of each of its word embeddings. The context and the sentence being classified are concatenated to form a 50-dimensional sample.
 
 The problem is treated as a binary classification problem, IOB-encoding is changed to just (0/1)).
 
