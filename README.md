@@ -6,7 +6,7 @@ The problem is treated as a binary classification problem, IOB-encoding is chang
 
 ### Requirements
 
-Necessary packages: `numpy`, `sklearn`  
+Necessary packages: `numpy`, `sklearn`, `nltk`
 Glove 25-dimensinonal embeddings. Run in project root - `wget http://nlp.stanford.edu/data/glove.twitter.27B.zip && unzip glove.twitter.27B.zip && mv ./glove.twitter.27B/glove.twitter.27B.25d.txt .`
 
 To run on custom test data, create a `test_data` folder and place the IOB encoded CSV files there.
